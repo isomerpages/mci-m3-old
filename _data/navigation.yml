@@ -1,0 +1,63 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/about-m3/
+  sub-links:
+  - title: About M3
+    url: /who-we-are/about-m3/
+  - title: Vision And Mission
+    url: /who-we-are/vision-and-mission/
+- title: Three Focus Areas
+  url: /three-focus-areas/marriage-parenthood-and-early-childhood/
+  sub-links:
+  - title: Marriage Parenthood And Early Childhood
+    url: /three-focus-areas/marriage-parenthood-and-early-childhood/
+  - title: Vulnerable Individuals And Families
+    url: /three-focus-areas/vulnerable-individuals-and-families/
+  - title: Empowering And Mentoring Our Youths
+    url: /three-focus-areas/empowering-and-mentoring-our-youths/
+- title: M3@WGS
+  url: /m3-at-WGS/
+- title: M3 Towns
+  url: /m3-towns/tampines/
+  sub-links:
+  - title: Tampines
+    url: /m3-towns/tampines/
+  - title: Pasir Ris Punggol
+    url: /m3-towns/pasir-ris-punggol/
+  - title: Nee Soon
+    url: /m3-towns/nee-soon/
+  - title: Jurong
+    url: /m3-towns/jurong/
+  - title: Bedok
+    url: /m3-towns/bedok/
+  - title: Chua Chu Kang
+    url: /m3-towns/chua-chu-kang/
+  - title: Marsiling Yew Tee
+    url: /m3-towns/marsiling-yew-tee/
+  - title: Woodlands
+    url: /m3-towns/woodlands/
+- title: Media Centre
+  url: /media-centre/
+  sub-links:
+  - title: All
+    url: /media-centre/
+  - title: News
+    url: /media-centre/news/
+  - title: Media
+    url: /media-centre/media/
+  - title: Publications
+    url: /media-centre/publications/
+- title: Be a Volunteer
+  url: https://www.google.com
+- title: Useful Links
+  url: https://www.google.com
+  sub-links:
+  - title: WGS
+    url: https://www.google.com
+  - title: Kunir Office
+    url: https://www.google.com
