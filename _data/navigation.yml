@@ -7,7 +7,7 @@
 - title: Who We Are
   url: /who-we-are/about-m3/
   sub-links:
-  - title: About M<sup>3</sup>
+  - title: About M<sup><sup>3</sup></sup>
     url: /who-we-are/about-m3/
   - title: Vision And Mission
     url: /who-we-are/vision-and-mission/
@@ -20,9 +20,9 @@
     url: /three-focus-areas/vulnerable-individuals-and-families/
   - title: Empowering And Mentoring Our Youths
     url: /three-focus-areas/empowering-and-mentoring-our-youths/
-- title: M3@WGS
+- title: M<sup><sup>3</sup></sup>@WGS
   url: /m3-at-WGS/
-- title: M3 Towns
+- title: M<sup><sup>3</sup></sup> Towns
   url: /m3-towns/tampines/
   sub-links:
   - title: Tampines
