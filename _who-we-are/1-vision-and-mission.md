@@ -11,5 +11,5 @@ A Singapore Malay/Muslim community that progresses together on a meritocracy tha
 ### **Mission**
 M 3 seeks to harness each other’s strengths, mobilise community assets &amp; resources as well as collaborate with Government agencies &amp; Malay/Muslim Organisation to address community’s challenges, in particular in the area of last mile service delivery.
 
-### **Infographics**
-![Infographic about M3](/images/m3-infographic.jpg)
+### **Infographic**
+![Infographic about M3](/images/m3-infographic-eng.jpg)
