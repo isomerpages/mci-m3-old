@@ -20,8 +20,6 @@
     url: /focus-areas/vulnerable-individuals-and-families/
   - title: Empowering And Mentoring Our Youths
     url: /focus-areas/empowering-and-mentoring-our-youths/
-- title: M<sup><sup>3</sup></sup>@WGS
-  url: /m3-at-WGS/
 - title: M<sup><sup>3</sup></sup> Towns
   url: /m3-towns/tampines/
   sub-links:
@@ -57,6 +55,8 @@
 - title: Useful Links
   url: https://www.google.com
   sub-links:
+  - title: M<sup><sup>3</sup></sup>@WGS
+    url: /m3-at-WGS/
   - title: WGS
     url: https://www.google.com
   - title: Kunir Office
