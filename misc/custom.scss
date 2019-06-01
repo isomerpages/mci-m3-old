@@ -361,8 +361,8 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Styling for paragraphs in italic
-.desc {
-	font-style:italic;
-	margin-top:0;
+.content p .desc {
+  font-style:italic;
+  margin-top:0;
 }
 
