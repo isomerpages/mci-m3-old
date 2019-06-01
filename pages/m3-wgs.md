@@ -26,6 +26,7 @@ Primary objectives of the M<sup>3</sup>@WGS:
 .tg .tg-mxwc{font-weight:bold;background-color:#1b8d7b;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+  
 </style>
 <table class="tg">
   <tr>
@@ -33,11 +34,11 @@ Primary objectives of the M<sup>3</sup>@WGS:
     <th class="tg-mxwc">Agency</th>
   </tr>
   <tr>
-    <td class="tg-0pky">Zakat Payment<br>Donations (Wakaf Ilmu, Dana Madrasah, RLAF)<br><br>Facilitate info referral for financial assistance applications<br></td>
+    <td class="tg-0pky">Zakat Payment<br><br>Donations (Wakaf Ilmu, Dana Madrasah, RLAF)<br><br>Facilitate info referral for financial assistance applications<br></td>
     <td class="tg-c3ow">MUIS</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Programme registration/applications for:<br><br>- Educational Programmes<br>- Financial Assistance Schemes<br>- Employment Services<br><br>Disbursement &amp; Repayment for:<br><br>- Education Trust Fund<br>- Study Loans</td>
     <td class="tg-c3ow">MENDAKI</td>
   </tr>
 </table>
