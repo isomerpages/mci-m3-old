@@ -45,8 +45,9 @@ Rehabilitation is a challenging journey not only for ex-offenders. Many do not s
 
 FITRAH also works with identified mosques to offer after-care services and programmes for ex-offenders and their families. It also helps refer the families to 31 mosques for zakat financial assistance. Here, the families can benefit from support programmes as well as Islamic Education programmes under aLIVE, ADIL and Home-based Islamic Learning.
 
-<sup>1</sup>This is a voucher which may be exchanged for staples at supermarkets, to help with family expenses. The vouchers are funded by MUIS through community funds which it
-manages.
+<hr></hr>
+
+*<sup>1</sup>This is a voucher which may be exchanged for staples at supermarkets, to help with family expenses. The vouchers are funded by MUIS through community funds which it manages.*
 
 
 
