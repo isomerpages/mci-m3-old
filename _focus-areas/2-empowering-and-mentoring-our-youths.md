@@ -28,7 +28,7 @@ Our youth have access to a selection of gender-specific mentoring programmes:
 
 Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory.
 
-**<Embed Resource Directory in the form of ebook>**
+*(Embed Resource Directory in the form of ebook)*
   
 ### **Future Ready Toolkit**
 
@@ -36,4 +36,4 @@ How can we mentor our youth to be more resilient and adaptable in navigating the
 
 Click to download.
 
-<Image and link to MENDAKI Resource toolkit>
+*(Image and link to MENDAKI Resource toolkit)*
