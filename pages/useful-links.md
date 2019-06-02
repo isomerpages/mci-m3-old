@@ -7,6 +7,7 @@ breadcrumb: Useful Links
 ---
 
 a. Wisma Geylang Serai
+
 Wisma Geylang Serai (WGS) has been envisioned as the community, social, civic and cultural heart of the Geylang Serai
 precinct. The WGS hub is a culturally distinctive and inclusive multi-agency development that celebrates the heritage of
 Geylang Serai and all other local communities so as to encourage social interaction and community bonding across all
@@ -14,6 +15,7 @@ ages and races. It houses the Geylang Serai Community Club, South East Community
 Serai Heritage Gallery, KURNIA@WGS, arts houses as well as other social and community-related facilities.
         
 b. Kurnia@WGS
+
 A one-stop centre providing social, education, welfare, arts and media services, KURNIA stands for "Khidmat untuk Rakyat: Nadi,          Inspirasi dan Aspirasi" which translates to "Services for the community, pulse, inspiration and aspiration".
 
 KURNIA seeks to:
@@ -24,6 +26,7 @@ CMAC, LBKM, MUHAMMADIYAH, PERGAS, TAA and 4PM.
      
 
 c. MUIS
+
 *Leading the community with the principles and traditions of Islam*
 
 Majlis Ugama Islam Singapura (MUIS), also known as the Islamic Religious Council of Singapore, was established as a
@@ -34,6 +37,7 @@ responsible for the promotion of religious, social, economic, education and cult
 principles and traditions of Islam as enshrined in the Holy Quran and Sunnah.
 
 d. MENDAKI
+
 *Empowering Excellence Through Education*
 
 Formed in 1982, Yayasan MENDAKI (Council for the Development of Singapore Malay/ Muslim Community) is dedicated
@@ -47,6 +51,7 @@ Youths and Parenting Workshops. MENDAKI also provides financial assistance schem
 and study loans.
 
 e. MESRA
+
 *Uniting the Community, Strengthening Cohesion*
 
 The People’s Association Malay Activity Executive Committees Council (PA MESRA) was formed in 1988 as the
