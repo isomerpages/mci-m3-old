@@ -7,12 +7,11 @@ permalink: /media-centre/news/sentuhan-ramadan-sebar-sifat-ihsan-kepada-semua
 
 ![Sentuhan Ramadan sebar sifat ihsan kepada semua](/images/media-centre/BH-20190505-Sentuhan-Ramadan.jpg)
 
-
-## Masagos sampaikan mesej utama perkukuh iman, bersikap penyayang kepada semua dan mendakap kepelbagaian
+### Masagos sampaikan mesej utama perkukuh iman, bersikap penyayang kepada semua dan mendakap kepelbagaian
 
 RAMADAN ini, umat Islam di Singapura digalak menyebar rahmah bukan sahaja dalam kalangan kaum keluarga dan rakan sendiri, bahkan kepada masyarakat umum, termasuk jiran tetangga.
 
-Justeru, kempen Sentuhan Ramadan tahun ini memberi fokus kepada usaha menyebarkan sifat ihsan dan kasih sayang dalam kehidupan berjiran dan bermasyarakat.\
+Justeru, kempen Sentuhan Ramadan tahun ini memberi fokus kepada usaha menyebarkan sifat ihsan dan kasih sayang dalam kehidupan berjiran dan bermasyarakat.
 
 Berteraskan tema 'Sebarkan Rahmah: Ramadan Bersama Jiran. Raikan Bersama Keluarga dan Masyarakat', kempen Ramadan tahun ini mengambil inspirasi daripada contoh Nabi Muhammad saw menonjolkan nilai yang baik dan membina ikatan yang kukuh dalam masyarakat.
 
