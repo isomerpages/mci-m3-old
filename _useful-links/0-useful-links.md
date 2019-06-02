@@ -1,9 +1,9 @@
 ---
-
-layout: simple-page
+layout: leftnav-page-content
 title: Useful Links
 permalink: /useful-links/
 breadcrumb: Useful Links
+collection_name: useful-links
 ---
 
 a. Wisma Geylang Serai
