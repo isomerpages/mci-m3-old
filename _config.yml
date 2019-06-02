@@ -48,4 +48,6 @@ collections:
     output: true
   m3-towns:
     output: true
+  useful-links:
+    output: true
 resources_name: media-centre
