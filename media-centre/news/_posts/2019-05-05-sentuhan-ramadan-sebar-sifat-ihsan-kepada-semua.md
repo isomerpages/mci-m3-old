@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sentuhan Ramadan sebar sifat ihsan kepada semua
-date:   2018-05-05
+date:   2019-05-05
 permalink: /media-centre/news/sentuhan-ramadan-sebar-sifat-ihsan-kepada-semua
 ---
 
