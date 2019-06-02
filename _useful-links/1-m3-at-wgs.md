@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: M<sup>3</sup>@WGS
 permalink: /useful-links/m3-at-wgs/
 breadcrumb: M<sup>3</sup>@WGS
-collection_name: focus-areas
+collection_name: useful-links
 ---
 
 Located at Wisma Geylang Serai (Level 2), M<sup>3</sup>@WGS is a one-stop information and referral centre for the Malay/Muslim
