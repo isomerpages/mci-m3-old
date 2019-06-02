@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: M3@WGS
-permalink: /m3-at-WGS/
+permalink: /useful-links/m3-at-WGS/
 breadcrumb: M3@WGS
 ---
 
