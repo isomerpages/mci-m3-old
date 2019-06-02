@@ -53,11 +53,11 @@
 - title: Be a Volunteer
   url: 	/be-a-volunteer/
 - title: Useful Links
-  url: https://www.google.com
+  url: /useful-links/
   sub-links:
   - title: M<sup><sup>3</sup></sup>@WGS
-    url: /m3-at-WGS/
+    url: /useful-links/m3-at-WGS/
   - title: WGS
-    url: https://www.google.com
+    url: /useful-links/wgs/
   - title: Kunir Office
-    url: https://www.google.com
+    url: /useful-links/kunir/
