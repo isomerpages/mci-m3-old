@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  New programme aims to strengthen Muslim marriages
-date:   2018-05-03
+date:   2019-05-03
 permalink: /media-centre/news/new-programme-aims-to-strengthen-muslim-marriages
 ---
 
