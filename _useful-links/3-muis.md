@@ -6,7 +6,7 @@ breadcrumb: MUIS
 collection_name: useful-links
 ---
 
-*Leading the community with the principles and traditions of Islam*
+### Leading the community with the principles and traditions of Islam
 
 Majlis Ugama Islam Singapura (MUIS), also known as the Islamic Religious Council of Singapore, was established as a
 statutory body in 1968 when the Administration of Muslim Law Act (AMLA) came into effect. Under AMLA, MUIS plays an
