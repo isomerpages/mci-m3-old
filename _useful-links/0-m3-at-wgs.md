@@ -6,6 +6,8 @@ breadcrumb: M<sup>3</sup>@WGS
 collection_name: useful-links
 ---
 
+![M3@WGS](/images/m3-wgs.jpg)
+
 Located at Wisma Geylang Serai (Level 2), M<sup>3</sup>@WGS is a one-stop information and referral centre for the Malay/Muslim
 community. Here, members of the community can get information on national support programmes and services provided by the
 three agencies - MUIS, MENDAKI and MESRA.
