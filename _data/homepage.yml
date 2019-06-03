@@ -14,12 +14,7 @@ agency-logo: /images/m3-logo-horizontal.svg
 hero-title: Hero title
 hero-subtitle: Hero subtitle
 hero-banner: /images/Hero1.3-01.png
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
+   
 key-highlights:
   - title: Highlight A
     description: Important highlight A is important
