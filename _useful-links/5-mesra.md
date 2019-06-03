@@ -6,6 +6,8 @@ breadcrumb: MESRA
 collection_name: useful-links
 ---
 
+![MESRA](/images/mesra.jpg)
+
 ### Uniting the Community, Strengthening Cohesion
 
 The People’s Association Malay Activity Executive Committees Council (PA MESRA) was formed in 1988 as the
