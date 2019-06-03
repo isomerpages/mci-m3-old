@@ -6,7 +6,7 @@ breadcrumb: Kurnia@WGS
 collection_name: useful-links
 ---
 
-![Kurnia@WGS](/images/kurnia.jpg)
+![Kurnia@WGS](/images/kurnia-wgs.jpg)
 
 A one-stop centre providing social, education, welfare, arts and media services, KURNIA stands for “Khidmat untuk
 Rakyat: Nadi, Inspirasi dan Aspirasi” which translates to “Services for the community, pulse, inspiration and aspiration”.
