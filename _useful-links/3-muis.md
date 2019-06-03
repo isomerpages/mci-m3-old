@@ -6,6 +6,8 @@ breadcrumb: MUIS
 collection_name: useful-links
 ---
 
+![MUIS](/images/muis.jpg)
+
 ### Leading the community with the principles and traditions of Islam
 
 Majlis Ugama Islam Singapura (MUIS), also known as the Islamic Religious Council of Singapore, was established as a
