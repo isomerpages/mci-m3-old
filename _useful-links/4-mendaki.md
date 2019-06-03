@@ -6,6 +6,8 @@ breadcrumb: MENDAKI
 collection_name: useful-links
 ---
 
+![MENDAKI](/images/mendaki.jpg)
+
 ### Empowering Excellence Through Education
 
 Formed in 1982, Yayasan MENDAKI (Council for the Development of Singapore Malay/ Muslim Community) is dedicated
