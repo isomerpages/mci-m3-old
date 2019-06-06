@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: #INSPIRASISG
+title: INSPIRASISG
 permalink: /inspirasisg/
-breadcrumb: #INSPIRASISG
+breadcrumb: INSPIRASISG
 ---
 
 *17 June – 21 July 2019*
