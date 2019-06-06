@@ -30,21 +30,18 @@ key-highlights:
 
 # Key Highlights
 key-highlights:
-  - title: PRODUCTS AND SERVICES
-    description: Programmes for citizens, businesses and government agencies
+  - title: INSPIRASISG
+    description: Lorem ipsum dolor sdfglkh lkj dfgo 
     url: https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner
     external: true
-  - title: DIGITAL GOVERNMENT BLUEPRINT
-    description: To create a Government that is “Digital to the Core, and Serves with Heart"
+  - title: M<sup>3</sup>@TOWNS
+    description: Lorem ipsum dolor sdfglkh lkj dfgo 
     url: /digital-government-blueprint/?utm_source=hero_banner
-  - title: SUBSCRIBE TO TECHNEWS
-    description: Get the latest news and highlights from GovTech
+  - title: ABOUT M<sup>3</sup>
+    description: Lorem ipsum dolor sdfglkh lkj dfgo 
     url: https://form.gov.sg/forms/govtech/5bd0317ee5c241000f7589bd?utm_source=hero_banner
     external: true
-  - title: JOIN US
-    description: Unleash your passion and potential with us
-    url: https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl
-    external: true
+
 
 resources-title: Resources
 resources-subtitle: Be in the know
