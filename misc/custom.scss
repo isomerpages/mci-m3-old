@@ -360,9 +360,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-// Styling for paragraphs in italic
+// Styling for paragraphs in italic (added in by Screenbox)
 .content p.desc {
   font-style:italic;
   margin-top:0;
 }
 
+.bg-hero { background-position: top center!important; }
