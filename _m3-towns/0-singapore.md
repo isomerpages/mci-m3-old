@@ -12,13 +12,11 @@ M<sup>3</sup>@Towns provide a platform for volunteers and professionals to work 
 
 **See you at an M<sup>3</sup>@Town near you:**
 
-
-M³@Pasir Ris-Punggol
-M³@Bedok
-M³@Chua Chu Kang
-M³@Jurong
-M³@Marsiling-Yew Tee
-M³@Nee Soon
-M³@Woodlands
-
 [M³@Tampines](/m3-towns/tampines/)
+[M³@Pasir Ris-Punggol](/m3-towns/pasir-ris-punggol/)
+[M³@Bedok](/m3-towns/bedok/)
+[M³@Chua Chu Kang](/m3-towns/chua-chu-kang/)
+[M³@Jurong](/m3-towns/jurong/)
+[M³@Marsiling-Yew Tee](/m3-towns/marsiling-yew-tee/)
+[M³@Nee Soon](/m3-towns/nee-soon/)
+[M³@Woodlands](/m3-towns/woodlands/)
