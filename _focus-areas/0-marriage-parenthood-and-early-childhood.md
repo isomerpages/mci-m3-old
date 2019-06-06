@@ -9,39 +9,30 @@ collection_name: focus-areas
 ![Marriage Parenthood And Early Childhood](/images/focus-area-marriage.jpg)
 
 Strong families are the foundation of strong communities.
-Headed by Associate Professor Muhammad Faisal Ibrahim, this focus area aims to provide a continuum of care and support for Malay and
-Muslim couples and their families in the areas of marriage, parenting and early childhood development.
+
+Headed by Associate Professor Muhammad Faisal Ibrahim, this focus area aims to provide a continuum of care and support for Malay and Muslim couples and their families in the areas of marriage, parenting and early childhood development.
 
 ### **Available Resources**
 
 The following community resources are available for couples and families in the various M<sup>3</sup>@Towns:
 
 ##### **KelasMateMatika@CC**
-<p class="desc">*Building confidence in numeracy skills for pre-schoolers and their parents*</p>
+<p class="desc">*Nurturing confidence in pre-schoolers, empowering parents and strengthening bonds between them*</p>
 
-This 10-week educational programme, launched in September 2018, has already benefited over 300 parents and children. In
-2019, M<sup>3</sup> aims to reach out to give times the number of beneficiaries through collaboration with community centres islandwide.
+Piloted in September 2018, the 10-week programme by Yayasan Mendaki and PA MESRA has benefitted more than 500 parents and children. In 2019, the programme will be expanded to all M³@Towns with support from the grassroots organisations such as the Community ClubManagement Committees, Malay Activity Executive Committees (MAECs) and Mosques.
 
 ##### **Pre-school Outreach**
 <p class="desc">*Championing the importance of pre-school education*</p>
 
-Driven by the Early Childhood Development Agency (ECDA), this programme leverages six outreach agencies including
-Yayasan MENDAKI to promote the importance of pre-school education to low-income families with children aged 3 years and
-above. Through home visits, MENDAKI helps families to enrol their children in pre-school and works with them to ensure regular
-attendance.
+Through the Pre-school Outreach programme, the Early Childhood Development Agency (ECDA), works with pre-school outreach agencies, including Yayasan MENDAKI, and community partners to promote the importance of pre-school education, and to help families from low-income households to enrol their children into pre-school. Outreach agencies also work closely with the families to ensure regular attendance after enrolment.
 
 ##### **Bersamamu**
-<p class="desc">*Supporting Muslim couples from before marriage to throughout their marriage journeys*</p>
+<p class="desc">*Supporting Muslim couples from before solemnisation to throughout their first two years of marriage*</p>
 
-To inspire strong and stable Muslim marriages, this ground-up initiative by Naib Kadi supports couples in their journey from
-before the big day and through the rest of their lives together. Couples begin their pre-marriage journey with a consultation with
-their selected Naib Kadi (marriage solemniser) prior to their solemnisation ceremony.
+To inspire strong and stable Muslim marriages, this ground-up initiative by Naib Kadi (marriage solemniser) supports couples in their journey from before the big day and through the first two years of their lives together. Couples begin their pre-marriage journey with a face-to-face meeting with their selected Naib Kadi prior to their solemnisation ceremony.
 
 ##### **Marital First Responder Training**
-<p class="desc">*Training volunteer marriage counsellors*</p>
+<p class="desc">*Building community capability for strong marriages*</p>
 
-This initiative by the Ministry of Social and Family Development (MSF) aims to equip a community of volunteers with the skills to
-provide basic marriage advisory, enabling them to assist married couples in need. Piloted at M3@Nee Soon in March 2019, this
-initiative is made possible with support from local Malay Activity Executive Committees (MAECs), mosques, MENDAKI and
-MSF.
+The community plays an important role in supporting strong marriages and family life. The Marital First Responder Training (MFR) is one way in which the Ministry of Social and Family Development partners community stakeholders to build the capability of community volunteers to provide basic marriage advice and help. The first M³ MFR run was piloted at M³@Nee Soon in March 2019, and made possible with support from MAECs, mosques and MENDAKI.
 
