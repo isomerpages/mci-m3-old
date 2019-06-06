@@ -14,16 +14,6 @@ Mentoring is also an important component of youth development. Connecting youths
 
 All our empowerment programmes are anchored on a mentoring-centric model, where the youth can interact and learn from mentors and young professionals. Through this, we aim to develop a vibrant Malay/Muslim youth core, inspiring each youth to continue to pay it forward and give back to the community.
 
-### **Empowerment Programmes**
-
-Our youth have access to a selection of gender-specific mentoring programmes:
-
-* Pathfinders, caters to male students, helping them develop their capabilities through proactive mentoring, and by providing insights to National Service. Led by Malay/Muslim volunteers from the Singapore Armed Forces, Pathfinders is offered at the various M<sup>3</sup>@Town.
-
-* Empowerment Programmes for Boys (EPB) and Empowerment Programme for Girls (EPG?) are gender-specific programmes with pilots offered at the Institutes of Technical Education (ITE) Youth Spaces.
-
-* The national level Empowerment Programme for Youths programme focusses on engaging the general Malay/Muslim youth through civic participation of community and national-level activities. Look out for it at M<sup>3</sup>@Towns.
-
 ### **Resource Directory**
 
 Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory.
@@ -32,8 +22,8 @@ Mentoring opportunities, youth services and programmes as well as resources such
   
 ### **Future Ready Toolkit**
 
-How can we mentor our youth to be more resilient and adaptable in navigating the future landscape? The Future Ready Toolkit is a one-stop information repository on education and career opportunities, a useful reference for mentoring.
+How can our youth better adapt and thrive in the age of opportunity amidst disruptive developments? The Future Ready Toolkit by MENDAKI, ‘’Your Guide to Your Future”, is a one-stop information repository on the values and competencies youth need to navigate and succeed in the future economy.
 
-Click to download.
+Click to view.
 
 *(Image and link to MENDAKI Resource toolkit)*
