@@ -32,14 +32,14 @@ key-highlights:
 key-highlights:
   - title: INSPIRASISG
     description: Lorem ipsum dolor sdfglkh lkj dfgo 
-    url: https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner
+    url: /inspirasisg/
     external: true
   - title: M<sup>3</sup>@TOWNS
     description: Lorem ipsum dolor sdfglkh lkj dfgo 
-    url: /digital-government-blueprint/?utm_source=hero_banner
+    url: /m3-towns/singapore/
   - title: ABOUT M<sup>3</sup>
     description: Lorem ipsum dolor sdfglkh lkj dfgo 
-    url: https://form.gov.sg/forms/govtech/5bd0317ee5c241000f7589bd?utm_source=hero_banner
+    url: /who-we-are/about-m3/
     external: true
 
 
