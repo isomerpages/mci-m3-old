@@ -8,17 +8,11 @@ collection_name: useful-links
 
 ![M3@WGS](/images/m3-wgs.jpg)
 
-Located at Wisma Geylang Serai (Level 2), M<sup>3</sup>@WGS is a one-stop information and referral centre for the Malay/Muslim
-community. Here, members of the community can get information on national support programmes and services provided by the
-three agencies - MUIS, MENDAKI and MESRA.
+Located at Wisma Geylang Serai (Level 2), M<sup>3</sup>@WGS is a one-stop centre for integrated last-mile service delivery. Here, members of the Malay/Muslim community can get information on national support programmes and services provided by the three agencies – Muis, MENDAKI and MESRA.
 
-Beyond M<sup>3</sup> agencies, the centre works with Kurnia@WGS, to enhance existing cooperation between Malay/ Muslim
-Organisations through regular engagements.
+Beyond M<sup>3</sup> agencies, the centre works with Kurnia@WGS, to enhance existing cooperation between Malay/ Muslim Organisations through regular engagements.
 
-Primary objectives of the M<sup>3</sup>@WGS:
-
-(a) Extend MENDAKI and MUIS’ outreach in the heartlands; and
-(b) Serve as an ideation hub for community-driven initiatives
+M<sup>3</sup>@WGS extends MENDAKI and Muis’ outreach in the heartlands. It also serves as an ideation hub for community-drive initiatives.
 
 ### **Services Available**
 
