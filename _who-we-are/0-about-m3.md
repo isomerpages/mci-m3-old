@@ -6,6 +6,7 @@ breadcrumb: About M<sup><sup>3</sup></sup>
 collection_name: who-we-are
 ---
 
+![M3 Vision](/images/aboutm3-v1.jpg)
 ### **About M<sup>3</sup>**
 
 M<sup>3</sup> is a collaborative effort between three key community institutions — Islamic Religious Council of Singapore (MUIS), MENDAKI and MESRA.
