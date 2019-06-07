@@ -31,14 +31,14 @@ key-highlights:
 # Key Highlights
 key-highlights:
   - title: INSPIRASISG
-    description: Lorem ipsum dolor sdfglkh lkj dfgo 
+    description: 
     url: /inspirasisg/
     external: true
   - title: M<sup>3</sup>@TOWNS
-    description: Lorem ipsum dolor sdfglkh lkj dfgo 
+    description:  
     url: /m3-towns/singapore/
   - title: ABOUT M<sup>3</sup>
-    description: Lorem ipsum dolor sdfglkh lkj dfgo 
+    description: 
     url: /who-we-are/about-m3/
     external: true
 
