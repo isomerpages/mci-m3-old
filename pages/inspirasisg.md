@@ -1,9 +1,11 @@
 ---
 layout: simple-page
-title: INSPIRASISG
+title: InspirasiSG
 permalink: /inspirasisg/
-breadcrumb: INSPIRASISG
+breadcrumb: InspirasiSG
 ---
+
+![InspirasiSG Logo](/images/inspirasisg_logo.png)
 
 *17 June – 21 July 2019*
 
