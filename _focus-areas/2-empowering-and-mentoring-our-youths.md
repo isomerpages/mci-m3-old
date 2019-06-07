@@ -19,11 +19,11 @@ All our empowerment programmes are anchored on a mentoring-centric model, where 
 Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory.
 
 *(Embed Resource Directory in the form of ebook)*
-  
-### **Future Ready Toolkit**
 
-How can our youth better adapt and thrive in the age of opportunity amidst disruptive developments? The Future Ready Toolkit by MENDAKI, ‘’Your Guide to Your Future”, is a one-stop information repository on the values and competencies youth need to navigate and succeed in the future economy.
 
-Click to view.
+<!--- ### **Future Ready Toolkit** --->
 
-*(Image and link to MENDAKI Resource toolkit)*
+<!--- How can our youth better adapt and thrive in the age of opportunity amidst disruptive developments? The Future Ready Toolkit by MENDAKI, ‘’Your Guide to Your Future”, is a one-stop information repository on the values and competencies youth need to navigate and succeed in the future economy.--->
+
+<!--- Click to view
+(Image and link to MENDAKI Resource toolkit)-->
