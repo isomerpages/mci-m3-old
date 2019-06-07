@@ -24,7 +24,7 @@ other people’s lives. Similarly, the campaign tagline “Hidup berbakti, ikhla
 *17 June – 07 July 2019*
 
 We all know of an inspiring story of someone who had succeeded against all odds and there are many amongst the Singapore Malay/Muslim
-community (SMC) who we deem asJ an inspiration.
+community (SMC) who we deem as an inspiration.
 
 As part of the campaign, members of the SMC as well as the larger non-MM community, will be encouraged to submit real stories of
 inspirational members from the Malay/Muslim community who have inspired them in one way or another, in all or any of the 3 “C”s.
