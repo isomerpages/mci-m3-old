@@ -21,13 +21,6 @@ FITRAH also aims to increase the numbers of volunteers (religious counsellors an
 
 MUIS’ religious counsellors deliver customised Friday sermons or *khutbahs* for inmates. These sermons address relevant issues and matters such as the pursuit of religious guidance and the righteous path, as well as the importance of staying optimistic in preparation for life after release.
 
-### **Incare Services**
-
-##### **Friday Khutbahs**
-<p class="desc">*Weekly sermons for inmates*</p>
-
-MUIS’ religious counsellors deliver customised Friday sermons or khutbahs for inmates. These sermons address relevant issues and matters such as the pursuit of religious guidance and the righteous path, as well as the importance of staying optimistic in preparation for life after release.
-
 ### **Aftercare Services**
 
 ##### **Back-To-FITRAH package**
