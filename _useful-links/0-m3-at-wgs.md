@@ -32,7 +32,8 @@ M<sup>3</sup>@WGS extends MENDAKI and Muis’ outreach in the heartlands. It als
 <td>Programme registration/applications for:<br>
 - Educational Programmes<br>
 - Financial Assistance Schemes<br>
-- Employment Services
+- Employment Services <br> 
+  <br>
 
 Disbursement & Repayment for:<br>
 -Education Trust Fund<br>
