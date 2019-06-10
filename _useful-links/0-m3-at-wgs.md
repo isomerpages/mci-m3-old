@@ -23,7 +23,7 @@ M<sup>3</sup>@WGS extends MENDAKI and Muis’ outreach in the heartlands. It als
   <tr>
     <td>
       <ul>
-        <li>Zakat Payment</li>
+        <li>Zakat payment</li>
         <li>Donations (Wakaf Ilmu, Dana Madrasah, RLAF)</li>
         <li>Facilitate info referral for financial assistance applications</li>
       </ul>
