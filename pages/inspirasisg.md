@@ -1,8 +1,8 @@
 ---
 layout: simple-page
-title: InspirasiSG
+title: "#InspirasiSG"
 permalink: /inspirasisg/
-breadcrumb: InspirasiSG
+breadcrumb: "#InspirasiSG"
 ---
 
 ![InspirasiSG Logo](/images/inspirasisg-logo.png)
