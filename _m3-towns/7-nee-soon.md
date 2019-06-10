@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Nee Soon
+title: M<sup>3</sup>@Nee Soon
 permalink: /m3-towns/nee-soon/
-breadcrumb: Nee Soon
+breadcrumb: M<sup>3</sup>@Nee Soon
 collection_name: m3-towns
 ---
