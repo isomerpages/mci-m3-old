@@ -14,11 +14,11 @@ Mentoring is also an important component of youths development. Connecting youth
 
 All our empowerment programmes are based on a mentoring-centric model, where the youths can interact and learn from mentors and young professionals. Through this, we aim to develop a vibrant Malay/Muslim youths core, inspiring each youth to continue to pay it forward and give back to the community.
 
-### **Resource Directory**
+<!--- ### **Resource Directory** --->
 
-Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory.
+<!--- Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory. --->
 
-*(Embed Resource Directory in the form of ebook)*
+<!--- *(Embed Resource Directory in the form of ebook)* --->
 
 
 <!--- ### **Future Ready Toolkit** --->
