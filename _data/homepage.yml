@@ -13,7 +13,7 @@ agency-logo: /images/m3-logo-horizontal.svg
 # Hero Banner
 hero-title: Progressing With M<sup>3</sup>
 hero-subtitle: To build a Community of Success
-hero-banner: /images/Hero1.3-01.png
+hero-banner: /images/hero_nologos.png
    
 key-highlights:
   - title: Highlight A
@@ -30,17 +30,16 @@ key-highlights:
 
 # Key Highlights
 key-highlights:
-  - title: INSPIRASISG
+  - title: "#InspirasiSG"
     description: (Coming Soon)
     url: 
-    external: true
-  - title: M<sup>3</sup>@TOWNS
+    external: 
+  - title: About M<sup>3</sup>
+    description: 
+    url: /who-we-are/about-m3/ 
+  - title: M<sup>3</sup>@Towns
     description:  
     url: /m3-towns/singapore/
-  - title: ABOUT M<sup>3</sup>
-    description: 
-    url: /who-we-are/about-m3/
-    external: true
 
 
 resources-title: Media & News
