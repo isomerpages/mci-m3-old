@@ -371,3 +371,12 @@ $desktop: 960px + (2 * $gap) !default;
 
 //remove PDF icon for infographics downloads
 a.no-pdf-icon:before { content: none; }
+
+//styles for Focus Area landing page
+.focus-list {
+	.focus {
+		width:300px;
+		float:left;
+		margin:0 30px 0 0;
+	}
+}
