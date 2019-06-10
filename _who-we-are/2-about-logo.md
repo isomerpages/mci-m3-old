@@ -1,14 +1,14 @@
 ---
 layout: leftnav-page-content
-title: About M<sup>3</sup> Logos
-permalink: /who-we-are/about-logos/
-breadcrumb: About M<sup>3</sup> Logos
+title: About M<sup>3</sup> Logo
+permalink: /who-we-are/about-logo/
+breadcrumb: About M<sup>3</sup> Logo
 collection_name: who-we-are
 ---
 
 ![M3 Vertical Logos with Tagline in English and Malay](/images/m3-logo-vert.png)
 
-### **About Logos**
+### **About Logo**
 
 The M<sup>3</sup> logo is made up of 3 Ms joining together to form a cube. The Ms represent 3 agencies - Muis, MENDAKI and MESRA. The 3-coloured gradients represent the collaboration between the agencies.
 
