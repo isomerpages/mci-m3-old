@@ -51,3 +51,5 @@ collections:
   useful-links:
     output: true
 resources_name: media-centre
+
+no_contact: true
