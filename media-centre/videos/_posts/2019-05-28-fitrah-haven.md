@@ -2,7 +2,7 @@
 layout: post
 title:  FITRAH (Family and Inmates ThRough-care Assistance Haven)
 date:   2019-05-28
-permalink: /fitrah-haven/
+permalink: /media-centre/videos/fitrah-haven/
 breadcrumb: FITRAH Haven
 ---
 
