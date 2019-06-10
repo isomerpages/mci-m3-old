@@ -2,5 +2,5 @@
 layout: post
 title:  Sample post for Publications
 date:   2018-01-01
-permalink: /media-centre/publications/test
+permalink: /media-centre/speeches-and-press-releases/test
 ---
