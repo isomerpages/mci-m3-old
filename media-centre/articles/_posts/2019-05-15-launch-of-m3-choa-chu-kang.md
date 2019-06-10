@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Launch of M<sup>3</sup>@Choa Chu Kang  
-date:   2019-05-11
+date:   2019-05-15
 permalink: /media-centre/articles/launch-of-m3-choa-chu-kang
 ---
 
