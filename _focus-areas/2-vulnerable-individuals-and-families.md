@@ -12,7 +12,7 @@ Established in November 2018, the FITRAH (**F**amily and **I**nmates **T**h**r**
 
 FITRAH is a collaboration between the M<sup>3</sup> agencies – Muis, MENDAKI and MESRA – and community organisations as well as the Ministry of Home Affairs (MHA) and Singapore Prison Service (SPS). Muis has been supporting Prisons Incare Religious Services through the Muslim Counselling Services SANA since 1979. The service deploys religious counsellors for Jumaah prayers as well as religious sessions with inmates in prisons. Through FITRAH, Muis will collaborate with MHA and SPS to strengthen incare services. Yayasan MENDAKI will support families of inmates and ex-offenders through various programmes. Meanwhile, volunteers from the People’s Association Malay Activity Executive Committees (MAECs), mosques and the Yellow Ribbon Community Project will serve as community befrienders and visit the homes of these families.
 
-FITRAH also aims to increase the numbers of volunteer (religious counsellors and befrienders) who can deliver its programmes as well as improve the quality of programmes and services for both incare and after-care. The FITRAH office is located at En-Naeem Mosque.
+FITRAH also aims to increase the number of volunteers (religious counsellors and befrienders) who can deliver its programmes as well as improve the quality of programmes and services for both incare and after-care. The FITRAH office is located at En-Naeem Mosque.
 
 ### **Incare Services**
 
@@ -31,7 +31,7 @@ The day an ex-offender is released symbolises a new start in the individual’s 
 ##### **Community Befriending**
 <p class="desc">Connecting families to care and support</p>
 
-Rehabilitation is a challenging journey not only for ex-offenders. Many do not see the hardships faced by their family members. Community Befrienders is a FITRAH-developed group that reaches out to inmates’ families, connecting them to a network of social assistance. The group also conducts home visits to are attuned to the needs of the families and offer necessary information or connection to assistance. Mosques provide facilities for counselling and the training of volunteers in collaboration with the SPS as well as the Yellow Ribbon Community Project. This added strong support from the community will give ex-offenders an even better chance to reintegrate successfully into society.
+Rehabilitation is a challenging journey not only for ex-offenders. Many do not see the hardships faced by their family members. Community Befrienders is a FITRAH-developed group that reaches out to inmates’ families, connecting them to a network of social assistance. The group also conducts home visits that are attuned to the needs of the families and offer necessary information or connection to assistance. Mosques provide facilities for counselling and the training of volunteers in collaboration with the SPS as well as the Yellow Ribbon Community Project. This added strong support from the community will give ex-offenders an even better chance to reintegrate successfully into society.
 
 ##### **Partnership with Mosques**
 <p class="desc">A system of holistic support</p>
