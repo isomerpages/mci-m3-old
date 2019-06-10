@@ -367,3 +367,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bg-hero { background-position: top center!important; }
+
+
+//remove PDF icon for infographics downloads
+a.no-pdf-icon:before { content: none; }
