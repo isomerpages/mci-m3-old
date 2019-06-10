@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Bedok
+title: M<sup>3</sup>@Bedok
 permalink: /m3-towns/bedok/
-breadcrumb: Bedok
+breadcrumb: M<sup>3</sup>@Bedok
 collection_name: m3-towns
 ---
