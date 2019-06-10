@@ -18,27 +18,31 @@ M<sup>3</sup>@WGS extends MENDAKI and Muis’ outreach in the heartlands. It als
 
 <table class="table-h">
   <tr>
-  <td><h5>Services</h5></td>
-  <td><h5>Agency</h5></td>
+  <td><h5>Muis</h5></td>
   </tr>
   <tr>
-    <td>Zakat Payment<br><br>
-    Donations (Wakaf Ilmu, Dana Madrasah, RLAF)<br><br>
-    Facilitate info referral for financial assistance applications
+    <td>
+      <ul>
+        <li>Zakat Payment</li>
+        <li>Donations (Wakaf Ilmu, Dana Madrasah, RLAF)</li>
+        <li>Facilitate info referral for financial assistance applications</li>
+      </ul>
     </td>
-    <td>MUIS</td>
   </tr>
   <tr>
-<td>Programme registration/applications for:<br>
-- Educational Programmes<br>
-- Financial Assistance Schemes<br>
-- Employment Services <br> 
-  <br>
-
-Disbursement & Repayment for:<br>
--Education Trust Fund<br>
--Study Loans
+  <td><h5>MENDAKI</h5></td>
+  </tr>  
+  <tr>
+<td>
+  <ul>
+    <li>Programme registration/applications for:</li>
+        - Educational Programmes<br>
+        - Financial Assistance Schemes<br>
+        - Employment Services <br><br> 
+    <li>Disbursement & Repayment for:</li>
+        - Education Trust Fund<br>
+        - Study Loans
+  </ul>
   </td>
-  <td>MENDAKI</td>
   </tr>
 </table>
