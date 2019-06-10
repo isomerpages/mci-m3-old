@@ -45,17 +45,6 @@
     url: /m3-towns/woodlands/
 - title: Media Centre
   url: /media-centre/
-  sub-links:
-  - title: All
-    url: /media-centre/
-  - title: Malay News
-    url: /media-centre/malay-news/
-  - title: English News
-    url: /media-centre/english-news/
-  - title: Media
-    url: /media-centre/media/
-  - title: Publications
-    url: /media-centre/publications/
 - title: Be a Volunteer
   url: /be-a-volunteer/
 - title: Useful Links
