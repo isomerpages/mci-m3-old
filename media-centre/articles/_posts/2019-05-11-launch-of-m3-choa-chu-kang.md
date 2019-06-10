@@ -9,7 +9,7 @@ permalink: /media-centre/articles/launch-of-m3-choa-chu-kang
 
 It was all smiles and celebrations on 11 May 2019 as the sixth M<sup>3</sup>@Town came to fruition. The launch of M<sup>3</sup>@Choa Chu Kang was held in conjunction with Choa Chu Kang GRC’s Buka Puasa 2019 event, where 1,000 Malay/Muslim residents gathered in the month of Ramadan to share food with underprivileged families.
 
-The crowd at the event was treated to various performances and non-Muslim residents were also enlightened by the sharing on the significance of Ramadan and the Malay culture. To further strengthen the community spirit, everyone had a go to create bunga manggar, poles of colourful palm blossoms, forming a visual spectacle for all to see.
+The crowd at the event was treated to various performances and non-Muslim residents were also enlightened by the sharing on the significance of Ramadan and the Malay culture. To further strengthen the community spirit, everyone had a go to create *bunga manggar*, poles of colourful palm blossoms, forming a visual spectacle for all to see.
 ![Launch of M3@Choa Chu Kang](/images/articles/cck-launch-2.jpg)
 
 One of the key individuals at the event was none other than Chairman of M<sup>3</sup>@Choa Chu Kang, Mr Zhulkarnain Abdul Rahim. When asked what he hoped would be a key take away for participants that day, he responded, “I hope what they will see is a clear collaborative effort from the Grassroots, the organisers, religious institutions and schools. They were not here just to assist us but to make sure that no single member of the community will be left behind.”
