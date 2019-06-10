@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: M<sup>3</sup>@Towns
 permalink: /m3-towns/singapore/
 breadcrumb: Singapore
