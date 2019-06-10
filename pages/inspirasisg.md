@@ -11,7 +11,7 @@ breadcrumb: "#InspirasiSG"
 
 *17 June – 21 July 2019*
 
-**#InspirasiSG** is a nationwide integrated marketing communications campaign led by M³ to amplify Mr Masagos Zulkifi, Minister for the
+**#InspirasiSG** is a nationwide integrated marketing communications campaign led by M³ to amplify Mr Masagos Zulkifli, Minister for the
 Environment and Water Resources and Minister-in-charge of Muslim Affairs’ vision for a **Community of Success.**
 
 ![InspirasiSG Creative Visual](/images/inspirasisg-graphic.jpg)
