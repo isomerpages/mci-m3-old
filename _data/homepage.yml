@@ -14,19 +14,6 @@ agency-logo: /images/m3-logo-horizontal.svg
 hero-title: Progressing With M<sup>3</sup>
 hero-subtitle: To build a Community of Success
 hero-banner: /images/hero_nologos.png
-   
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
 
 # Key Highlights
 key-highlights:
