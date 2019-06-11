@@ -7,8 +7,6 @@ breadcrumb: "#InspirasiSG"
 
 ![InspirasiSG Logo](/images/inspirasisg-banner.png)
 
-### **About #InspirasiSG**
-
 *17 June – 21 July 2019*
 
 **#InspirasiSG** is a nationwide integrated marketing communications campaign led by M³ to amplify Mr Masagos Zulkifli, Minister for the
@@ -38,14 +36,14 @@ Submit your entry via:
 #### **Facebook**
 
 1. ‘Like’ us on [M³ Facebook](https://www.facebook.com/MajuBersamaM3) and
-2. Head over to (insert link of pinned post) to tell us in the comments section who your inspiration is and why
-3. OR share a post on your inspiration and hashtag #InspirasiSG. Remember to set your profile to public during this period!
+2. Head over to (insert link of pinned post) to tell us in the comments section who your inspiration is and why OR
+3. Share a post on your inspiration and hashtag #InspirasiSG. Remember to set your profile to public during this period!
 
 #### **Instagram**
 
 1. Follow us on [@Maju Bersama M³](https://www.instagram.com/Maju.Bersama.M3/)
-2. Click this post (screenshot of selected post) and tell us in the comments who your inspiration is and why
-3. OR share a post about your inspiration and hashtag #InspirasiSG. Remember to set your profile to public during this period!
+2. Click this post (screenshot of selected post) and tell us in the comments who your inspiration is and why OR
+3. Share a post about your inspiration and hashtag #InspirasiSG. Remember to set your profile to public during this period!
 
 #### **Email**
 Share with us who your inspiration is and why via email to <inspirasisingapura@gmail.com>
