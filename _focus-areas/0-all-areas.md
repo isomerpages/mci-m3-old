@@ -6,7 +6,7 @@ breadcrumb: M<sup>3</sup> Focus Areas
 collection_name: focus-areas
 ---
 
-### **All Focus Areas**
+### **M<sup>3</sup> Focus Areas**
 <div class="focus-list row is-multiline">
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/marriage-parenthood-and-early-childhood/" class="project-link no-pdf-icon">
