@@ -18,8 +18,8 @@ hero-banner: /images/hero_nologos.png
 # Key Highlights
 key-highlights:
   - title: "#InspirasiSG"
-    description: (Coming Soon)
-    url: 
+    description: Submit your inspirational stories here!
+    url: /inspirasisg/ 
     external: 
   - title: About M<sup>3</sup>
     description: 
