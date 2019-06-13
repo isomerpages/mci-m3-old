@@ -5,14 +5,14 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
+$primary: #1b8d7b;
+$secondary: #3f3b8e;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
+$media-color-one: #1b8d7b;
+$media-color-two: #3c3d3b;
+$media-color-three: #f9d529; 
+$media-color-four: #00838f;  
 $media-color-five: #00838f;
 
 $gap: 32px !default;
@@ -359,3 +359,25 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// Styling for paragraphs in italic (added in by Screenbox)
+.content p.desc {
+  font-style:italic;
+  margin-top:0;
+}
+
+.bg-hero { background-position: top center!important; }
+
+
+//remove PDF icon for infographics downloads
+a.no-pdf-icon:before { content: none; }
+
+//styles for Focus Area landing page
+.focus-list {
+	.focus {
+		a { text-decoration:none; }
+		img { margin-bottom:6px; }
+	}
+}
+
+.bp-hero-body p { font-size: 1.8em; }

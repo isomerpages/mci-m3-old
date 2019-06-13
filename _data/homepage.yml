@@ -5,35 +5,40 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-m3.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/m3-logo-horizontal.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title: Progressing With M<sup>3</sup>
+hero-subtitle: To build a Community of Success
+hero-banner: /images/hero_nologos.png
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
+# Key Highlights
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: "#InspirasiSG"
+    description: Submit your inspirational stories here!
+    url: /inspirasisg/ 
+    external: 
+  - title: About M<sup>3</sup>
+    description: 
+    url: /who-we-are/about-m3/ 
+  - title: M<sup>3</sup>@Towns
+    description:  
+    url: /m3-towns/singapore/
 
-resources-title: Resources
+
+#Google Analytics
+google-analytics: 'UA-141688776-1'
+
+programmes-title: Focus Areas
+programmes-subtitle: Our Direction
+programmes-description: M³ is a collaborative effort between Muis, MENDAKI and MESRA to harness each other's strengths and resources. Together, we channel our efforts towards 3 key focus areas.
+programmes-more-button: Learn more
+programmes-more-button-url: /focus-areas/all/
+
+resources-title: Media & News
 resources-subtitle: Be in the know
-resources-more-button: More Resources
+resources-more-button: View More
 resources-more-button-url: media-centre/
