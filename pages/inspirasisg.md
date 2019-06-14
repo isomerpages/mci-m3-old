@@ -12,7 +12,7 @@ breadcrumb: "#InspirasiSG"
 **#InspirasiSG** is a nationwide integrated marketing communications campaign led by M³ to amplify Mr Masagos Zulkifli, Minister for the
 Environment and Water Resources and Minister-in-charge of Muslim Affairs’ vision for a **Community of Success.**
 
-![InspirasiSG Creative Visual](/images/inspirasisg-graphic-v2.jpg)
+![InspirasiSG Creative Visual](/images/inspirasi-graphic-v3.jpg)
 
 This campaign seeks to showcase the Singapore Malay/Muslim Community as a Community of Success that is progressive yet rooted in its
 traditions and identity, with a strong spirit of self-help and practises active citizenry as its way of life. It also aims to highlight the 3 “C”s (Character, Competency, Citizenry), mentioned in Minister Masagos’ speech at the Annual Hari Raya Get-Together.
