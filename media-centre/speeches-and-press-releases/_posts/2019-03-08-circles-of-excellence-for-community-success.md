@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  Circles of excellence for a community of success
+title:  Speech by Mr Masagos Zulkifli, Minister-in-charge of Muslim Affairs & Minister for the Environment and Water Resources at the Committee of Supply Debate on 08 March 2019
 date:   2019-03-08
 permalink: /media-centre/speeches-and-press-releases/circles-of-excellence-for-community-success
 ---
 
-### **Speech by Mr Masagos Zulkifli, Minister-in-charge of Muslim Affairs & Minister for the Environment and Water Resources at the Committee of Supply Debate 2019**
-
-08 March 2019
+### **Circles of excellence for a community of success**
 
 ### **Introduction**
 1.	Mr Chairman, for decades now, MUIS, MENDAKI, MESRA individually have nurtured our community’s values, uplifted individuals and families through education and community self-help, and fostered our community’s participation in our larger multi-racial society. Together, and in a structured way– the M<sup>3</sup>, or M to the power of three – and with the vast energy of our Malay/Muslim community, we can help each other to reach even greater heights.
