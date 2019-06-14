@@ -175,20 +175,21 @@ Respected guests,
 33.	Individuals like Lieutenant Adnan and the other inspirational stories that I have shared are examples of the qualities exhibited by individuals that have built our Community of Success. We gathered tonight to celebrate Hari Raya Aidilfitri, but we also celebrate our Malay/Muslim community. We are not a community of problems, but a community that solves problems. Our small number is not an obstacle. My aim today is to show that as a community, we should not look down on ourselves, because we have a lot to be proud of. Life will always bring challenges. For Singapore, we cannot forge ahead if we have no confidence in ourselves. If we start feeling less than others, we will certainly fail. Therefore, we must remember that we are a community with the strength of character, with the competence to contribute, and with a strong sense of citizenry. We are Community of Success. 
 
 34.	Allow me to end with a few pantun,<br>
-When you have some jackfruit to eat<br>
-Don't forget us, share readily<br>
-Character warms our communal relationship<br>
-While our competence strengthens the economy<br>
 
-On the morning of Hari Raya we seek forgiveness<br>
-In a long-upheld tradition<br>
-With our citizenry we build a fortress<br>
-For our Singapore, for our nation<br>
+  When you have some jackfruit to eat<br>
+  Don't forget us, share readily<br>
+  Character warms our communal relationship<br>
+  While our competence strengthens the economy<br>
 
-The ketupat we buy in Geylang<br> 
-Give us the fighting strength<br> 
-Our community is a Community of Success<br> 
-When we are united for our homeland<br> 
+  On the morning of Hari Raya we seek forgiveness<br>
+  In a long-upheld tradition<br>
+  With our citizenry we build a fortress<br>
+  For our Singapore, for our nation<br>
+
+  The ketupat we buy in Geylang<br> 
+  Give us the fighting strength<br> 
+  Our community is a Community of Success<br> 
+  When we are united for our homeland<br> 
 
 35.	Thank you and peace be upon you. 
 
