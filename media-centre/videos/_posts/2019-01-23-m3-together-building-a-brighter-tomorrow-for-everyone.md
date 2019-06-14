@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "M³: Together, building a brighter tomorrow for everyone"
-date:   2019-06-14
+date:   2019-01-23
 permalink: /media-centre/videos/m3-together-building-a-brighter-tomorrow-for-everyone/
 breadcrumb: "M³: Together, building a brighter tomorrow for everyone"
 ---
