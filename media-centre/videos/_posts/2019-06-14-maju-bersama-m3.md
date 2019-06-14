@@ -3,7 +3,7 @@ layout: post
 title:  "#InspirasiSG - Maju Bersama M<sup>3</sup>"
 date:   2019-06-14
 permalink: /media-centre/videos/maju-bersama-m3/
-breadcrumb: "#InspirasiSG - Maju Bersama" M<sup>3</sup>
+breadcrumb: "#InspirasiSG - Maju Bersama M<sup>3</sup>"
 ---
 
 <div class="bp-youtube">
