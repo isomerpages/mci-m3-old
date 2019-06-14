@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A community that soars
-date:   2019-06-14
+date:   2018-06-28UpdTE 
 permalink: /media-centre/speeches-and-press-releases/a-community-that-soars
 ---
 
