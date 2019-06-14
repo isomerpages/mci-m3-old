@@ -192,3 +192,7 @@ Our community is a Community of Success<br>
 When we are united for our homeland<br> 
 
 35.	Thank you and peace be upon you. 
+
+<hr>
+
+###### *<sup>1</sup>Speech by Mr Lee Kuan Yew at the Convent of the Holy Infant Jesus, Serangoon Gardens, 11 Dec 1965*
