@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  A community that soars
-date:   2018-06-28UpdTE 
+title:  Speech by Mr Masagos Zulkifli, Minister-in-charge of Muslim Affairs at Minister’s Hari Raya Get-Together on 28 June 2018
+date:   2018-06-28
 permalink: /media-centre/speeches-and-press-releases/a-community-that-soars
 ---
 
-### **Speech by Mr Masagos Zulkifli, Minister-in-charge of Muslim Affairs at Minister’s Hari Raya Get-Together**
-
-28 June 2018
+### **A community that soars**
 
 Minister for Culture, Community and Youth, Grace Fu
 Members of Parliament
