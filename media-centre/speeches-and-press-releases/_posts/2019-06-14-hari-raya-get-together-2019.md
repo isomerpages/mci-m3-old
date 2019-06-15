@@ -5,6 +5,8 @@ date:   2019-06-14
 permalink: /media-centre/speeches-and-press-releases/hari-raya-get-together-2019
 ---
 
+### Towards a Community of Success
+
 Senior Minister Teo Chee Hean,<br>
 Deputy Prime Minister Mr Heng Swee Keat, <br>
 Minister for Culture, Community and Youth, Ms Grace Fu,<br>
