@@ -21,6 +21,10 @@ Through the 3 ”C”s – **Character** (strong values and morals), **Competenc
 community contribution), true success is redefined as one that is more values-based, highlighting the greater reward in making a difference to
 other people’s lives. Similarly, the campaign tagline “Hidup berbakti, ikhlas berbudi” means to do good without expecting anything in return.
 
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ln9v8g_36ss" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### **Who is your inspiration?**
 *Contest Period: 17 June – 7 July 2019*
 
