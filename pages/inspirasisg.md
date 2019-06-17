@@ -15,7 +15,7 @@ Environment and Water Resources and Minister-in-charge of Muslim Affairs’ visi
 ![InspirasiSG Creative Visual](/images/inspirasi-graphic-v3.jpg)
 
 This campaign seeks to showcase the Singapore Malay/Muslim Community as a Community of Success that is progressive yet rooted in its
-traditions and identity, with a strong spirit of self-help and practises active citizenry as its way of life. It also aims to highlight the 3 “C”s (Character, Competency, Citizenry), mentioned in Minister Masagos’ speech at the Annual Hari Raya Get-Together.
+traditions and identity, with a strong spirit of self-help and practises active citizenry as its way of life. It also aims to highlight the 3 “C”s (Character, Competency, Citizenry), mentioned in [Minister Masagos’ speech at the Annual Hari Raya Get-Together.](https://www.m3.sg/media-centre/speeches-and-press-releases/hari-raya-get-together-2019)
 
 Through the 3 ”C”s – **Character** (strong values and morals), **Competency** (lifelong learning and skills upgrading) and **Citizenry** (active
 community contribution), true success is redefined as one that is more values-based, highlighting the greater reward in making a difference to
