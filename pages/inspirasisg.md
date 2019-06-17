@@ -40,13 +40,15 @@ Submit your entry via:
 #### **Facebook**
 
 1. ‘Like’ us on [M³ Facebook](https://www.facebook.com/MajuBersamaM3) and
-2. Head over to (insert link of pinned post) to tell us in the comments section who your inspiration is and why OR
+2. Head over to [this Facebook post](https://www.facebook.com/663595790739586/posts/689778104788021?s=735955170&sfns=mo) to tell us in the comments section who your inspiration is and why OR
+![InspirasiSG FB Screenshot](/images/inspirasisg_fbpost.jpeg)
 3. Share a post on your inspiration and hashtag #InspirasiSG. Remember to set your profile to public during this period!
 
 #### **Instagram**
 
 1. Follow us on [@Maju Bersama M³](https://www.instagram.com/Maju.Bersama.M3/)
-2. Click this post (screenshot of selected post) and tell us in the comments who your inspiration is and why OR
+2. Click [this post](https://www.instagram.com/p/ByyqlcchfWb/?igshid=1i1xafbc67vgs) and tell us in the comments who your inspiration is and why OR
+![InspirasiSG FB Screenshot](/images/inspirasisg_igpost.jpeg)
 3. Share a post about your inspiration and hashtag #InspirasiSG. Remember to set your profile to public during this period!
 
 #### **Email**
