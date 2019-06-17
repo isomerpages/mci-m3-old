@@ -7,6 +7,7 @@ collection_name: useful-links
 ---
 
 ![Muis](/images/muis.jpg)
+<span class="caption">Image Source: Islamic Religious Council Singapore (Muis) Facebook Page</span>
 
 ### Leading the community with the principles and traditions of Islam
 

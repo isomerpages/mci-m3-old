@@ -7,6 +7,7 @@ collection_name: useful-links
 ---
 
 ![MESRA](/images/mesra.jpg)
+<span class="caption">Image Source: People’s Association Malay Activity Executive Committees Council (MESRA) Facebook Page</span>
 
 ### Uniting the Community, Strengthening Cohesion
 

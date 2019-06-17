@@ -15,7 +15,7 @@ Environment and Water Resources and Minister-in-charge of Muslim Affairs’ visi
 ![InspirasiSG Creative Visual](/images/inspirasi-graphic-v3.jpg)
 
 This campaign seeks to showcase the Singapore Malay/Muslim Community as a Community of Success that is progressive yet rooted in its
-traditions and identity, with a strong spirit of self-help and practises active citizenry as its way of life. It also aims to highlight the 3 “C”s (Character, Competency, Citizenry), mentioned in Minister Masagos’ speech at the Annual Hari Raya Get-Together.
+traditions and identity, with a strong spirit of self-help and practises active citizenry as its way of life. It also aims to highlight the 3 “C”s (Character, Competency, Citizenry), mentioned in [Minister Masagos’ speech at the Annual Hari Raya Get-Together.](https://www.m3.sg/media-centre/speeches-and-press-releases/hari-raya-get-together-2019)
 
 Through the 3 ”C”s – **Character** (strong values and morals), **Competency** (lifelong learning and skills upgrading) and **Citizenry** (active
 community contribution), true success is redefined as one that is more values-based, highlighting the greater reward in making a difference to
@@ -39,14 +39,18 @@ The top 10 most inspirational stories will win prizes worth up to $500 each!
 Submit your entry via:
 #### **Facebook**
 
+<div class="screenshot"><img src="/images/inspirasisg-fbpost.jpeg" alt="InspirasiSG FB Screenshot" /></div>
+
 1. ‘Like’ us on [M³ Facebook](https://www.facebook.com/MajuBersamaM3) and
-2. Head over to (insert link of pinned post) to tell us in the comments section who your inspiration is and why OR
+2. Head over to this Facebook post [above](https://www.facebook.com/663595790739586/posts/689778104788021?s=735955170&sfns=mo) to tell us in the comments section who your inspiration is and why OR
 3. Share a post on your inspiration and hashtag #InspirasiSG. Remember to set your profile to public during this period!
 
 #### **Instagram**
 
+<div class="screenshot"><img src="/images/B3CEA62C-364F-4129-8431-D575048EF6CF.jpeg" alt="InspirasiSG IG Screenshot" /></div>
+
 1. Follow us on [@Maju Bersama M³](https://www.instagram.com/Maju.Bersama.M3/)
-2. Click this post (screenshot of selected post) and tell us in the comments who your inspiration is and why OR
+2. Click this post [above](https://www.instagram.com/p/ByyqlcchfWb/?igshid=1i1xafbc67vgs) and tell us in the comments who your inspiration is and why OR
 3. Share a post about your inspiration and hashtag #InspirasiSG. Remember to set your profile to public during this period!
 
 #### **Email**

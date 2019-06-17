@@ -7,6 +7,7 @@ collection_name: useful-links
 ---
 
 ![MENDAKI](/images/mendaki.jpg)
+<span class="caption">Image Source: MENDAKI Singapore Facebook Page</span>
 
 ### Empowering Excellence Through Education
 
