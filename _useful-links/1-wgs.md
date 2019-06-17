@@ -7,6 +7,7 @@ collection_name: useful-links
 ---
 
 ![Wisma Geylang Serai](/images/wisma-geylang-serai-1.jpeg)
+<span class="caption">Image Source: Islamic Religious Council Singapore (Muis) Facebook Page</span>
 
 Wisma Geylang Serai (WGS) has been envisioned as the community, social, civic and cultural heart of the Geylang Serai
 precinct. The WGS hub is a culturally distinctive and inclusive multi-agency development that celebrates the heritage of
