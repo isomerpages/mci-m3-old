@@ -47,7 +47,7 @@ Submit your entry via:
 
 #### **Instagram**
 
-<div class="screenshot"><img src="/images/inspirasisg_igpost.jpeg" alt="InspirasiSG IG Screenshot" /></div>
+<div class="screenshot"><img src="/images/B3CEA62C-364F-4129-8431-D575048EF6CF.jpeg" alt="InspirasiSG IG Screenshot" /></div>
 
 1. Follow us on [@Maju Bersama M³](https://www.instagram.com/Maju.Bersama.M3/)
 2. Click this post [above](https://www.instagram.com/p/ByyqlcchfWb/?igshid=1i1xafbc67vgs) and tell us in the comments who your inspiration is and why OR
