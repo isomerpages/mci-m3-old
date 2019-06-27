@@ -18,7 +18,7 @@ All our empowerment programmes are based on a mentoring-centric model, where the
 
 Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory.
 
-Click <a href="/images/PDF/M³_Youth_Resource_Directory_123KB.pdf" class="no-pdf-icon">here</a> to download the M³ Resource Directory.
+Click <a href="/images/PDF/M³_Youth_Resource_Directory_123KB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the M³ Resource Directory.
 
 ### **Future Ready Toolkit**
 
