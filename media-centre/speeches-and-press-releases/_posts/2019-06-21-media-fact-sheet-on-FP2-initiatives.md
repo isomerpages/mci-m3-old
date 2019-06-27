@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Media Fact Sheet on FP2'S Initiatives
+title:  Media Fact Sheet on FP2's Initiatives
 date:   2019-06-21
 permalink: /media-centre/speeches-and-press-releases/media-fact-sheet-on-FP2-initiatives
 ---
