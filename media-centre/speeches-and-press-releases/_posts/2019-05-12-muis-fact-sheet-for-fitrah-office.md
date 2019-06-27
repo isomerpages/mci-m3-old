@@ -15,12 +15,14 @@ permalink: /media-centre/speeches-and-press-releases/muis-fact-sheet-for-fitrah-
 
 #### **M³ Focus Area 2: Reaching Out to the Vulnerable & The Incarcerated**
 
-3. The M³ Framework has three areas of focus: 
-a. Strengthening marriage, parenthood and early childhood development 
-b. Support for vulnerable individuals and their families; and 
+3. The M³ Framework has three areas of focus: <br>
+a. Strengthening marriage, parenthood and early childhood development <br>
+b. Support for vulnerable individuals and their families; and <br>
 c. Empowerment and mentoring for youth. 
 
-4. The FITRAH programme **(Family and Inmates Through-care Assistance Haven)** is part of the second focus area under the M³ framework, and aims to: (a) improve services and programmes for inmates (incare); and (b) harness existing community assets to assist families with incarcerated members and as well as assisting ex-offenders (after-care).
+4. The FITRAH programme (**F**amily and **I**nmates **T**h**r**ough-care **A**ssistance **H**aven) is part of the second focus area under the M³ framework, and aims to: <br>
+(a) improve services and programmes for inmates (incare); and <br>
+(b) harness existing community assets to assist families with incarcerated members and as well as assisting ex-offenders (after-care).
 
 5. FITRAH is also a collaboration between the M³ agencies – Muis, MENDAKI and MESRA – and community organisations as well as the Ministry of Home Affairs (MHA) and Singapore Prison Service (SPS). Yayasan MENDAKI will support through various programmes for families of inmates and ex-offenders. Meanwhile, volunteers from the Malay Activity Executive Committees (MAEC) Council, mosques and the Yellow Ribbon Community Project (YRCP) will serve as community befrienders and visit the homes of these families.
 
@@ -66,7 +68,7 @@ c. Enhance the curriculum for religious counselling of the inmates
 
 15. In addition, the FITRAH Office, working with mosques and Muis, will put in place the processes to refer the families of inmates to 31 mosques that disburse zakat financial assistance. At the mosques, families of inmates will be connected to support programmes, as well as Islamic Education programmes under aLIVE, ADIL and Home-based Islamic Learning. The mosques may also refer these families to MENDAKI’s programmes (for e.g. MENDAKI Tuition Scheme, SENSE Workskills programmes).
 
-#### **FITRAH - Family and Inmates Through-care Assistance Haven** 
+#### **FITRAH** - **F**amily and **I**nmates **T**h**r**ough-care **A**ssistance **H**aven 
 
 The programme acronym – FITRAH, or “Family and Inmates Through-care Assistance Haven” – represents Integrated and Holistic support for inmates as well as their families from incare to after-care. The families will be connected to the necessary network of assistance while their spouses are duly supported with incare services. The term ‘Haven’ reflects the roles of the office (co-located in a mosque) as a place of solace and centre of support for the ex-offenders and their families. The word FITRAH will resonate well with the ex-offenders, as it signifies hope and returning to the right path<sup>3</sup>.
 
