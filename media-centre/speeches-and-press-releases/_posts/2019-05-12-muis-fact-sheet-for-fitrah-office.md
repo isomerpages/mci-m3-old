@@ -70,7 +70,7 @@ c. Enhance the curriculum for religious counselling of the inmates
 
 #### **FITRAH** - **F**amily and **I**nmates **T**h**r**ough-care **A**ssistance **H**aven 
 
-The programme acronym – FITRAH, or “Family and Inmates Through-care Assistance Haven” – represents Integrated and Holistic support for inmates as well as their families from incare to after-care. The families will be connected to the necessary network of assistance while their spouses are duly supported with incare services. The term ‘Haven’ reflects the roles of the office (co-located in a mosque) as a place of solace and centre of support for the ex-offenders and their families. The word FITRAH will resonate well with the ex-offenders, as it signifies hope and returning to the right path<sup>3</sup>.
+The programme acronym – FITRAH, or **“F**amily and **I**nmates **T**h**r**ough-care **A**ssistance **H**aven” – represents Integrated and Holistic support for inmates as well as their families from incare to after-care. The families will be connected to the necessary network of assistance while their spouses are duly supported with incare services. The term ‘Haven’ reflects the roles of the office (co-located in a mosque) as a place of solace and centre of support for the ex-offenders and their families. The word FITRAH will resonate well with the ex-offenders, as it signifies hope and returning to the right path<sup>3</sup>.
 
 <hr>
 
