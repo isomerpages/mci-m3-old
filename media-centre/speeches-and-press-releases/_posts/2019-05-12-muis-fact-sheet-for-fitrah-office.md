@@ -5,7 +5,7 @@ date:   2019-05-12
 permalink: /media-centre/speeches-and-press-releases/muis-fact-sheet-for-fitrah-office
 ---
 
-### Family and Inmates Through-care Assistance Haven (FITRAH) @ Masjid En-Naeem
+### **Family and Inmates Through-care Assistance Haven (FITRAH) @ Masjid En-Naeem**
 
 1. Muis is launching a new programme called FITRAH to provide enhanced support services to Muslim incarcerated individuals and their families. This programme will be run by the FITRAH Office, which will look into improving current incare services and in the long run, provide after-care services, with a view to facilitate the rehabilitation and reintegration of ex-offenders into society. This is a collaborative effort between Muis and our mosques, Ministry of Home Affairs (MHA), Singapore Prison Service (SPS), our M³ partners (MENDAKI and MESRA) as well as various community organisations. 
 
@@ -26,13 +26,13 @@ c. Empowerment and mentoring for youth.
 
 #### **FITRAH services & programmes** 
 
-##### Incare 
+##### **Incare** 
 
-6. FITRAH is providing two incare services: 
-a. **Ritual Services** <br> 
+6. FITRAH is providing two incare services:<br>  
+**a. Ritual Services** <br> 
 Providing Imams for weekly Friday prayers and two Eid prayers. 33 Friday prayer sessions are conducted each week and 45 prayer sessions each for the two Eid prayers. More than 3,500 inmates benefit from this service. 
 
-b. **Incare Religious Counselling** <br>
+**b. Incare Religious Counselling** <br>
 Provide asatizah (ARS-certified religious teachers) to conduct two to four hours of weekly classes for religious counselling. To date, a total of 78 religious counsellors are conducting over 125 weekly sessions. 
 
 7. To support incare, FITRAH will: <br>
@@ -40,21 +40,21 @@ a. Increase the number of volunteers (i.e. religious counsellors and imams) so t
 b. Improve customised content, quality and delivery of Friday sermons<br> 
 c. Enhance the curriculum for religious counselling of the inmates 
 
-##### Religious Counsellors
+##### **Religious Counsellors**
 
 8. One of the main roles of FITRAH is to deploy qualified religious counsellors to conduct incare religious counselling. Since November 2018, FITRAH has recruited 101 new Religious Counsellors, bringing the total to 155 counsellors. 
 
 9. FITRAH has organised and conducted training for the new religious counsellors, in collaboration with MHA, SPS and YRCP, so that they can better support the inmates and their families. FITRAH will also provide training for volunteers to understand the offenders’ rehabilitation and reintegration journeys, learn soft skills that would be useful to engage offenders and their families, as well as basic para-counselling. 
 
-##### Enhanced *Khutbah* & Counselling Curriculum for Inmates 
+##### **Enhanced *Khutbah* & Counselling Curriculum for Inmates** 
 
 10. Since January 2018, Muis has customised a series of Friday sermons, covering content that are more suited to inmates and taking into account the input from senior religious counsellors. An enhanced incare religious curriculum is currently being developed by FITRAH and its partners, and will be introduced in Q3 this year.
 
-##### Back-To-FITRAH package (New) 
+##### **Back-To-FITRAH package (New)** 
 
 11. FITRAH has recently launched a new scheme called Back-To-FITRAH. The objective of this initiative is to reach out to ex-offenders upon their release at the prison gate. FITRAH officers and volunteers will receive these ex-offenders and give them a Back-To-FITRAH package. This is symbolic of a new start in their lives and the beginning of a journey of reintegration into society. The package includes fidyah  vouchers, an EZ-link card, a prayer mat and an information package on the various channels of assistance available. Since April 2019, FITRAH has reached out to 25 released ex-offenders. 
 
-##### Community Befrienders (New) 
+##### **Community Befrienders (New)** 
 
 12. FITRAH will work with the mosques to develop a group of Community Befrienders who will actively reach out to families with incarcerated members and ex-offenders and connect them to the network of social assistance available. Befrienders will conduct home visits, identify the needs of these families and offer the necessary info-referrals for them. Mosques will provide facilities for counselling and the training of volunteers in collaboration with the Singapore Prison Service. 
 
@@ -62,7 +62,7 @@ c. Enhance the curriculum for religious counselling of the inmates
 
 14. The FITRAH Office also aims to recruit about 150 Community Befrienders by end-2019 and will progressively assign these Befrienders to families who will benefit from their support, starting with families in Taman Jurong. 
 
-##### Helping ex-offenders and Families through Zakat (New) 
+##### **Helping ex-offenders and Families through Zakat (New)** 
 
 15. In addition, the FITRAH Office, working with mosques and Muis, will put in place the processes to refer the families of inmates to 31 mosques that disburse zakat financial assistance. At the mosques, families of inmates will be connected to support programmes, as well as Islamic Education programmes under aLIVE, ADIL and Home-based Islamic Learning. The mosques may also refer these families to MENDAKI’s programmes (for e.g. MENDAKI Tuition Scheme, SENSE Workskills programmes).
 
