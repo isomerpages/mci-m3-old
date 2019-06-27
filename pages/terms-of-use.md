@@ -24,9 +24,9 @@ breadcrumb: Terms of Use
 
 #### **Restrictions on use of Materials**
 
-6.Except as otherwise provided, the Contents of this Website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of M³. 
+6. Except as otherwise provided, the Contents of this Website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of M³. 
 
-7.Modification of any of the Contents or use of the Contents for any other purpose will be a violation of M³ 's copyright and other intellectual property rights. Graphics and images on this Website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of M³. 
+7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of M³ 's copyright and other intellectual property rights. Graphics and images on this Website are protected by copyright and may not be reproduced or appropriated in any manner without written permission of M³. 
 
 #### **Disclaimer of Warranties and Liability**
 
