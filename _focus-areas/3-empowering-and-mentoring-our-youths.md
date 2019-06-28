@@ -14,16 +14,14 @@ Mentoring is also an important component of youths development. Connecting youth
 
 All our empowerment programmes are based on a mentoring-centric model, where the youths can interact and learn from mentors and young professionals. Through this, we aim to develop a vibrant Malay/Muslim youths core, inspiring each youth to continue to pay it forward and give back to the community.
 
-<!--- ### **Resource Directory** --->
+### **M<sup>3</sup> Resource Directory** 
 
-<!--- Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory. --->
+Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory.
 
-<!--- *(Embed Resource Directory in the form of ebook)* --->
+Click <a href="/images/PDF/M³_Youth_Resource_Directory_123KB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the M³ Resource Directory.
 
+### **Future Ready Toolkit**
 
-<!--- ### **Future Ready Toolkit** --->
+How can our youth better adapt and thrive in the age of opportunity amidst disruptive developments? The Future Ready Toolkit by MENDAKI, ‘’Your Guide to Your Future”, is a one-stop information repository on the values and competencies youth need to navigate and succeed in the future economy.
 
-<!--- How can our youth better adapt and thrive in the age of opportunity amidst disruptive developments? The Future Ready Toolkit by MENDAKI, ‘’Your Guide to Your Future”, is a one-stop information repository on the values and competencies youth need to navigate and succeed in the future economy.--->
-
-<!--- Click to view
-(Image and link to MENDAKI Resource toolkit)-->
+*(Coming Soon)*

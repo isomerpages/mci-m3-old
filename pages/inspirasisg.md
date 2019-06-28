@@ -26,7 +26,7 @@ other people’s lives. Similarly, the campaign tagline “Hidup berbakti, ikhla
 </div>
 
 ### **Who is your inspiration?**
-*Contest Period: 17 June – 7 July 2019*
+*Contest Period: 17 June – 12 July 2019*
 
 We all know of an inspiring story of someone who had succeeded against all odds and there are many amongst the Singapore Malay/Muslim
 community (SMC) who we deem as an inspiration.
@@ -58,3 +58,14 @@ Share with us who your inspiration is and why via email to <inspirasisingapura@g
 
 #### **Mail**
 Share with us who your inspiration is and why via snail mail to “#InspirasiSG c/o 86A Amoy Street Singapore 069905”
+
+<hr>
+
+![Celebrating InspirasiSG Event](/images/inspirasisg-event.jpeg)
+
+### **Celebrating #InspirasiSG**
+*Date: Sunday, 21st July 2019*
+
+Witness the results of #InspirasiSG, where we will announce the top 10 inspirational nominations. There will also be special performances by our very own Tampines Rovers Freestyle Soccer and Hady Mirza. See you at Wisma Geylang Serai!
+
+
