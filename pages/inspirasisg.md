@@ -26,7 +26,7 @@ other people’s lives. Similarly, the campaign tagline “Hidup berbakti, ikhla
 </div>
 
 ### **Who is your inspiration?**
-*Contest Period: 17 June – 12 July 2019*
+*Contest Period: 17 June – 14 July 2019*
 
 We all know of an inspiring story of someone who had succeeded against all odds and there are many amongst the Singapore Malay/Muslim
 community (SMC) who we deem as an inspiration.

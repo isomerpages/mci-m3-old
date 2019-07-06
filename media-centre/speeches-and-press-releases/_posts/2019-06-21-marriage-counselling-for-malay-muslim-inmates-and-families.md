@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Media Fact Sheet on FP2's Initiatives
+title:  Marriage Counselling Programme for Malay/Muslim Inmates and Their Families
 date:   2019-06-21
-permalink: /media-centre/speeches-and-press-releases/media-fact-sheet-on-FP2-initiatives
+permalink: /media-centre/speeches-and-press-releases/marriage-counselling-for-malay-muslim-inmates-and-families
 ---
 
-MEDIA FACTSHEET SYARIAH COURT (SYC) PARTNERS SINGAPORE PRISON SERVICE(SPS) AND FITRAH OFFICE (MUIS) TO PROVIDE HOLISTIC CARE FOR MALAY/MUSLIM INMATES UNDERGOING DIVORCE AND THEIR FAMILIES 
+MEDIA FACTSHEET <br> 
+**SYARIAH COURT (SYC) PARTNERS SINGAPORE PRISON SERVICE(SPS) AND FITRAH OFFICE (MUIS) TO PROVIDE HOLISTIC CARE FOR MALAY/MUSLIM INMATES UNDERGOING DIVORCE AND THEIR FAMILIES**
 
 1. SYC’s flagship Marriage Counselling Programme (MCP) was first introduced in 2004. In October 2018, MCP became compulsory with the amendment of the Administration of the Muslim Law Act (AMLA) to ensure that couples who plan to seek a divorce must first attend counselling. This now applies to incarcerated parties. 
 
@@ -18,14 +19,6 @@ MEDIA FACTSHEET SYARIAH COURT (SYC) PARTNERS SINGAPORE PRISON SERVICE(SPS) AND F
 5. To facilitate holistic support for the inmates and their families, JCC and AMP will connect the inmates’ families to FITRAH Office  , Muis, for further support after the MCP. Besides accompanying families and children during visits, FITRAH’s Community Befrienders provide emotional support during these difficult times. Beyond outreach, these Befrienders conduct home visits to better understand the needs of these families and offer the necessary info-referral for them. In addition, FITRAH Office also started a new scheme called the Back-to-FITRAH where its officers and Befrienders will receive the ex-inmates upon their release at the prison gate and provide a Back-to-FITRAH package to the ex-inmates. This package includes fidyah vouchers which can be exchanged for staples at supermarkets, an EZ-link card, a prayer mat and an information package on the assistance available for them. Since this scheme started in April 2019, about 40 ex-inmates have benefited from the programme.
 
 6. MCP is an integral part of the M3 (MUIS, MENDAKI and MESRA) Focus Area 2 on support for vulnerable families. Under the leadership of Senior Parliamentary Secretary (Home Affairs & Health) Mr Amrin Amin, the M3 agencies are working closely with community organisations and the Government to provide holistic support for Malay/Muslim inmates, ex-offenders and their families, so that they will have a better chance to reintegrate successfully into society. 
-
-##### **Please contact the following officers for more information:** 
-
-MCP related matters - Siti Aishah from the Syariah Court at 6471 6094 / 9476 2590 or email at <Siti_Aishah_Hashim@mccy.gov.sg>. 
-
-FITRAH Office related matters - Ahmad Fakhrudin at 6350 5342 / 9034 729) or email at <Ahmad_Fakhruddin_Fadzuli@muis.gov.sg> 
-
-Prisons related matters - Daesia Tan from Singapore Prison Service at 6546 9384 / 9619 9800 or email at <daesia_tan@pris.gov.sg>
 
 ### **FREQUENTLY ASKED QUESTIONS** 
 **1. What is MCP and its objectives?** 
