@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Stories
 permalink: /inspirasisg-1/stories/
-breadcrumb: "#InspirasiSG Stories"
+breadcrumb: Stories
 collection_name: inspirasisg
 ---
 
