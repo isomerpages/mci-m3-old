@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: "#InspirasiSG"
 permalink: /inspirasisg/
 breadcrumb: "#InspirasiSG"
+collection_name: inspirasisg
 ---
 
 ![InspirasiSG Logo](/images/inspirasisg-banner.png)

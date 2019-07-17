@@ -50,6 +50,8 @@ collections:
     output: true
   useful-links:
     output: true
+  inspirasisg:
+    output: true  
 resources_name: media-centre
 
 no_contact: true
