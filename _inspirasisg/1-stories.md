@@ -15,7 +15,7 @@ Always a crew member of the community, never a passenger
 
 Imparting coding and tinkering skills to underprivileged Malay children
 
-#### <a href="/inspirasisg/stories/ibrahim-fergo-junaidi/">3. Ibrahim Fergi Junaidi, 34, Business Developer</a>
+#### <a href="/inspirasisg/stories/ibrahim-fergo-junaidi/">3. Ibrahim Fergo Junaidi, 34, Business Developer</a>
 
 Tech whiz who puts others before himself
 
@@ -43,6 +43,6 @@ Senior inspires and encourages fostering in others
   
 A true leader who is constantly in pursuit of excellence
 
-#### <a href="/inspirasisg/stories/siti-wahidah/">10. Siti Wahidah, 47, MAEC Volunteerfe</a>
+#### <a href="/inspirasisg/stories/siti-wahidah/">10. Siti Wahidah, 47, MAEC Volunteer</a>
  
 A selfless individual who prioritises the community around her
