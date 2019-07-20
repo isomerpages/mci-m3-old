@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: "#InspirasiSG Stories"
+title: Abdul Hamed
 permalink: /inspirasisg/stories/abdul-hamed/ 
-breadcrumb: "#InspirasiSG Stories"
+breadcrumb: Abdul Hamed
 collection_name: inspirasisg
 ---
 
