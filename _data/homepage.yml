@@ -18,7 +18,7 @@ hero-banner: /images/hero_nologos.png
 # Key Highlights
 key-highlights:
   - title: Be a volunteer
-    description: Make a difference by joining the M3 family
+    description: Make a difference by joining the M<sup>3</sup> family
     url: /be-a-volunteer/ 
     external: 
   - title: About M<sup>3</sup>
