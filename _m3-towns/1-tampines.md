@@ -20,7 +20,7 @@ IG (Link - @TBC)
   <tr>
   <td>
     <ul>
-      <li> Abu Bakar Mohd Nor, Chairman<br></li>
+      <li> Abu Bakar Mohd Nor, Chairman</li><br>
       <li>Hayati Rahim</li>
       <li>Elmi Zulkarnain</li>
       <li>Adam Hamzah</li>
