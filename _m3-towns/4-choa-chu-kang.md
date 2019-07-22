@@ -14,9 +14,6 @@ M³@Chua Chu Kang also supports the Yellow Ribbon Project in helping ex-offender
 
 At Bukit Gombak, M³@Chua Chu Kang taps on its network of volunteers there to offer a Mentorship programme for Malay youths.
 
-Facebook (Link – TBC)
-IG (Link - @TBC) 
-
 <table class="table-h">
   <tr>
   <td><h5>Key Members of M³@Chua Chu Kang</h5></td>
