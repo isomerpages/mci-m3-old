@@ -10,9 +10,6 @@ Launched in October 2018, M3@Pasir Ris-Punggol aims to coordinate the work of Ma
 
 M3@Pasir Ris-Punggol has two KelasMateMatika programmes – one at Pasir Ris East Community Club and the other at Punggol 21 Community Club.
 
-Facebook (Link – TBC)
-IG (Link - @TBC) 
-
 <table class="table-h">
   <tr>
   <td><h5>Key Members of M³@Pasir Ris-Punggol</h5></td>
