@@ -3,6 +3,7 @@ layout: post
 title:  Kudos to the KMM@CC Kids of Q2/2019  
 date:   2019-07-22
 permalink: /media-centre/articles/kmm-graduation-ceremony/
+---
 
 ![KMM Graduation Ceremony](/images/articles/kmm-graduation-ceremony-1.jpg)
 
