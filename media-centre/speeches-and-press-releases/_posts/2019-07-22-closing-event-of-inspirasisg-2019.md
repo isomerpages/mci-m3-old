@@ -8,7 +8,9 @@ permalink: /media-centre/speeches-and-press-releases/closing-event-of-inspirasis
 SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AND MINISTER- IN-CHARGE OF MUSLIM AFFAIRS, MASAGOS ZULKIFLI AT THE CLOSING EVENT OF #INSPIRASISG, SUNDAY, 21 JULY 2019
 
 Assalamualaikum wr wb. 
+
 Menteri Negara (Tenaga Kerja dan Pembangunan Negara), Zaqy Mohamad 
+
 Rakan-rakan M<sup>3</sup>
 
 Para tetamu yang saya hormati,
