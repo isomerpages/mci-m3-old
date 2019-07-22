@@ -17,9 +17,9 @@ hero-banner: /images/hero_nologos.png
 
 # Key Highlights
 key-highlights:
-  - title: "#InspirasiSG"
-    description: Celebrate the Success of Our Community
-    url: /inspirasisg/ 
+  - title: Be a volunteer
+    description: Make a difference by joining the M3 family
+    url: /be-a-volunteer/ 
     external: 
   - title: About M<sup>3</sup>
     description: 
