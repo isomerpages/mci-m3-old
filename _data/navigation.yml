@@ -26,27 +26,32 @@
     url: /focus-areas/empowering-and-mentoring-our-youths/
 - title: M<sup><sup>3</sup></sup>@Towns
   url: /m3-towns/singapore/
-  #sub-links:
-  #- title: M<sup><sup>3</sup></sup>@Tampines
-    #url: /m3-towns/tampines/
-  #- title: M<sup><sup>3</sup></sup>@Pasir Ris-Punggol
-    #url: /m3-towns/pasir-ris-punggol/
-  #- title: M<sup><sup>3</sup></sup>@Bedok
-    #url: /m3-towns/bedok/  
-  #- title: M<sup><sup>3</sup></sup>@Choa Chu Kang
-    #url: /m3-towns/choa-chu-kang/   
-  #- title: M<sup><sup>3</sup></sup>@Jurong
-    #url: /m3-towns/jurong/
-  #- title: M<sup><sup>3</sup></sup>@Marsiling-Yew Tee
-    #url: /m3-towns/marsiling-yew-tee/    
-  #- title: M<sup><sup>3</sup></sup>@Nee Soon
-    #url: /m3-towns/nee-soon/
-  #- title: M<sup><sup>3</sup></sup>@Woodlands
-    #url: /m3-towns/woodlands/
+  sub-links:
+  - title: M<sup><sup>3</sup></sup>@Tampines
+    url: /m3-towns/tampines/
+  - title: M<sup><sup>3</sup></sup>@Pasir Ris-Punggol
+    url: /m3-towns/pasir-ris-punggol/
+  - title: M<sup><sup>3</sup></sup>@Bedok
+    url: /m3-towns/bedok/  
+  - title: M<sup><sup>3</sup></sup>@Choa Chu Kang
+    url: /m3-towns/choa-chu-kang/   
+  - title: M<sup><sup>3</sup></sup>@Jurong
+    url: /m3-towns/jurong/
+  - title: M<sup><sup>3</sup></sup>@Marsiling-Yew Tee
+    url: /m3-towns/marsiling-yew-tee/    
+  - title: M<sup><sup>3</sup></sup>@Nee Soon
+    url: /m3-towns/nee-soon/
+  - title: M<sup><sup>3</sup></sup>@Woodlands
+    url: /m3-towns/woodlands/
 - title: Media Centre
   url: /media-centre/
-- title: Be a Volunteer
+- title: Our Community
   url: /be-a-volunteer/
+  sub-links:
+  - title: Be a Volunteer
+    url: /be-a-volunteer/
+  - title: "#InspirasiSG"
+    url: /inspirasisg/ 
 - title: Useful Links
   url: /useful-links/m3-at-wgs/
   sub-links:
