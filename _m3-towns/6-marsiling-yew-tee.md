@@ -6,7 +6,7 @@ breadcrumb: M<sup>3</sup>@Marsiling-Yew Tee
 collection_name: m3-towns
 ---
 
-Recently launched in July 2019 by Advisers to Marsiling-Yew Tee GRC, M3@Marsiling-Yew Tee will focus on strengthening outreach to individuals and families, particularly in the areas of Marriage, Parenthood & Early Childhood as well as Empowering & Mentoring our Youth.
+Recently launched in July 2019 by Advisers to Marsiling-Yew Tee GRC, M³@Marsiling-Yew Tee will focus on strengthening outreach to individuals and families, particularly in the areas of Marriage, Parenthood & Early Childhood as well as Empowering & Mentoring our Youth.
 
 It aims to uplift and strengthen families in need of more support and enhance volunteering opportunities and create a more caring and inclusive society in Marsiling-Yew Tee through engaging residents and families to understand the needs and aspirations of the Malay/Muslim community. Programmes will then be developed with various community partners on future-ready and strengthening families working in the next 3 to 6 months. 
 
@@ -22,7 +22,7 @@ This includes the Marital First Responder programme and scaling up the KelasMate
       <li> Mdm Rahidah Bte Mohd Noor, Chairperson</li><br>
       <li>Mr Mohamed Wahed Bin Sawpi</li>
       <li>Mr Abdul Rahman Bin Minhad</li>
-      Mr Syed Mohamad Bin Syed Hamid</li>
+      <li>Mr Syed Mohamad Bin Syed Hamid</li>
 <li>Mr Mohamed Jaafar Bin M.H</li>
 <li>Mr Muhammad Azrin Bin Abdullah</li>
 <li>Mdm Siti Patimah Abdul lRazak</li>
