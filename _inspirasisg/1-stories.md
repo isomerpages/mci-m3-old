@@ -9,7 +9,7 @@ collection_name: inspirasisg
 <div class="focus-list row is-multiline">
   <div class="focus col is-one-third-desktop is-one-third-tablet">
   <a href="/inspirasisg/stories/abdul-hamed/" class="project-link no-pdf-icon">
-    <img src="/images/inspirasisg-story-thumb.jpg" alt="Abdul Hamed">Abdul Hamed
+    <img src="/images/inspirasisg/abdul-hamed.jpg" alt="Abdul Hamed">Abdul Hamed
   </a>
     <br>Always a crew member of the community, never a passenger
   </div>
