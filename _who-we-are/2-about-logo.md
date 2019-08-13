@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: About M<sup>3</sup> Logo
+title: About M³ Logo
 permalink: /who-we-are/about-logo/
-breadcrumb: About M<sup>3</sup> Logo
+breadcrumb: About M³ Logo
 collection_name: who-we-are
 ---
 
