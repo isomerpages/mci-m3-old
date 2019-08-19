@@ -15,3 +15,7 @@ The silent heroes within our community were recognised at the #InspirasiSG closi
 Follow their stories on our website at m3.sg/inspirasisg/stories
 
 #majubersamam3 #progressingwithm3
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jhzTSPjSTAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
