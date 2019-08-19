@@ -24,4 +24,4 @@ Click <a href="/images/PDF/M³_Youth_Resource_Directory_123KB.pdf" class="no-pdf
 
 How can our youth better adapt and thrive in the age of opportunity amidst disruptive developments? The Future Ready Toolkit by MENDAKI, ‘’Your Guide to Your Future”, is a one-stop information repository on the values and competencies youth need to navigate and succeed in the future economy.
 
-*(Coming Soon)*
+Click <a href="/images/PDF/Future_Ready_Toolkit_4.6MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the Future Ready Toolkit.
