@@ -6,9 +6,7 @@ permalink: /media-centre/videos/celebrating-inspirasisg
 breadcrumb: Celebrating #InspirasiSG
 ---
 
-</div class="bp-youtube">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/DX-ZSPZsRKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/DX-ZSPZsRKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 “#InspirasiSG aimed to uncover such inspiring and extraordinary stories from ordinary members of the community.” -Minister Masagos Zulkifli
 
