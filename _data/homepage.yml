@@ -11,13 +11,13 @@ favicon: /images/favicon-m3.ico
 agency-logo: /images/m3-logo-horizontal.svg
 
 # Hero Banner
-hero-title: Progressing With M<sup>3</sup>
+hero-title: #Progressing With M<sup>3</sup>#
 hero-subtitle: To build a Community of Success
 hero-banner: /images/hero_nologos.png
 
 # Key Highlights
 key-highlights:
-  - title: #Be a volunteer#
+  - title: Be a volunteer
     description: Make a difference by joining the M<sup>3</sup> family
     url: /be-a-volunteer/ 
     external: 
