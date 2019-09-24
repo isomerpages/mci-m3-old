@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: M<sup>3</sup>@WGS
+title: M³@WGS
 permalink: /useful-links/m3-at-wgs/
 breadcrumb: M<sup>3</sup>@WGS
 collection_name: useful-links

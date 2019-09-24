@@ -12,7 +12,7 @@ collection_name: useful-links
 
 The People’s Association Malay Activity Executive Committees Council (PA MESRA) was formed in 1988 as the
 umbrella body of the Malay Activity Executive Committees (MAECs). The latter was formed in 1977 and to date, there
-are 98 MAECs based in community clubs all over Singapore.
+are 97 MAECs based in community clubs all over Singapore.
 
 The main role of PA MESRA and the MAECs is to bring the Malay community together and integrate them into the larger
 Singapore society so as to strengthen social cohesion and achieve One People, One Singapore.
