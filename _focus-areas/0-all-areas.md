@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: M<sup>3</sup> Focus Areas
+title: M³ Focus Areas
 permalink: /focus-areas/all/
 breadcrumb: M<sup>3</sup> Focus Areas
 collection_name: focus-areas
