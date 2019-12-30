@@ -19,7 +19,7 @@ The following community resources are available for couples and families in the 
 ##### **KelasMateMatika@CC**
 <p class="desc">Nurturing confidence in pre-schoolers, empowering parents and strengthening bonds between them</p>
 
-Piloted in September 2018, the 10-week programme by Yayasan Mendaki and PA MESRA has benefitted more than 500 parents and children. In 2019, the programme will be expanded to all M³@Towns with support from the grassroots organisations such as the Community Club Management Committees, Malay Activity Executive Committees (MAECs) and Mosques.
+Piloted in September 2018, the 10-week programme by Yayasan Mendaki and PA MESRA has benefitted more than 500 parents and children. In 2019, the programme will be expanded to all M³@Towns with support from the grassroots organisations such as the Community Club Management Committees, Malay Activity Executive Committees (MAECs) and Mosques. This programme is supported by Temasek Foundation.
 
 ##### **Pre-school Outreach**
 <p class="desc">Championing the importance of pre-school education</p>
