@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: SGTeguhBersatu Taskforce Members
-permalink: /sg-teguh-bersatu/taskforce-members
+permalink: /sgteguhbersatu/taskforce-members
 breadcrumb: SGTeguhBersatu Taskforce Members
 collection_name: sg-teguh-bersatu
 ---
