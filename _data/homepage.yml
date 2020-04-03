@@ -17,6 +17,9 @@ hero-banner: /images/Hero_Banner_v2.png
 
 # Key Highlights
 key-highlights:
+  - title: SG Teguh Bersatu
+    description:  
+    url: /sgteguhbersatu/
   - title: Be a volunteer
     description: Make a difference by joining the M<sup>3</sup> family
     url: /be-a-volunteer/ 
@@ -24,9 +27,7 @@ key-highlights:
   - title: About M<sup>3</sup>
     description: 
     url: /who-we-are/about-m3/ 
-  - title: SG Teguh Bersatu
-    description:  
-    url: /sg-teguh-bersatu/
+  
 
 
 #Google Analytics
