@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Objectives
+title: SGTeguhBersatu Taskforce Members
 permalink: /sg-teguh-bersatu/objectives
-breadcrumb: Objectives
+breadcrumb: SGTeguhBersatu Taskforce Members
 collection_name: sg-teguh-bersatu
 ---
 
-Watch this space for more info!
+
 
