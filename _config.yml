@@ -56,8 +56,7 @@ collections:
     output: true  
   sgteguhbersatu:
     output: true
-  
-resources_name: media-centre
+  resources_name: media-centre
 
 no_contact: true
 
