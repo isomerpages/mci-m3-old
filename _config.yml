@@ -55,7 +55,7 @@ collections:
   inspirasisg:
     output: true  
   sgteguhbersatu:
-  output: true
+    output: true
   
 resources_name: media-centre
 
