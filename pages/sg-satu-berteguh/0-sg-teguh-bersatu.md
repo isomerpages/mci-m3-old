@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: SGTeguhBersatu
-permalink: /sg-teguh-bersatu/
+permalink: /sgteguhbersatu/
 breadcrumb: SGTeguhBersatu
 collection_name: sg-teguh-bersatu
 ---
