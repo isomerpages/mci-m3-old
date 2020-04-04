@@ -18,7 +18,7 @@ collection_name: sgteguhbersatu
   </tr>
   <tr>
     <td>Mr Masagos Zulkifli</td>
-    <td>Minister for the Environment and Water Resources<br><br>Minister-in-charge of Muslim Affairs</td>
+    <td>Minister for the Environment and Water Resources & Minister-in-Charge of Muslim Affairs</td>
   </tr>
   <tr>
     <td></td>
@@ -36,12 +36,12 @@ collection_name: sgteguhbersatu
     <td>Minister of State (National Development and Manpower)</td>
   </tr>
   <tr>
-    <td>Prof Muhammad Faishal Ibrahim</td>
-    <td>Senior Parliamentary Secretary (Social and Family Development)</td>
+    <td>Assoc Prof Dr Faishal Ibrahim</td>
+    <td>Senior Parliamentary Secretary (Social and Family Development and Education)</td>
   </tr>
   <tr>
     <td>Mr Amrin Amin</td>
-    <td>Senior Parliamentary Secretary (Home Affairs)</td>
+    <td>Senior Parliamentary Secretary (Home Affairs and Health)</td>
   </tr>
   <tr>
     <td>Mdm Rahayu Mahzam</td>
@@ -104,6 +104,6 @@ collection_name: sgteguhbersatu
   </tr>
   <tr>
     <td>Ms Regina Low</td>
-    <td>2nd<br> Director, Liaison, Prime Minister’s Office</td>
+    <td>2nd Director, Liaison, Prime Minister’s Office</td>
   </tr>
 </table>
