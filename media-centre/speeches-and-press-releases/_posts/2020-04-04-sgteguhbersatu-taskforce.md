@@ -5,7 +5,7 @@ date:   2020-04-04
 permalink: /media-centre/speeches-and-press-releases/sgteguhbersatu-taskforce/
 ---
 
-Minister-in-Charge of Muslim Affairs Masagos Zulkifli has convened the *SGTeguhBersatu*  Taskforce, which will strengthen the last-mile delivery of national support measures under the Resilience Budget and lead targeted initiatives that support the Malay/Muslim community through the COVID-19 situation.
+Minister-in-Charge of Muslim Affairs Masagos Zulkifli has convened the *SGTeguhBersatu*<sup>1</sup>  Taskforce, which will strengthen the last-mile delivery of national support measures under the Resilience Budget and lead targeted initiatives that support the Malay/Muslim community through the COVID-19 situation.
 
 Minister Masagos will be supported by Malay/Muslim Members of Parliament: 
 
@@ -19,9 +19,9 @@ Minister Masagos will be supported by Malay/Muslim Members of Parliament:
     
    e) Ms Rahayu Mahzam, Member of Parliament for Jurong GRC. 
 
-The *SGTeguhBersatu* Taskforce also includes representatives from M³ agencies [Majlis Ugama Islam Singapura (Muis), Yayasan MENDAKI and People’s Assosciation’s Malay Activity Executive Committees Council (PA MESRA)] as well as representatives from Malay/Muslim organisations [AMP Singapore, Federation of Indian Muslims, Pergas, PPIS and SMCCI] and NTUC. The list of Taskforce members is appended in Annex A. 
+The *SGTeguhBersatu* Taskforce also includes representatives from M³ agencies [Majlis Ugama Islam Singapura (Muis), Yayasan MENDAKI and People’s Assosciation’s Malay Activity Executive Committees Council (PA MESRA)] as well as representatives from Malay/Muslim organisations [AMP Singapore, Federation of Indian Muslims, Pergas, PPIS and SMCCI] and NTUC. 
 
- ## **Objectives** 
+## **Objectives** 
 
 The *SGTeguhBersatu* Taskforce aims to: 
     
@@ -154,3 +154,8 @@ The *SGTeguhBersatu* Taskforce will announce more details on broad initiatives f
     <td>2nd Director, Liaison, Prime Minister’s Office</td>
   </tr>
 </table>
+
+<hr>
+
+###### *<sup>1</sup>Teguh Bersatu means Resilient in Unity in Malay*
+
