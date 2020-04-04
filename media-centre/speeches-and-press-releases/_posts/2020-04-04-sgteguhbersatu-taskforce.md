@@ -20,7 +20,7 @@ Minister Masagos Leads SGTeguhBersatu Taskforce To Provide Targeted Support To M
 
 3. The SGTeguhBersatu Taskforce also includes representatives from M³ agencies [Majlis Ugama Islam Singapura (Muis), Yayasan MENDAKI and People’s Assosciation’s Malay Activity Executive Committees Council (PA MESRA)] as well as representatives from Malay/Muslim organisations [AMP Singapore, Federation of Indian Muslims, Pergas, PPIS and SMCCI] and NTUC. The list of Taskforce members is appended in Annex A. 
 
-   ## **Objectives**
+   #### **Objectives**
 
 4. The SGTeguhBersatu Taskforce aims to: 
    * a)	Strengthen the last-mile delivery of national COVID-19 support measures outlined in the Resilience Budget to the Malay/Muslim community, in areas such as support for employment and upskilling, families and students, and the religious sector.
