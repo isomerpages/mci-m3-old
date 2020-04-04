@@ -6,17 +6,17 @@ breadcrumb: M<sup>3</sup>@Choa Chu Kang
 collection_name: m3-towns
 ---
 
-Launched in May 2019, M³@Chua Chu Kang taps on the strengths of resident volunteers and community leaders to serve the needs of the Malay/Muslim individuals residing within the Chua Chu Kang GRC. It is guided by the values of the GRC's one B.I.G. family — "Beautiful”, “Inclusive” and “Gracious”. It aims to support young couples, families with children, vulnerable individuals and youth of the Malay/Muslim community in Chua Chu Kang. 
+Launched in May 2019, M³@Choa Chu Kang taps on the strengths of resident volunteers and community leaders to serve the needs of the Malay/Muslim individuals residing within the Choa Chu Kang GRC. It is guided by the values of the GRC's one B.I.G. family — "Beautiful”, “Inclusive” and “Gracious”. It aims to support young couples, families with children, vulnerable individuals and youth of the Malay/Muslim community in Choa Chu Kang. 
 
-M³@Chua Chu Kang actively collaborates with its M³ partners to roll out a wide range of programmes at Chua Chu Kang and Keat Hong. These include the KelasMateMatika (KMM), the Marriage Preparation programme and the Marital First Responder programme, which trains community volunteers to provide basic peer marriage support.  
+M³@Choa Chu Kang actively collaborates with its M³ partners to roll out a wide range of programmes at Choa Chu Kang and Keat Hong. These include the KelasMateMatika (KMM), the Marriage Preparation programme and the Marital First Responder programme, which trains community volunteers to provide basic peer marriage support.  
 
-M³@Chua Chu Kang also supports the Yellow Ribbon Project in helping ex-offenders to reintegrate and contribute towards our society. 
+M³@Choa Chu Kang also supports the Yellow Ribbon Project in helping ex-offenders to reintegrate and contribute towards our society. 
 
-At Bukit Gombak, M³@Chua Chu Kang taps on its network of volunteers there to offer a Mentorship programme for Malay youths.
+At Bukit Gombak, M³@Choa Chu Kang taps on its network of volunteers there to offer a Mentorship programme for Malay youths.
 
 <table class="table-h">
   <tr>
-  <td><h5>Key Members of M³@Chua Chu Kang</h5></td>
+  <td><h5>Key Members of M³@Choa Chu Kang</h5></td>
   </tr>
   <tr>
   <td>
