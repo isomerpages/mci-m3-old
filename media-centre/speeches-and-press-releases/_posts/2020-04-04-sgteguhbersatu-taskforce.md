@@ -83,7 +83,7 @@ The *SGTeguhBersatu* Taskforce will announce more details on broad initiatives f
     <td>Minister of State (National Development and Manpower)</td>
   </tr>
   <tr>
-    <td>Assoc Prof Muhammad Faishal Ibrahim</td>
+    <td>Assoc Prof Dr Faishal Ibrahim</td>
     <td>Senior Parliamentary Secretary (Social and Family Development and Education)</td>
   </tr>
   <tr>
