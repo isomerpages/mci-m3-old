@@ -33,8 +33,6 @@ The *SGTeguhBersatu* Taskforce aims to:
    
 The *SGTeguhBersatu* Taskforce aims to harness the Malay/Muslim community’s ‘gotong royong’ spirit. Representatives from the M³ institutions will work with invited representatives of NTUC and a number of Malay/Muslim organisations to work out initiatives and programmes that the community’s key organisations may be interested to collaborate and participate in. By leveraging on the strengths and mobilising the assets and resources of the community, we aim to help the community overcome the challenges brought on by this COVID-19 crisis.
 
-<br>
-
 One key sector that has been affected by the COVID-19 crisis is our religious sector. Muis will work closely with the *SGTeguhBersatu* Taskforce to explore ways to support our mosques and affected asatizah such as:  
 
    a) Enable donations to the mosque via electronic means, such as GIRO contributions and PayLah. This will allow the community to continue regular donations to mosques and allow mosques to sustain programmes (i.e. via online channels) during this period;
