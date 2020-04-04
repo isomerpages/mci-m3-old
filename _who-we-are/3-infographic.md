@@ -63,5 +63,5 @@ collection_name: who-we-are
 
 
 <a href="/images/PDF/Post_COS_Infographic_Malay_672KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/Post_COS_Infographic_Malay_672KB_THUMB.jpg.jpg" alt="M3 Infographic in Malay">672kb
+  <img src="/images/Post_COS_Infographic_Malay_672KB_THUMB.jpg" alt="M3 Infographic in Malay">672kb
 </a>
