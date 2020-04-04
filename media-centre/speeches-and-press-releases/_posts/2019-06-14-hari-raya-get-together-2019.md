@@ -33,6 +33,8 @@ Ladies and gentlemen,
 Para hadirin yang saya hormati
 ### **Keperibadian Masyarakat**
 
+
+
 9. Keperibadian masyarakat iaitu satu dari ciri 3K yang kita titikberatkan. Jika akhlak mencorak identiti seseorang individu, keperibadian masyarakat pula terbentuk dari kelakuan kolektif setiap individu yang mencerminkan identiti masyarakatnya. 
 
 10. Di Singapura, kita telah lama membina identiti masyarakat kita dengan ciri-ciri Islam dan budaya Melayu. Justeru itu, Identiti Muslim Singapura atau SMI telah diolah MUIS berdasarkan lima kualiti yang berkait rapat dengan prinsip ajaran Islam. Singkatan dalam Bahasa Inggerisnya adalah RICAP. Dalam Bahasa Melayu pula, ‘berdaya tahan dalam hal keagamaan’, ‘bersifat inklusif’, ‘suka menyumbang’, ‘mudah menyesuaikan diri’, dan ‘berfikiran progresif’. Dengan RICAP dan etos Rahmatan Lil Alamin, masyarakat Islam Singapura telah hidup dengan harmoni dengan kaum yang berbeza agama bukan sekadar mengamalkan sikap toleransi, tetapi dengan menghormati pandangan yang berbeza. 
