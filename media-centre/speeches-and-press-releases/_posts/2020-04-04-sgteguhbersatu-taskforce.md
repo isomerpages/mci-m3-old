@@ -21,7 +21,7 @@ Minister Masagos will be supported by Malay/Muslim Members of Parliament:
 
 The *SGTeguhBersatu* Taskforce also includes representatives from M³ agencies [Majlis Ugama Islam Singapura (Muis), Yayasan MENDAKI and People’s Assosciation’s Malay Activity Executive Committees Council (PA MESRA)] as well as representatives from Malay/Muslim organisations [AMP Singapore, Federation of Indian Muslims, Pergas, PPIS and SMCCI] and NTUC. The list of Taskforce members is appended in Annex A. 
 
-   #### **Objectives**
+   ### **Objectives** 
 
 The *SGTeguhBersatu* Taskforce aims to: 
     
