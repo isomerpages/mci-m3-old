@@ -9,6 +9,12 @@ collection_name: sgteguhbersatu
 
 Chaired by Mr Masagos Zulkifli, Minister-in-Charge of Muslim Affairs and Minister for the Environment and Water Resources, the *SGTeguhBersatu* Taskforce will look into the last-mile delivery of national initiatives under the Resilience Budget and spearhead targeted initiatives to support the Malay/Muslim community through the COVID-19 situation.
 
+![sgteguhbersatu_infographic_eng](/images/sgteguhbersatu_infographic_eng.jpg)
+
+<br>
+
+![sgteguhbersatu_infographic_mal](/images/sgteguhbersatu_infographic_mal.jpg)
+
 The *SGTeguhBersatu* Taskforce aims to:
 
 a)       Strengthen the last-mile delivery of national COVID-19 support measures outlined in the Resilience Budget to the Malay/Muslim community, in areas such as support for employment and upskilling, families and students, and the religious sector.
