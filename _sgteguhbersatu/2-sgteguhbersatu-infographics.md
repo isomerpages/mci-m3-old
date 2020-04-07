@@ -8,9 +8,12 @@ collection_name: sgteguhbersatu
 
 ### **English Infographic**
 
-![sgteguhbersatu_infographic_eng](/images/sgteguhbersatu_infographic_eng.jpg)
-
+<a href="/images/PDF/sgteguhbersatu_infographic_eng_639kb.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/sgteguhbersatu_infographic_eng_thumb.jpg" alt="M3 Infographic in English">639kb
+</a>
 
 ### **Malay Infographic**
 
-![sgteguhbersatu_infographic_mal](/images/sgteguhbersatu_infographic_mal.jpg)
+<a href="/images/PDF/sgteguhbersatu_infographic_mal_639kb.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/sgteguhbersatu_infographic_mal.jpg" alt="M3 Infographic in English">639kb
+</a>
