@@ -7,7 +7,7 @@ breadcrumb: "Adik Tanya Episode 1 (with Assoc Prof Dr Faishal Ibrahim)"
 ---
 
 <div class="bp-youtube">
-<iframe width="935" height="526" src="https://www.youtube.com/embed/TCHefvTXvQk?list=PLno_SUynjWi-oIBqP9ZCpbVr_Og6iAnMT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCHefvTXvQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
