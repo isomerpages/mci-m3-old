@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jom Ikut Ustaz Episode 1"
-date:   2019-10-31
+date:   2019-12-27
 permalink: /media-centre/videos/jom-ikut-ustaz-ep-1/
 breadcrumb: "Jom Ikut Ustaz Episode 1"
 ---
