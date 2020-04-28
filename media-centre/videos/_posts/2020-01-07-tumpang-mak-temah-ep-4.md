@@ -8,8 +8,8 @@ breadcrumb: "Tumpang Mak Temah Episode 4"
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzxZsKWqxxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<div class="bp-youtube">
+  
+</div>
 
 Are you guys ready for one last ride with Mak Temah? In this final video, Mak Temah gets to hear the story of yet another remarkable individual from our community! Buckle up and enjoy the final ride!
 
