@@ -8,11 +8,9 @@ collection_name: sgteguhbersatu
 
 ### **SGTeguhBersatu Initiatives**
 
-<tr>
-  <td><h5>Initiatives for Ramadan</h5></td>
-  </tr>
+#### **Initiatives for Ramadan**
 
-###### **Ramadan 2020 Handbook – Contemporary Irsyad Series Vol. 2**
+##### **Ramadan 2020 Handbook – Contemporary Irsyad Series Vol. 2**
 The Office of Mufti introduced the Ramadan 2020 Handbook, [“Contemporary Irsyad Series Vol 2”](www.muis.gov.sg/officeofthemufti/irsyad) to guide the community in practising their faith during the COVID-19 pandemic. The Handbook will emphasise the role of Singaporean Muslims as citizens in practising social responsibility to curb the transmission of COVID-19. It includes several religious advisories that have been issued during this outbreak. Other related frequently-asked religious queries that have been put forth by the members of the public are also addressed in the Handbook.
 
 ###### **#SGUnited Buka Puasa**
