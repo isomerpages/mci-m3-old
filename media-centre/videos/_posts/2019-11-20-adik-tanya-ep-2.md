@@ -2,7 +2,7 @@
 layout: post
 title:  "Adik Tanya Episode 2 (with Mdm Rahayu Mahzam)"
 date:   2019-11-20
-permalink: /media-centre/videos/adik-tanya-ep-1/
+permalink: /media-centre/videos/adik-tanya-ep-2/
 breadcrumb: "Adik Tanya Episode 2 (with Mdm Rahayu Mahzam)"
 ---
 
