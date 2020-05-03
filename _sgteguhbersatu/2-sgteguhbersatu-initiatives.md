@@ -59,3 +59,16 @@ Career Advisory Helpline: 6653 1203.
 
 ##### **SMCCI**
 SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a [consultation](www.smcci.org.sg/covid-19response/)  with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
+
+#### **For Students**
+
+##### **Tertiary Tuition Fee Subsidy (TTFS)**
+Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Engineering Diploma) and Building & Construction Authority Academy (Diploma) can re-apply to get a higher subsidy if their household income is affected due to COVID-19.
+[Re-application](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication) is open till Thursday, 15 May 2020 (for polytechnic, ITE & BCA applicants), from 1 May to 31 Jul (for University applicants including NAFA and LaSalle).
+
+##### **Interim Allowance For ITE students**
+Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens.
+To apply, download and fill in the [application form](bit.ly/InterimAllowanceApplication) and submit it to the respective ITE's YouthSpace officer.
+
+##### **Kampus M³**
+A ground-up and self-help [initiative](www.facebook.com/groups/KampusMKuasaTiga) to support parents with primary school students with their homework.
