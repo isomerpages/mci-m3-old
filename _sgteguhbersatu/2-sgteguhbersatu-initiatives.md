@@ -28,3 +28,18 @@ Ceria Ramadan airs on Suria every Tuesday and Thursday on Suria touch on how the
 
 View episodes of Ceria Ramadan at the following link:
 [https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808) 
+
+#### **For The Religipus Sector**
+
+##### **OurMasjid.sg**
+Since the temporary closure of the mosques on 13 March 2020, the community has not been able to donate directly to mosques through donation boxes, which mosques rely on for mosque operations and manpower funding. 
+
+To help mosques in these challenging times, Muis has partnered MuslimSG to launch [OurMasjid.SG] - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
+
+##### **ARS Booklet for Asatizah**
+This booklet provides information on support for asatizah who have been affected by COVID-19 crisis.
+
+##### **Pergas Gracious Package**
+With the temporary closure of mosques and suspension of large-group events and classes due to Covid-19, over 200 asatizah will be economically impacted. These asatizah are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
+
+To ensure that the welfare of local asatizah is well taken care of especially in times of crisis and uncertainty, [Pergas](https://www.pergas.org.sg/gracious-package/) has introduced  the Gracious Package to provide affected asatizah with financial support during these challenging times. 
