@@ -28,5 +28,3 @@ The *SGTeguhBersatu* Taskforce will harness the Malay/Muslim community’s *‘g
 <a href="/images/PDF/sgteguhbersatu_infographic_mal_639kb.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/sgteguhbersatu_infographic_mal.jpg" alt="M3 Infographic in English">Malay Infographic
 </a>
-
-Click [here](https://m3.sg/sgteguhbersatu/infographics) for more information on *SGTeguhBersatu* support initiatives.
