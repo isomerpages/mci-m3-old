@@ -72,3 +72,10 @@ To apply, download and fill in the [application form](bit.ly/InterimAllowanceApp
 
 ##### **Kampus M³**
 A ground-up and self-help [initiative](www.facebook.com/groups/KampusMKuasaTiga) to support parents with primary school students with their homework.
+
+#### **For Families**
+
+##### **Temporary Assistance Package 2.0 (TAP 2.0)**
+AMP Singapore has introduced a $100,000 temporary assistance package to assist families of workers who have been adversely affected by the COVID-19 pandemic.
+
+The Temporary Assistance Package 2.0 or [TAP 2.0](bit.ly/TAPonAMP) will offer temporary support to these families for a period of one year until their household financial situation stabilises. TAP was first introduced in March 2009 to support retrenched workers and their families who were affected by the economic crisis then.
