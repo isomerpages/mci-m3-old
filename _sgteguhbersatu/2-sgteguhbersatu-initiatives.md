@@ -43,3 +43,19 @@ This booklet provides information on support for asatizah who have been affected
 With the temporary closure of mosques and suspension of large-group events and classes due to Covid-19, over 200 asatizah will be economically impacted. These asatizah are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
 
 To ensure that the welfare of local asatizah is well taken care of especially in times of crisis and uncertainty, [Pergas](https://www.pergas.org.sg/gracious-package/) has introduced  the Gracious Package to provide affected asatizah with financial support during these challenging times. 
+
+#### **For Workers & Businesses**
+
+##### **CariKerja App & JUMP Virtual Career Fair**
+Download the FindJobs or Cari Kerja app and visit our JUMP Virtual Career Fair, where more than 1,000 job vacancies across various sectors are available. 
+
+Step by Step Guide to CariKerja - https://bit.ly/sense_carikerja  
+
+##### **Career Advisory Helpline**
+MENDAKI SENSE hotline to provide workers assistance on employment and training enquiries. 
+
+Available from Monday to Friday 8.30am to 6.00pm and Saturday 8.30am to 1.00pm. 
+Career Advisory Helpline: 6653 1203.  
+
+##### **SMCCI**
+SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a [consultation](www.smcci.org.sg/covid-19response/)  with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
