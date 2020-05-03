@@ -24,9 +24,9 @@ Led by Muis, [SalamSG](www.go.gov.sg/salamsg) TV is a web-based channel that wil
 SalamSG TV will showcase religious as well as lifestyle content. It will feature exclusive religious content from several asatizah who will be addressing a diverse range of religious and motivational topics. Several mosques have collaborated to develop a *tajwid* (enunciation) series to guide the community on how to improve your recitation of the Quran. The lifestyle segment will showcase a variety of content, which include arts and crafts and storytelling videos for children, and workshops on Islamic calligraphy and *tarannum* (Quranic melodious recitation).
 
 ##### **Ceria Ramadan**
-Ceria Ramadan airs on Suria every Tuesday and Thursday on Suria touch on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
+*Ceria Ramadan* airs on Suria every Tuesday and Thursday on Suria touch on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
 
-View episodes of Ceria Ramadan at the following link:
+View episodes of *Ceria Ramadan* at the following link:
 [https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808) 
 
 #### **For The Religious Sector**
@@ -34,22 +34,20 @@ View episodes of Ceria Ramadan at the following link:
 ##### **OurMasjid.sg**
 Since the temporary closure of the mosques on 13 March 2020, the community has not been able to donate directly to mosques through donation boxes, which mosques rely on for mosque operations and manpower funding. 
 
-To help mosques in these challenging times, Muis has partnered MuslimSG to launch [OurMasjid.SG] - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
+To help mosques in these challenging times, Muis has partnered MuslimSG to launch [OurMasjid.SG](https://ourmasjid.sg) - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
 
 ##### **ARS Booklet for Asatizah**
 This booklet provides information on support for asatizah who have been affected by COVID-19 crisis.
 
 ##### **Pergas Gracious Package**
-With the temporary closure of mosques and suspension of large-group events and classes due to Covid-19, over 200 asatizah will be economically impacted. These asatizah are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
+With the temporary closure of mosques and suspension of large-group events and classes due to Covid-19, over 200 *asatizah* will be economically impacted. These *asatizah* are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
 
-To ensure that the welfare of local asatizah is well taken care of especially in times of crisis and uncertainty, [Pergas](https://www.pergas.org.sg/gracious-package/) has introduced  the Gracious Package to provide affected asatizah with financial support during these challenging times. 
+To ensure that the welfare of local *asatizah* is well taken care of especially in times of crisis and uncertainty, Pergas has introduced the [Gracious Package](https://www.pergas.org.sg/gracious-package/) to provide affected *asatizah* with financial support during these challenging times. 
 
 #### **For Workers & Businesses**
 
-##### **CariKerja App & JUMP Virtual Career Fair**
-Download the FindJobs or Cari Kerja app and visit our JUMP Virtual Career Fair, where more than 1,000 job vacancies across various sectors are available. 
-
-Step by Step Guide to CariKerja - https://bit.ly/sense_carikerja  
+##### **Cari Kerja App & JUMP Virtual Career Fair**
+[Download](https://bit.ly/sense_carikerja) the Find Jobs or *Cari Kerja* app and visit our JUMP Virtual Career Fair, where more than 1,000 job vacancies across various sectors are available. 
 
 ##### **Career Advisory Helpline**
 MENDAKI SENSE hotline to provide workers assistance on employment and training enquiries. 
@@ -58,13 +56,13 @@ Available from Monday to Friday 8.30am to 6.00pm and Saturday 8.30am to 1.00pm.
 Career Advisory Helpline: 6653 1203.  
 
 ##### **SMCCI**
-SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a [consultation](www.smcci.org.sg/covid-19response/)  with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
+SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a [consultation](www.smcci.org.sg/covid-19response/) with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
 
 #### **For Students**
 
 ##### **Tertiary Tuition Fee Subsidy (TTFS)**
-Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Engineering Diploma) and Building & Construction Authority Academy (Diploma) can re-apply to get a higher subsidy if their household income is affected due to COVID-19.
-[Re-application](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication) is open till Thursday, 15 May 2020 (for polytechnic, ITE & BCA applicants), from 1 May to 31 Jul (for University applicants including NAFA and LaSalle).
+Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Engineering Diploma) and Building & Construction Authority Academy (Diploma) can [re-apply](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication) to get a higher subsidy if their household income is affected due to COVID-19.
+Re-application is open till Thursday, 15 May 2020 (for polytechnic, ITE & BCA applicants), from 1 May to 31 Jul (for University applicants including NAFA and LaSalle).
 
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens.
