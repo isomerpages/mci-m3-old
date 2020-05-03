@@ -29,7 +29,7 @@ Ceria Ramadan airs on Suria every Tuesday and Thursday on Suria touch on how the
 View episodes of Ceria Ramadan at the following link:
 [https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808) 
 
-#### **For The Religipus Sector**
+#### **For The Religious Sector**
 
 ##### **OurMasjid.sg**
 Since the temporary closure of the mosques on 13 March 2020, the community has not been able to donate directly to mosques through donation boxes, which mosques rely on for mosque operations and manpower funding. 
