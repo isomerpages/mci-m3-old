@@ -103,7 +103,6 @@ Malay/Muslim students from ITEs can now apply to get a monthly interim allowance
 Click here to apply: [https://bit.ly/InterimAllowanceApplication](https://bit.ly/InterimAllowanceApplication)
 
   <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_1_98KB.jpg" alt="Interim Allowance For ITE students">
-</a>
 
   <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_2_98KB.jpg" alt="Interim Allowance For ITE students">Interim Allowance For ITE students
 </a>
