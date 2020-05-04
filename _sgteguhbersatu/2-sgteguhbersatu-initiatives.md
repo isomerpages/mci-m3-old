@@ -36,6 +36,7 @@ Since the temporary closure of the mosques on 13 March 2020, the community has n
 To help mosques in these challenging times, Muis has partnered MuslimSG to launch [OurMasjid.SG](https://ourmasjid.sg) - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
 
 Visit OurMasjid.SG in [English](https://ourmasjid.sg)
+
 Visit OurMasjid.SG in [Malay](https://ourmasjid.sg/ms/ourmasjid-home-ml/)
 
 
