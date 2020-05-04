@@ -105,7 +105,6 @@ Click here to apply: [https://bit.ly/InterimAllowanceApplication](https://bit.ly
   <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_1_98KB.jpg" alt="Interim Allowance For ITE students">
 
   <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_2_98KB.jpg" alt="Interim Allowance For ITE students">Interim Allowance For ITE students
-</a>
 
 ##### **Kampus M³**
 A ground-up and self-help initiative to support parents with primary school students with their homework.
