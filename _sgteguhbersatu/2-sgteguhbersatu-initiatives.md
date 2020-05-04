@@ -44,7 +44,7 @@ Visit OurMasjid.SG in [Malay](https://ourmasjid.sg/ms/ourmasjid-home-ml/).
 This booklet provides information on support for asatizah who have been affected by COVID-19 crisis.
 
 <a href="/images/PDF/ARS_BOOKLET_FOR_ASATIZAH_2.2MB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/ARS_BOOKLET_FOR_ASATIZAH_THUMB_1.3MB.jpg" alt="ARS Booklet for Asatizah
+  <img src="/images/ARS_BOOKLET_FOR_ASATIZAH_THUMB_1.3MB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
 </a>
   
 ##### **Pergas Gracious Package**
