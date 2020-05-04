@@ -16,7 +16,7 @@ The Office of Mufti introduced the Ramadan 2020 Handbook, [“Contemporary Irsya
 ##### **#SGUnited Buka Puasa**
 The #SGUnited [Buka Puasa](https://www.bukapuasa.sg) initiative is a ground-up effort to provide meals for breaking of fast during the month of Ramadan. Daily meals will be extended to two groups within the community, i) healthcare professionals and their families; and ii) Majlis Ugama Islam Singapura (Muis)’ *zakat* beneficiaries and other families who require the provision of meals during this challenging time. This initiative aims to express our gratitude and solidarity with those on the frontlines of the battle against COVID-19 and to support those who are significantly affected by the outbreak.
 
-For donations: [https://www.givin.sg/rlafoundationsg/bukapuasafund](https://www.givin.sg/rlafoundationsg/bukapuasafund)
+For donations: [https://www.giving.sg/rlafoundationsg/bukapuasafund](https://www.giving.sg/rlafoundationsg/bukapuasafund)
 
 ##### **Salam SG**
 Led by Muis, [SalamSG](http://go.gov.sg/salamsgtv) TV is a web-based channel that will provide content during the month of Ramadan. SalamSG TV aims to enhance the community’s Ramadan spiritual experience and strengthen the psychological resilience of the community. 
@@ -24,10 +24,9 @@ Led by Muis, [SalamSG](http://go.gov.sg/salamsgtv) TV is a web-based channel tha
 SalamSG TV will showcase religious as well as lifestyle content. It will feature exclusive religious content from several asatizah who will be addressing a diverse range of religious and motivational topics. Several mosques have collaborated to develop a *tajwid* (enunciation) series to guide the community on how to improve your recitation of the Quran. The lifestyle segment will showcase a variety of content, which include arts and crafts and storytelling videos for children, and workshops on Islamic calligraphy and *tarannum* (Quranic melodious recitation).
 
 ##### **Ceria Ramadan**
-*Ceria Ramadan* airs on Suria every Tuesday and Thursday on Suria touch on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
+Ceria Ramadan airs on Suria every Tuesday and Thursday. It touches on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
 
-View episodes of *Ceria Ramadan* at the following link:
-[https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808) 
+View episodes of Ceria Ramadan at the following [link](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808):
 
 #### **For The Religious Sector**
 
@@ -36,18 +35,25 @@ Since the temporary closure of the mosques on 13 March 2020, the community has n
 
 To help mosques in these challenging times, Muis has partnered MuslimSG to launch [OurMasjid.SG](https://ourmasjid.sg) - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
 
+Visit OurMasjid.SG in [English](https://ourmasjid.sg)
+
+Visit OurMasjid.SG in [Malay](https://ourmasjid.sg/ms/ourmasjid-home-ml/)
+
+
 ##### **ARS Booklet for Asatizah**
 This booklet provides information on support for asatizah who have been affected by COVID-19 crisis.
 
 ##### **Pergas Gracious Package**
-With the temporary closure of mosques and suspension of large-group events and classes due to Covid-19, over 200 *asatizah* will be economically impacted. These *asatizah* are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
+With the temporary closure of mosques and suspension of large-group events and classes due to COVID-19, over 200 *asatizah* will be economically impacted. These *asatizah* are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
 
 To ensure that the welfare of local *asatizah* is well taken care of especially in times of crisis and uncertainty, Pergas has introduced the [Gracious Package](https://www.pergas.org.sg/gracious-package/) to provide affected *asatizah* with financial support during these challenging times. 
 
 #### **For Workers & Businesses**
 
-##### **Cari Kerja App & JUMP Virtual Career Fair**
-[Download](https://bit.ly/sense_carikerja) the Find Jobs or *Cari Kerja* app and visit our JUMP Virtual Career Fair, where more than 1,000 job vacancies across various sectors are available. 
+##### **CariKerja App & JUMP Virtual Career Fair**
+Download the Find Jobs or *CariKerja* app and visit our JUMP Virtual Career Fair, where more than 1,000 job vacancies across various sectors are available. 
+
+Follow this [link](https://bit.ly/sense_carikerja) for a Step by Step Guide to CariKerja.
 
 ##### **Career Advisory Helpline**
 MENDAKI SENSE hotline to provide workers assistance on employment and training enquiries. 
@@ -62,10 +68,12 @@ SMCCI, together with SME Centre@SMCCI, will work with members in identifying mea
 
 ##### **Tertiary Tuition Fee Subsidy (TTFS)**
 Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Engineering Diploma) and Building & Construction Authority Academy (Diploma) can [re-apply](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication) to get a higher subsidy if their household income is affected due to COVID-19.
+
 Re-application is open till Thursday, 15 May 2020 (for polytechnic, ITE & BCA applicants), from 1 May to 31 Jul (for University applicants including NAFA and LaSalle).
 
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens.
+
 To apply, download and fill in the [application form](https://bit.ly/InterimAllowanceApplication) and submit it to the respective ITE's YouthSpace officer.
 
 ##### **Kampus M³**
