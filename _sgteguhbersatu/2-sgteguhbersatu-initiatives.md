@@ -11,7 +11,7 @@ collection_name: sgteguhbersatu
 #### **Initiatives for Ramadan**
 
 ##### **Ramadan 2020 Handbook – Contemporary Irsyad Series Vol. 2**
-The Office of Mufti introduced the Ramadan 2020 Handbook, [“Contemporary Irsyad Series Vol 2”](https://www.muis.gov.sg/officeofthemufti/irsyad) to guide the community in practising their faith during the COVID-19 pandemic. The Handbook will emphasise the role of Singaporean Muslims as citizens in practising social responsibility to curb the transmission of COVID-19. It includes several religious advisories that have been issued during this outbreak. Other related frequently-asked religious queries that have been put forth by the members of the public are also addressed in the Handbook.
+The Office of Mufti introduced the Ramadan 2020 Handbook, [“Contemporary Irsyad Series Vol 2”](https://www.muis.gov.sg/-/media/Files/OOM/Resources/CIS-Ramadan-2.pdf?la=en&hash=148624AE1C15E8D5FB1DCCF9A3222E1F4616FE4E) to guide the community in practising their faith during the COVID-19 pandemic. The Handbook will emphasise the role of Singaporean Muslims as citizens in practising social responsibility to curb the transmission of COVID-19. It includes several religious advisories that have been issued during this outbreak. Other related frequently-asked religious queries that have been put forth by the members of the public are also addressed in the Handbook.
 
 ##### **#SGUnited Buka Puasa**
 The #SGUnited [Buka Puasa](https://www.bukapuasa.sg) initiative is a ground-up effort to provide meals for breaking of fast during the month of Ramadan. Daily meals will be extended to two groups within the community, i) healthcare professionals and their families; and ii) Majlis Ugama Islam Singapura (Muis)’ *zakat* beneficiaries and other families who require the provision of meals during this challenging time. This initiative aims to express our gratitude and solidarity with those on the frontlines of the battle against COVID-19 and to support those who are significantly affected by the outbreak.
@@ -26,18 +26,18 @@ SalamSG TV will showcase religious as well as lifestyle content. It will feature
 ##### **Ceria Ramadan**
 Ceria Ramadan airs on Suria every Tuesday and Thursday. It touches on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
 
-View episodes of Ceria Ramadan at the following [link](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808):
+View episodes of Ceria Ramadan [here](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808):
 
 #### **For The Religious Sector**
 
 ##### **OurMasjid.sg**
 Since the temporary closure of the mosques on 13 March 2020, the community has not been able to donate directly to mosques through donation boxes, which mosques rely on for mosque operations and manpower funding. 
 
-To help mosques in these challenging times, Muis has partnered MuslimSG to launch [OurMasjid.SG](https://ourmasjid.sg) - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
+To help mosques in these challenging times, Muis has partnered MuslimSG to launch OurMasjid.SG - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
 
-Visit OurMasjid.SG in [English](https://ourmasjid.sg)
+Visit OurMasjid.SG in [English](https://ourmasjid.sg).
 
-Visit OurMasjid.SG in [Malay](https://ourmasjid.sg/ms/ourmasjid-home-ml/)
+Visit OurMasjid.SG in [Malay](https://ourmasjid.sg/ms/ourmasjid-home-ml/).
 
 
 ##### **ARS Booklet for Asatizah**
@@ -51,7 +51,7 @@ To ensure that the welfare of local *asatizah* is well taken care of especially 
 #### **For Workers & Businesses**
 
 ##### **CariKerja App & JUMP Virtual Career Fair**
-Download the Find Jobs or *CariKerja* app and visit our JUMP Virtual Career Fair, where more than 1,000 job vacancies across various sectors are available. 
+Download the FindJobs or CariKerja app and visit our JUMP Virtual Career Fair, where more than 1,000 job vacancies across various sectors are available. 
 
 Follow this [link](https://bit.ly/sense_carikerja) for a Step by Step Guide to CariKerja.
 
