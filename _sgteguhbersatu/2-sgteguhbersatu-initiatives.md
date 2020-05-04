@@ -59,7 +59,7 @@ To ensure that the welfare of local *asatizah* is well taken care of especially 
 
 Click here for more information: [https://www.pergas.org.sg/gracious-package/](https://www.pergas.org.sg/gracious-package/)
 
-<a href="PERGAS_GRACIOUS_PACKAGE_230KB.pdf" class="project-link no-pdf-icon" target="_blank">
+<a href="/images/PDF/PERGAS_GRACIOUS_PACKAGE_230KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/PERGAS_GRACIOUS_PACKAGE_THUMB_872KB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
 </a>
 
