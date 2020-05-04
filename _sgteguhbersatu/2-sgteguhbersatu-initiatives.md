@@ -82,7 +82,6 @@ Career Advisory Helpline: 6653 1203.
 
 <a href="/images/PDF/CAREER_ADVISORY_HELPLINE_122KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/CAREER_ADVISORY_HELPLINE_THUMB_1.8MB.jpg" alt="Career Advisory Helpline">Career Advisory Helpline
-</a>
 
 ##### **SMCCI**
 SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a consultation with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
@@ -97,7 +96,6 @@ Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Enginee
 Click here to re-apply: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication)
 
   <img src="/images/TTFS_MENDAKI_4.9MB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
-</a>
 
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens. Download and fill in the application form and submit it to the respective ITE's YouthSpace officer.
