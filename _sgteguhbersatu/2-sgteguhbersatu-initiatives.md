@@ -16,10 +16,10 @@ The Office of Mufti introduced the Ramadan 2020 Handbook, [“Contemporary Irsya
 ##### **#SGUnited Buka Puasa**
 The #SGUnited [Buka Puasa](https://www.bukapuasa.sg) initiative is a ground-up effort to provide meals for breaking of fast during the month of Ramadan. Daily meals will be extended to two groups within the community, i) healthcare professionals and their families; and ii) Majlis Ugama Islam Singapura (Muis)’ *zakat* beneficiaries and other families who require the provision of meals during this challenging time. This initiative aims to express our gratitude and solidarity with those on the frontlines of the battle against COVID-19 and to support those who are significantly affected by the outbreak.
 
-For donations: [www.givin.sg/rlafoundationsg/bukapuasafund](https://www.givin.sg/rlafoundationsg/bukapuasafund)
+For donations: [https://www.givin.sg/rlafoundationsg/bukapuasafund](https://www.givin.sg/rlafoundationsg/bukapuasafund)
 
 ##### **Salam SG**
-Led by Muis, [SalamSG](https://www.go.gov.sg/salamsg) TV is a web-based channel that will provide content during the month of Ramadan. SalamSG TV aims to enhance the community’s Ramadan spiritual experience and strengthen the psychological resilience of the community. 
+Led by Muis, [SalamSG](http://go.gov.sg/salamsgtv) TV is a web-based channel that will provide content during the month of Ramadan. SalamSG TV aims to enhance the community’s Ramadan spiritual experience and strengthen the psychological resilience of the community. 
 
 SalamSG TV will showcase religious as well as lifestyle content. It will feature exclusive religious content from several asatizah who will be addressing a diverse range of religious and motivational topics. Several mosques have collaborated to develop a *tajwid* (enunciation) series to guide the community on how to improve your recitation of the Quran. The lifestyle segment will showcase a variety of content, which include arts and crafts and storytelling videos for children, and workshops on Islamic calligraphy and *tarannum* (Quranic melodious recitation).
 
@@ -56,7 +56,7 @@ Available from Monday to Friday 8.30am to 6.00pm and Saturday 8.30am to 1.00pm.
 Career Advisory Helpline: 6653 1203.  
 
 ##### **SMCCI**
-SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a [consultation](www.smcci.org.sg/covid-19response/) with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
+SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a [consultation](https://www.smcci.org.sg/covid-19response/) with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
 
 #### **For Students**
 
