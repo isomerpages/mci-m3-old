@@ -26,7 +26,7 @@ SalamSG TV will showcase religious as well as lifestyle content. It will feature
 ##### **Ceria Ramadan**
 Ceria Ramadan airs on Suria every Tuesday and Thursday. It touches on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
 
-View episodes of Ceria Ramadan [here](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808):
+View episodes of Ceria Ramadan [here](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808).
 
 #### **For The Religious Sector**
 
