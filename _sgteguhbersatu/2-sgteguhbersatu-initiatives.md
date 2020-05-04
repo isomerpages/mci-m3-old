@@ -27,7 +27,7 @@ Led by Muis, SalamSG TV is a web-based channel that will provide content during 
 
 SalamSG TV will showcase religious as well as lifestyle content. It will feature exclusive religious content from several asatizah who will be addressing a diverse range of religious and motivational topics. Several mosques have collaborated to develop a *tajwid* (enunciation) series to guide the community on how to improve your recitation of the Quran. The lifestyle segment will showcase a variety of content, which include arts and crafts and storytelling videos for children, and workshops on Islamic calligraphy and *tarannum* (Quranic melodious recitation).
 
-Click here for more information: [go.gov.sg/salamsgtv](https://go.gov.sg/salamsgtv).
+Click here for more information: [www.go.gov.sg/salamsgtv](https://go.gov.sg/salamsgtv).
 
 ##### **Ceria Ramadan**
 Ceria Ramadan airs on Suria every Tuesday and Thursday. It touches on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
@@ -41,9 +41,9 @@ Since the temporary closure of the mosques on 13 March 2020, the community has n
 
 To help mosques in these challenging times, Muis has partnered MuslimSG to launch OurMasjid.SG - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
 
-Click here to visit OurMasjid.SG in English: [ourmasjid.sg](https://ourmasjid.sg).
+Click here to visit OurMasjid.SG in English: [www.ourmasjid.sg](https://ourmasjid.sg).
 
-Click here to visit OurMasjid.SG in Malay: [ourmasjid.sg/ms/ourmasjid-home-ml/](https://ourmasjid.sg/ms/ourmasjid-home-ml/).
+Click here to visit OurMasjid.SG in Malay: [www.ourmasjid.sg/ms/ourmasjid-home-ml/](https://ourmasjid.sg/ms/ourmasjid-home-ml/).
 
 ##### **ARS Booklet for Asatizah**
 This booklet provides information on support for *asatizah* who have been affected by COVID-19 crisis.
@@ -96,17 +96,18 @@ Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Enginee
 
 Click here to re-apply: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication)
 
- [(Tertiary Tuition Fee Subsidy (TTFS)](images/TTFS_MENDAKI_4.9MB.jpg)
+  <img src="/images/TTFS_MENDAKI_4.9MB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
+</a>
 
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens. Download and fill in the application form and submit it to the respective ITE's YouthSpace officer.
 
 Click here to apply: [https://bit.ly/InterimAllowanceApplication](https://bit.ly/InterimAllowanceApplication)
 
-  <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_1_98KB.jpg" alt="Interim Allowance For ITE students">Interim Allowance For ITE students (1)
+  <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_1_98KB.jpg" alt="Interim Allowance For ITE students">
 </a>
 
-  <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_2_98KB.jpg" alt="Interim Allowance For ITE students">Interim Allowance For ITE students (2)
+  <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_2_98KB.jpg" alt="Interim Allowance For ITE students">Interim Allowance For ITE students
 </a>
 
 ##### **Kampus M³**
