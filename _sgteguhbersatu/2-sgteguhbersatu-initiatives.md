@@ -44,9 +44,9 @@ Visit OurMasjid.SG here – [English](https://ourmasjid.sg) & [Malay](https://ou
 ##### **ARS Booklet for Asatizah**
 This booklet provides information on support for *asatizah* who have been affected by COVID-19 crisis.
 
-<img src="/images/ARS_BOOKLET_FOR_ASATIZAH_THUMB_1.3MB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
-<a href="/images/PDF/ARS_BOOKLET_FOR_ASATIZAH_2.2MB.pdf" class="project-link no-pdf-icon" target="_blank">
-</a>   
+ <a href="/images/PDF/SUPPORT_ASATIZAH_2.5MB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/SUPPORT_ASATIZAH_THUMB_319KB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
+</a>
   
 ##### **Pergas Gracious Package**
 With the temporary closure of mosques and suspension of large-group events and classes due to COVID-19, over 200 *asatizah* will be economically impacted. These *asatizah* are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
@@ -55,8 +55,8 @@ To ensure that the welfare of local *asatizah* is well taken care of especially 
 
 Click here for more information: [www.pergas.org.sg/gracious-package/](https://www.pergas.org.sg/gracious-package/)
 
-<a href="/images/PDF/PERGAS_GRACIOUS_PACKAGE_230KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/PERGAS_GRACIOUS_PACKAGE_THUMB_872KB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
+<a href="/images/PDF/PERGAS_230KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/PERGAS_THUMB_17KB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
 </a>
 
 #### **FOR WORKERS & BUSINESSES**
@@ -67,7 +67,7 @@ Download the FindJobs or *CariKerja* app and visit our JUMP Virtual Career Fair,
 Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly/sense_carikerja)
 
 <a href="/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_THUMB_1.2MB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
+  <img src="/images/#STAYHOME_274KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
 </a>
 
 ##### **Career Advisory Helpline**
@@ -77,7 +77,7 @@ Available from Monday to Friday 8.30am to 6.00pm and Saturday 8.30am to 1.00pm.
 Career Advisory Helpline: 6653 1203.
 
 <a href="/images/PDF/CAREER_ADVISORY_HELPLINE_122KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/CAREER_ADVISORY_HELPLINE_THUMB_1.8MB.jpg" alt="Career Advisory Helpline">Career Advisory Helpline
+  <img src="/images/CAREER_ADVISORY_HELPLINE_THUMB_426KBjpg.jpg." alt="Career Advisory Helpline">Career Advisory Helpline
 
 ##### **SMCCI**
 SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a consultation with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
@@ -91,15 +91,16 @@ Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Enginee
 
 Click here to re-apply: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication)
 
-  <img src="/images/TTFS_MENDAKI_4.9MB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">
-
+<a href="/images/PDF/TTFS_MENDAKI_4.9MB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/TTFS_MENDAKI_THUMB_257KB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
+  
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens. Download and fill in the application form and submit it to the respective ITE's YouthSpace officer.
 
 
 Click here to apply: [https://bit.ly/InterimAllowanceApplication](https://bit.ly/InterimAllowanceApplication)
 
-  <img src="/images/COMBINED_INTERIM_ALLOWANCE_FOR_ITESTUDENTS_TWO_647KBjpg" alt="Interim Allowance For ITE students">
+  <img src="/images/COMBINED_INTERIM_ALLOWANCE_FOR_ITE STUDENTS_TWO_647KB.jpg" alt="Interim Allowance For ITE students">
   
 ##### **Kampus M³**
 A ground-up and self-help initiative to support parents with primary school students with their homework.
