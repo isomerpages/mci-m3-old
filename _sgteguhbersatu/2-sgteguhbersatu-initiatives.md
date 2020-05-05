@@ -97,7 +97,7 @@ Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Enginee
 
 Click here to re-apply: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication)
 
-  <img src="/images/TTFS_MENDAKI_4.9MB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
+  <img src="/images/TTFS_MENDAKI_4.9MB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">
 
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens. Download and fill in the application form and submit it to the respective ITE's YouthSpace officer.
@@ -106,8 +106,8 @@ Click here to apply: [https://bit.ly/InterimAllowanceApplication](https://bit.ly
 
   <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_1_98KB.jpg" alt="Interim Allowance For ITE students">
 
-  <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_2_98KB.jpg" alt="Interim Allowance For ITE students">Interim Allowance For ITE students
-
+  <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_2_98KB.jpg" alt="Interim Allowance For ITE students">
+  
 ##### **Kampus M³**
 A ground-up and self-help initiative to support parents with primary school students with their homework.
 
