@@ -47,8 +47,7 @@ Visit OurMasjid.SG here – [English](https://ourmasjid.sg) & [Malay](https://ou
 This booklet provides information on support for *asatizah* who have been affected by COVID-19 crisis.
 
  <a href="/images/PDF/SUPPORT_ASATIZAH_2.5MB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/SUPPORT_ASATIZAH_THUMB_319KB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
-</a>
+  <img src="/images/SUPPORT_ASATIZAH_THUMB_319KB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
   
 ##### **Pergas Gracious Package**
 With the temporary closure of mosques and suspension of large-group events and classes due to COVID-19, over 200 *asatizah* will be economically impacted. These *asatizah* are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
@@ -69,7 +68,7 @@ Download the FindJobs or *CariKerja* app and visit our JUMP Virtual Career Fair,
 Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly/sense_carikerja)
 
 <a href="/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/STAYHOME_274KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
+  <img src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_274KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
 </a>
 
 ##### **Career Advisory Helpline**
@@ -79,7 +78,7 @@ Available from Monday to Friday 8.30am to 6.00pm and Saturday 8.30am to 1.00pm.
 Career Advisory Helpline: 6653 1203.
 
 <a href="/images/PDF/CAREER_ADVISORY_HELPLINE_122KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/CAREER_ADVISORY_HELPLINE_THUMB_426KB.jpg." alt="Career Advisory Helpline">Career Advisory Helpline
+  <img src="/images/CAREER_ADVISORY_HELPLINE_THUMB_426KB.jpg" alt="Career Advisory Helpline">Career Advisory Helpline
 
 ##### **SMCCI**
 SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a consultation with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
