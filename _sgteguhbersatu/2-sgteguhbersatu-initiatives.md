@@ -18,14 +18,16 @@ View the Contemporary Irsyad Series Vol 2 here – [English](https://bit.ly/3cdB
 ##### **#SGUnited Buka Puasa**
 The #SGUnited Buka Puasa initiative is a ground-up effort to provide meals for breaking of fast during the month of Ramadan. Daily meals will be extended to two groups within the community, i) healthcare professionals and their families; and ii) Majlis Ugama Islam Singapura (Muis)’ *zakat* beneficiaries and other families who require the provision of meals during this challenging time. This initiative aims to express our gratitude and solidarity with those on the frontlines of the battle against COVID-19 and to support those who are significantly affected by the outbreak.
 
-Visit [www.bukapuasa.sg](https://www.bukapuasa.sg) for more information. To donate, visit [www.giving.sg/rlafoundationsg/bukapuasafund](https://www.giving.sg/rlafoundationsg/bukapuasafund) 
+Visit [www.bukapuasa.sg](https://www.bukapuasa.sg) for more information. 
+
+To donate, visit [www.giving.sg/rlafoundationsg/bukapuasafund](https://www.giving.sg/rlafoundationsg/bukapuasafund) 
 
 ##### **SalamSG**
 Led by Muis, SalamSG TV is a web-based channel that will provide content during the month of Ramadan. SalamSG TV aims to enhance the community’s Ramadan spiritual experience and strengthen the psychological resilience of the community. 
 
 SalamSG TV will showcase religious as well as lifestyle content. It will feature exclusive religious content from several asatizah who will be addressing a diverse range of religious and motivational topics. Several mosques have collaborated to develop a *tajwid* (enunciation) series to guide the community on how to improve your recitation of the Quran. The lifestyle segment will showcase a variety of content, which include arts and crafts and storytelling videos for children, and workshops on Islamic calligraphy and *tarannum* (Quranic melodious recitation).
 
-Visit [www.go.gov.sg/salamsg](https://go.gov.sg/salamsg) for more information. 
+Visit [www.go.gov.sg/salamsgtv](https://go.gov.sg/salamsgtv) for more information. 
 
 ##### **Ceria Ramadan**
 Ceria Ramadan airs on Suria every Tuesday and Thursday. It touches on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
@@ -67,7 +69,7 @@ Download the FindJobs or *CariKerja* app and visit our JUMP Virtual Career Fair,
 Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly/sense_carikerja)
 
 <a href="/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/#STAYHOME_274KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
+  <img src="/images/STAYHOME_274KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
 </a>
 
 ##### **Career Advisory Helpline**
@@ -77,7 +79,7 @@ Available from Monday to Friday 8.30am to 6.00pm and Saturday 8.30am to 1.00pm.
 Career Advisory Helpline: 6653 1203.
 
 <a href="/images/PDF/CAREER_ADVISORY_HELPLINE_122KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/CAREER_ADVISORY_HELPLINE_THUMB_426KBjpg.jpg." alt="Career Advisory Helpline">Career Advisory Helpline
+  <img src="/images/CAREER_ADVISORY_HELPLINE_THUMB_426KB.jpg." alt="Career Advisory Helpline">Career Advisory Helpline
 
 ##### **SMCCI**
 SMCCI, together with SME Centre@SMCCI, will work with members in identifying measures and leveraging on available programmes that have been put in place to assist businesses. Members can book a consultation with SMCCI to assess support schemes that they can tap on to see them through these challenging times.
