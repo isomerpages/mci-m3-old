@@ -46,6 +46,8 @@ Visit OurMasjid.SG here – [English](https://ourmasjid.sg) & [Malay](https://ou
 ##### **ARS Booklet for Asatizah**
 This booklet provides information on support for *asatizah* who have been affected by COVID-19 crisis.
 
+Click [here](SUPPORT_ASATIZAH_2.5MB.pdf) to view the ARS Booklet.
+
  <a href="/images/PDF/SUPPORT_ASATIZAH_2.5MB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/SUPPORT_ASATIZAH_THUMB_319KB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
   
@@ -54,7 +56,9 @@ With the temporary closure of mosques and suspension of large-group events and c
 
 To ensure that the welfare of local *asatizah* is well taken care of especially in times of crisis and uncertainty, Pergas has introduced the Gracious Package to provide affected *asatizah* with financial support during these challenging times. 
 
-Click here for more information: [www.pergas.org.sg/gracious-package/](https://www.pergas.org.sg/gracious-package/)
+Visit www.pergas.org.sg/gracious-package for more information.
+
+Click here to view [infographics](PERGAS_230KB.pdf) on Pergas Gracious Package.
 
 <a href="/images/PDF/PERGAS_230KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/PERGAS_THUMB_17KB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
@@ -67,6 +71,8 @@ Download the FindJobs or *CariKerja* app and visit our JUMP Virtual Career Fair,
 
 Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly/sense_carikerja)
 
+Click here to view [infographics](CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf) on the CariKerja App. 
+
 <a href="/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_274KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
 </a>
@@ -75,7 +81,9 @@ Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly
 A MENDAKI SENSE hotline to provide workers assistance on employment and training enquiries. 
 Available from Monday to Friday 8.30am to 6.00pm and Saturday 8.30am to 1.00pm.
 
-Career Advisory Helpline: 6653 1203.
+Call the Career Advisory Helpline at 6653 1203 for more information. 
+
+Click here to view [infographics](CAREER_ADVISORY_HELPLINE_122KB.pdf) on the Career Avisory Helpline. 
 
 <a href="/images/PDF/CAREER_ADVISORY_HELPLINE_122KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/CAREER_ADVISORY_HELPLINE_THUMB_426KB.jpg" alt="Career Advisory Helpline">Career Advisory Helpline
@@ -90,7 +98,9 @@ Click here to book a consultation: [www.smcci.org.sg/covid-19response/](https://
 ##### **Tertiary Tuition Fee Subsidy (TTFS)**
 Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Engineering Diploma) and Building & Construction Authority Academy (Diploma) can re-apply to get a higher subsidy if their household income is affected due to COVID-19. Re-application is open till Thursday, 15 May 2020 (for polytechnic, ITE & BCA applicants), from 1 May to 31 Jul (for University applicants including NAFA and LaSalle).
 
-Click here to re-apply: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication)
+To reapply for TTFS, visit: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication) 
+
+Click here to view the [infographics](TTFS_MENDAKI_4.9MB.pdf) on MENDAKI’s TTFS. 
 
 <a href="/images/PDF/TTFS_MENDAKI_4.9MB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/TTFS_MENDAKI_THUMB_257KB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
@@ -98,10 +108,7 @@ Click here to re-apply: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](ht
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens. Download and fill in the application form and submit it to the respective ITE's YouthSpace officer.
 
-
-Click here to apply: [https://bit.ly/InterimAllowanceApplication](https://bit.ly/InterimAllowanceApplication)
-
-  <img src="/images/COMBINED_INTERIM_ALLOWANCE_FOR_ITE STUDENTS_TWO_647KB.jpg" alt="Interim Allowance For ITE students">
+To apply, visit: [https://bit.ly/InterimAllowanceApplication](https://bit.ly/InterimAllowanceApplication)
   
 ##### **Kampus M³**
 A ground-up and self-help initiative to support parents with primary school students with their homework.
@@ -115,4 +122,4 @@ AMP Singapore has introduced a $100,000 temporary assistance package to assist f
 
 The Temporary Assistance Package 2.0 or TAP 2.0 will offer temporary support to these families for a period of one year until their household financial situation stabilises. TAP was first introduced in March 2009 to support retrenched workers and their families who were affected by the economic crisis then.
 
-Click here for more information: [https://bit.ly/TAPonAMP](https://bit.ly/TAPonAMP)
+For more information, visit: [https://bit.ly/TAPonAMP](https://bit.ly/TAPonAMP)
