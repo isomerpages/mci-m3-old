@@ -45,9 +45,8 @@ Visit OurMasjid.SG here – [English](https://ourmasjid.sg) & [Malay](https://ou
 This booklet provides information on support for *asatizah* who have been affected by COVID-19 crisis.
 
 <img src="/images/ARS_BOOKLET_FOR_ASATIZAH_THUMB_1.3MB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
-</a>
 <a href="/images/PDF/ARS_BOOKLET_FOR_ASATIZAH_2.2MB.pdf" class="project-link no-pdf-icon" target="_blank">
-  
+</a>   
   
 ##### **Pergas Gracious Package**
 With the temporary closure of mosques and suspension of large-group events and classes due to COVID-19, over 200 *asatizah* will be economically impacted. These *asatizah* are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
