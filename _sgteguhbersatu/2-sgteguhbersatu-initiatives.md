@@ -96,11 +96,10 @@ Click here to re-apply: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](ht
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens. Download and fill in the application form and submit it to the respective ITE's YouthSpace officer.
 
+
 Click here to apply: [https://bit.ly/InterimAllowanceApplication](https://bit.ly/InterimAllowanceApplication)
 
-  <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_ONE_<308KB>.jpg" alt="Interim Allowance For ITE students">
-
-  <img src="/images/INTERIM ALLOWANCE FOR ITE STUDENTS_TWO_<460KB>.jpg" alt="Interim Allowance For ITE students">
+  <img src="/images/(COMBINED_INTERIM_ALLOWANCE_FOR_ITE STUDENTS_TWO_647KBjpg" alt="Interim Allowance For ITE students">
   
 ##### **Kampus M³**
 A ground-up and self-help initiative to support parents with primary school students with their homework.
