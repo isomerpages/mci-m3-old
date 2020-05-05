@@ -46,7 +46,7 @@ Visit OurMasjid.SG here – [English](https://ourmasjid.sg) & [Malay](https://ou
 ##### **ARS Booklet for Asatizah**
 This booklet provides information on support for *asatizah* who have been affected by COVID-19 crisis.
 
-Click [here](images/PDF/SUPPORT_ASATIZAH_2.5MB.pdf) to view the ARS Booklet.
+Click [here](/images/PDF/SUPPORT_ASATIZAH_2.5MB.pdf) to view the ARS Booklet.
 
  <a href="/images/PDF/SUPPORT_ASATIZAH_2.5MB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/SUPPORT_ASATIZAH_THUMB_319KB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
@@ -58,7 +58,7 @@ To ensure that the welfare of local *asatizah* is well taken care of especially 
 
 Visit [www.pergas.org.sg/gracious-package](www.pergas.org.sg/gracious-package) for more information.
 
-Click here to view [infographics](images/PDF/PERGAS_230KB.pdf) on Pergas Gracious Package.
+Click here to view [infographics](/images/PDF/PERGAS_230KB.pdf) on Pergas Gracious Package.
 
 <a href="/images/PDF/PERGAS_230KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/PERGAS_THUMB_17KB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
@@ -71,7 +71,7 @@ Download the FindJobs or *CariKerja* app and visit our JUMP Virtual Career Fair,
 
 Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly/sense_carikerja)
 
-Click here to view [infographics](images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf) on the CariKerja App. 
+Click here to view [infographics](/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf) on the CariKerja App. 
 
 <a href="/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_274KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
@@ -100,7 +100,7 @@ Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Enginee
 
 To reapply for TTFS, visit: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication) 
 
-Click here to view [infographics](images/PDF/TTFS_MENDAKI_4.9MB.pdf) on MENDAKI’s TTFS. 
+Click here to view [infographics](/images/PDF/TTFS_MENDAKI_4.9MB.pdf) on MENDAKI’s TTFS. 
 
 <a href="/images/PDF/TTFS_MENDAKI_4.9MB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/TTFS_MENDAKI_THUMB_257KB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
