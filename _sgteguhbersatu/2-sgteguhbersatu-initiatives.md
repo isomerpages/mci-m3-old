@@ -13,28 +13,24 @@ collection_name: sgteguhbersatu
 ##### **Ramadan 2020 Handbook – Contemporary Irsyad Series Vol. 2**
 The Office of Mufti introduced the Ramadan 2020 Handbook, “Contemporary Irsyad Series Vol 2” to guide the community in practising their faith during the COVID-19 pandemic. The Handbook will emphasise the role of Singaporean Muslims as citizens in practising social responsibility to curb the transmission of COVID-19. It includes several religious advisories that have been issued during this outbreak. Other related frequently-asked religious queries that have been put forth by the members of the public are also addressed in the Handbook.
 
-Click here to view the Contemporary Irsyad Series Vol 2 in English: [https://bit.ly/3cdBdlO](https://bit.ly/3cdBdlO)
-
-Click here to view the Contemporary Irsyad Series Vol 2 in Malay: [https://bit.ly/2YuXbgd](https://bit.ly/2YuXbgd)
+View the Contemporary Irsyad Series Vol 2 here – [English](https://bit.ly/3cdBdlO) & [Malay](https://bit.ly/2YuXbgd)
   
 ##### **#SGUnited Buka Puasa**
 The #SGUnited Buka Puasa initiative is a ground-up effort to provide meals for breaking of fast during the month of Ramadan. Daily meals will be extended to two groups within the community, i) healthcare professionals and their families; and ii) Majlis Ugama Islam Singapura (Muis)’ *zakat* beneficiaries and other families who require the provision of meals during this challenging time. This initiative aims to express our gratitude and solidarity with those on the frontlines of the battle against COVID-19 and to support those who are significantly affected by the outbreak.
 
-Click here for more information: [www.bukapuasa.sg](https://www.bukapuasa.sg).
-
-Click here to donate: [www.giving.sg/rlafoundationsg/bukapuasafund](https://www.giving.sg/rlafoundationsg/bukapuasafund).
+Visit [www.bukapuasa.sg](https://www.bukapuasa.sg) for more information. To donate, visit [www.giving.sg/rlafoundationsg/bukapuasafund](https://www.giving.sg/rlafoundationsg/bukapuasafund) 
 
 ##### **SalamSG**
 Led by Muis, SalamSG TV is a web-based channel that will provide content during the month of Ramadan. SalamSG TV aims to enhance the community’s Ramadan spiritual experience and strengthen the psychological resilience of the community. 
 
 SalamSG TV will showcase religious as well as lifestyle content. It will feature exclusive religious content from several asatizah who will be addressing a diverse range of religious and motivational topics. Several mosques have collaborated to develop a *tajwid* (enunciation) series to guide the community on how to improve your recitation of the Quran. The lifestyle segment will showcase a variety of content, which include arts and crafts and storytelling videos for children, and workshops on Islamic calligraphy and *tarannum* (Quranic melodious recitation).
 
-Click here for more information: [www.go.gov.sg/salamsgtv](https://go.gov.sg/salamsgtv).
+Visit [www.go.gov.sg/salamsg](https://go.gov.sg/salamsg) for more information. 
 
 ##### **Ceria Ramadan**
 Ceria Ramadan airs on Suria every Tuesday and Thursday. It touches on how the Muslim community is observing Ramadan this year in the midst of the COVID-19 crisis. 
 
-Click here to view episodes of Ceria Ramadan: [www.mewatch.sg/en/series/ceria-ramadan/ep1/938808](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808).
+View episodes of Ceria Ramadan on meWatch [here](https://www.mewatch.sg/en/series/ceria-ramadan/ep1/938808).
 
 #### **FOR THE RELIGIOUS SECTOR**
 
@@ -43,16 +39,15 @@ Since the temporary closure of the mosques on 13 March 2020, the community has n
 
 To help mosques in these challenging times, Muis has partnered MuslimSG to launch OurMasjid.SG - a community crowdfunding initiative to rally the community to provide funding support for mosques. Through this new platform, the community can make online donations to mosques via credit and debit cards, eNETs, PayNow and GIRO. Recurring payments can also be made through credit/debit card or GIRO to help support the mosques in the long term.  
 
-Click here to visit OurMasjid.SG in English: [www.ourmasjid.sg](https://ourmasjid.sg).
-
-Click here to visit OurMasjid.SG in Malay: [www.ourmasjid.sg/ms/ourmasjid-home-ml/](https://ourmasjid.sg/ms/ourmasjid-home-ml/).
+Visit OurMasjid.SG here – [English](https://ourmasjid.sg) & [Malay](https://ourmasjid.sg/ms/ourmasjid-home-ml/). 
 
 ##### **ARS Booklet for Asatizah**
 This booklet provides information on support for *asatizah* who have been affected by COVID-19 crisis.
 
-<a href="/images/PDF/ARS_BOOKLET_FOR_ASATIZAH_2.2MB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/ARS_BOOKLET_FOR_ASATIZAH_THUMB_1.3MB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
+<img src="/images/ARS_BOOKLET_FOR_ASATIZAH_THUMB_1.3MB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
 </a>
+<a href="/images/PDF/ARS_BOOKLET_FOR_ASATIZAH_2.2MB.pdf" class="project-link no-pdf-icon" target="_blank">
+  
   
 ##### **Pergas Gracious Package**
 With the temporary closure of mosques and suspension of large-group events and classes due to COVID-19, over 200 *asatizah* will be economically impacted. These *asatizah* are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
