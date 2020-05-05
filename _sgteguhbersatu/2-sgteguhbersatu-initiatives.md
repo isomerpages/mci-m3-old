@@ -56,7 +56,7 @@ With the temporary closure of mosques and suspension of large-group events and c
 
 To ensure that the welfare of local *asatizah* is well taken care of especially in times of crisis and uncertainty, Pergas has introduced the Gracious Package to provide affected *asatizah* with financial support during these challenging times. 
 
-Visit www.pergas.org.sg/gracious-package for more information.
+Visit [www.pergas.org.sg/gracious-package](www.pergas.org.sg/gracious-package) for more information.
 
 Click here to view [infographics](images/PDF/PERGAS_230KB.pdf) on Pergas Gracious Package.
 
@@ -100,7 +100,7 @@ Existing TTFS applicants from Universities, Polytechnics, ITE (Technical Enginee
 
 To reapply for TTFS, visit: [tfas.mendaki.org.sg/TTFS/Registration/ReApplication](https://tfas.mendaki.org.sg/TTFS/Registration/ReApplication) 
 
-Click here to view the [infographics](images/PDF/TTFS_MENDAKI_4.9MB.pdf) on MENDAKI’s TTFS. 
+Click here to view [infographics](images/PDF/TTFS_MENDAKI_4.9MB.pdf) on MENDAKI’s TTFS. 
 
 <a href="/images/PDF/TTFS_MENDAKI_4.9MB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/TTFS_MENDAKI_THUMB_257KB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
@@ -113,7 +113,7 @@ To apply, visit: [https://bit.ly/InterimAllowanceApplication](https://bit.ly/Int
 ##### **Kampus M³**
 A ground-up and self-help initiative to support parents with primary school students with their homework.
 
-Click here for more information: [www.facebook.com/groups/KampusMKuasaTiga](https://www.facebook.com/groups/KampusMKuasaTiga)
+For more information, visit [www.facebook.com/groups/KampusMKuasaTiga](https://www.facebook.com/groups/KampusMKuasaTiga)
 
 #### **FOR FAMILIES**
 
