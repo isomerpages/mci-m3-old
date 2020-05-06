@@ -50,6 +50,7 @@ Click here to view the ARS Booklet.
 
  <a href="/images/PDF/SUPPORT_ASATIZAH_2.5MB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/SUPPORT_ASATIZAH_THUMB_319KB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
+ </a>
   
 ##### **Pergas Gracious Package**
 With the temporary closure of mosques and suspension of large-group events and classes due to COVID-19, over 200 *asatizah* will be economically impacted. These *asatizah* are those who are either independent, self-employed or without any full-time employment in Singapore. Their main source of income is from conducting religious activities and classes.
