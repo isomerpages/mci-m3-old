@@ -102,8 +102,8 @@ To reapply for TTFS, visit [tfas.mendaki.org.sg/TTFS/Registration/ReApplication]
 
 Click here to view infographics on MENDAKI’s TTFS. 
 
-<a href="/images/PDF/TTFS_MENDAKI_6MB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/TTFS_MENDAKI_THUMB_257KB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
+<a href="/images/PDF/TTFS_MENDAKI_4.9MB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/TTFS_MENDAKI_THUMB_91KB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
   
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens. Download and fill in the application form and submit it to the respective ITE's YouthSpace officer.
