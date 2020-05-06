@@ -61,7 +61,7 @@ Visit [www.pergas.org.sg/gracious-package](https://www.pergas.org.sg/gracious-pa
 Click here to view infographics on Pergas Gracious Package.
 
 <a href="/images/PDF/PERGAS_230KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/PERGAS_THUMB_17KB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
+  <img src="/images/PERGAS_THUMB_92KB.jpeg" alt="Pergas Gracious Package">Pergas Gracious Package
 </a>
 
 #### **FOR WORKERS & BUSINESSES**
@@ -74,7 +74,7 @@ Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly
 Click here to view infographics on the CariKerja App. 
 
 <a href="/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_274KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
+  <img src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_159KB.jpeg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
 </a>
 
 ##### **Career Advisory Helpline**
@@ -103,7 +103,7 @@ To reapply for TTFS, visit [tfas.mendaki.org.sg/TTFS/Registration/ReApplication]
 Click here to view infographics on MENDAKI’s TTFS. 
 
 <a href="/images/PDF/TTFS_MENDAKI_4.9MB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/TTFS_MENDAKI_THUMB_91KB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
+  <img src="/images/TTFS_MENDAKI_THUMB_91KB.jpeg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
   
 ##### **Interim Allowance For ITE students**
 Malay/Muslim students from ITEs can now apply to get a monthly interim allowance from Jun to Aug 2020. This allowance is meant to offset student’s meals and transport expenses once school re-opens. Download and fill in the application form and submit it to the respective ITE's YouthSpace officer.
