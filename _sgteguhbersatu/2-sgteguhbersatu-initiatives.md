@@ -72,7 +72,7 @@ Download the FindJobs or *CariKerja* app and visit our JUMP Virtual Career Fair,
 
 Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly/sense_carikerja)
 
-Click here to view infographics on the CariKerja App. 
+Click here to view infographics on the *CariKerja* App. 
 
 <a href="/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_THUMB_856KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
