@@ -102,7 +102,7 @@ To reapply for TTFS, visit [tfas.mendaki.org.sg/TTFS/Registration/ReApplication]
 
 Click here to view infographics on MENDAKI’s TTFS. 
 
-<a href="/images/PDF/TTFS_MENDAKI_4.9MB.pdf" class="project-link no-pdf-icon" target="_blank">
+<a href="/images/PDF/TTFS_MENDAKI_6MB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/TTFS_MENDAKI_THUMB_257KB.jpg" alt="Tertiary Tuition Fee Subsidy (TTFS)">Tertiary Tuition Fee Subsidy (TTFS)
   
 ##### **Interim Allowance For ITE students**
