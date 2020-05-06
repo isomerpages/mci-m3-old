@@ -61,7 +61,7 @@ Visit [www.pergas.org.sg/gracious-package](https://www.pergas.org.sg/gracious-pa
 Click here to view infographics on Pergas Gracious Package.
 
 <a href="/images/PDF/PERGAS_230KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/PERGAS_THUMB_92KB.jpeg" alt="Pergas Gracious Package">Pergas Gracious Package
+  <img src="/images/PERGAS_THUMB_1.2MB.jpg" alt="Pergas Gracious Package">Pergas Gracious Package
 </a>
 
 #### **FOR WORKERS & BUSINESSES**
@@ -110,7 +110,7 @@ Malay/Muslim students from ITEs can now apply to get a monthly interim allowance
 
 To apply, visit [https://bit.ly/InterimAllowanceApplication](https://bit.ly/InterimAllowanceApplication)
 
-<img src="/images/COMBINED_INTERIM_ALLOWANCE_FOR_ITE STUDENTS_TWO_647KB.jpg" alt="Interim Allowance For ITE Students">
+<img src="/images/INTERIM_THUMB_639KB.jpg" alt="Interim Allowance For ITE Students">
   
 ##### **Kampus M³**
 A ground-up and self-help initiative to support parents with primary school students with their homework.
