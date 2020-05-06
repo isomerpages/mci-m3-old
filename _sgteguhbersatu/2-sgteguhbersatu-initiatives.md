@@ -49,7 +49,7 @@ This booklet provides information on support for *asatizah* who have been affect
 Click here to view the ARS Booklet.
 
  <a href="/images/PDF/SUPPORT_ASATIZAH_2.5MB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/SUPPORT_ASATIZAH_THUMB_319KB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
+  <img src="/images/SUPPORT_ASATIZAH_THUMB_1.3MB.jpg" alt="ARS Booklet for Asatizah">ARS Booklet for Asatizah
  </a>
   
 ##### **Pergas Gracious Package**
@@ -75,7 +75,7 @@ Click here for more information: [https://bit.ly/sense_carikerja](https://bit.ly
 Click here to view infographics on the CariKerja App. 
 
 <a href="/images/PDF/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_476KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_159KB.jpeg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
+  <img src="/CARIKERJA_APP_AND_JUMP_VIRTUAL_CAREER_FAIR_THUMB_856KB.jpg" alt="CariKerja App & JUMP Virtual Career Fair">CariKerja App & JUMP Virtual Career Fair
 </a>
 
 ##### **Career Advisory Helpline**
