@@ -111,7 +111,7 @@ Malay/Muslim students from ITEs can now apply to get a monthly interim allowance
 
 To apply, visit [https://bit.ly/InterimAllowanceApplication](https://bit.ly/InterimAllowanceApplication)
 
-[Interim Allowance for ITE Students](/images/INTERIM_ALLOWANCE_THUMB_665KB.JPG)
+![Interim Allowance for ITE Students](/images/INTERIM_ALLOWANCE_THUMB_665KB.JPG)
 
 ##### **Kampus M³**
 A ground-up and self-help initiative to support parents with primary school students with their homework.
