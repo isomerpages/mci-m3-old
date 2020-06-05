@@ -47,8 +47,8 @@ collection_name: who-we-are
 </a>
 
 
-<a href="/images/PDF/COS_MAL04_266KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/COS_MAL04_266KB_THUMB.jpg" alt="M3 Infographic in Malay">266kb
+<a href="/images/PDF/Post_COS_Infographic_Malay_672KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/Post_COS_Infographic_Malay_672KB_THUMB.jpg" alt="M3 Infographic in Malay">672kb
 </a>
 
 
@@ -64,6 +64,11 @@ collection_name: who-we-are
 
 <a href="/images/PDF/COS_MAL03_340KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/COS_MAL03_340KB_THUMB.jpg" alt="M3 Infographic in Malay">340kb
+</a>
+
+
+<a href="/images/PDF/COS_MAL04_266KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/COS_MAL04_266KB_THUMB.jpg" alt="M3 Infographic in Malay">266kb
 </a>
 
 
