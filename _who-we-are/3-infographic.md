@@ -68,6 +68,11 @@ collection_name: who-we-are
 </a>
 
 
+<a href="/images/PDF/Post_COS_Infographic_Malay_672KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/Post_COS_Infographic_Malay_672KB_THUMB.jpg" alt="M3 Infographic in English">643kb
+</a>
+
+
 <a href="/images/PDF/INFOG_HR_KEYNOTE_SPEECH_MAL_2MB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/INFOG_HR_KEYNOTE_SPEECH_MAL_3.2MB_THUMB.jpg" alt="M3 Infographic in Malay">Hari Raya Keynote Speech by Minister Masagos (Malay Infographic)
 </a>
