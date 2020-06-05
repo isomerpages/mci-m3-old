@@ -50,7 +50,7 @@ Ladies and gentlemen, <br>
 17.	Amalan menyumbang hartanah demi kegunaan masa hadapan sememangnya sudah wujud dalam warisan kita. Sebagai contoh, Almarhum Syed Omar Ali Aljunied telah mewakafkan Masjid Omar Kampong Melaka, yang kini masih berdiri di tapak asalnya di daerah bandar. Berasal dari Yaman, beliau tiba di Singapura pada abad ke-19, dan merupakan seorang pedagang yang berjaya. Beliau turut mewakafkan Masjid Bencoolen serta bangunan-bangunan di sampingnya. Begitu juga dengan Almarhumah Hajjah Fatimah binti Sulaiman, seorang pedagang dan dermawan yang terkenal pada abad ke-19. Semasa di sini, beliau telah membina rumah-rumah bagi golongan fakir miskin dan mendermakan tapak rumahnya untuk didirikan sebuah masjid. Kita kini kenali masjid tersebut sebagai Masjid Hajjah Fatimah. Pada hemat saya, inilah matlamat yang paling murni bagi seorang Islam mengumpul harta, bukan kerana kepentingan sendiri, tetapi kerana ia boleh terus memanfaatkan generasi mendatang. Ini sekaligus menjadi bekalan akhirat kita dalam bentuk amal jariah melalui pewakafan harta. Seperti dalam lirik lagu “Ku Cari Damai Abadi” yang dinyanyikan Bang Ramli Sarip:
 
    <p class="desc">Aku cari bukan harta bertimbun-timbun untuk hidup kaya;</p>
-    <p class="desc">Aku cari bukan wang berjuta-juta untuk hidup bergaya;</p>
+   <p class="desc">Aku cari bukan wang berjuta-juta untuk hidup bergaya;</p>
 
 Tuan-tuan dan puan-puan, dengan pengurusan yang teliti, pahala dari amal jariah mereka akan terus mengalir sampai ke akhirat nanti! Insya Allah.
 
