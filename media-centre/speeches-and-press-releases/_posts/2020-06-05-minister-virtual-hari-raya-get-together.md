@@ -63,7 +63,7 @@ Kalau usaha Wakaf  Ilmu sebelum ini mengumpul aset cair *(liquid asset)* dari ma
 Amalan menyumbang hartanah demi kegunaan masa hadapan sememangnya sudah wujud dalam warisan kita. Sebagai contoh, Almarhum Syed Omar Ali Aljunied telah mewakafkan Masjid Omar Kampong Melaka, yang kini masih berdiri di tapak asalnya di daerah bandar. Berasal dari Yaman, beliau tiba di Singapura pada abad ke-19, dan merupakan seorang pedagang yang berjaya. Beliau turut mewakafkan Masjid Bencoolen serta bangunan-bangunan di sampingnya. Begitu juga dengan Almarhumah Hajjah Fatimah binti Sulaiman, seorang pedagang dan dermawan yang terkenal pada abad ke-19. Semasa di sini, beliau telah membina rumah-rumah bagi golongan fakir miskin dan mendermakan tapak rumahnya untuk didirikan sebuah masjid. Kita kini kenali masjid tersebut sebagai Masjid Hajjah Fatimah. Pada hemat saya, inilah matlamat yang paling murni bagi seorang Islam mengumpul harta, bukan kerana kepentingan sendiri, tetapi kerana ia boleh terus memanfaatkan generasi mendatang. Ini sekaligus menjadi bekalan akhirat kita dalam bentuk amal jariah melalui pewakafan harta. Seperti dalam lirik lagu “Ku Cari Damai Abadi” yang dinyanyikan Bang Ramli Sarip:
 
 
-Aku cari bukan harta bertimbun-timbun untuk hidup kaya;<br>
+*Aku cari bukan harta bertimbun-timbun untuk hidup kaya;<br>
 Aku cari bukan wang berjuta-juta untuk hidup bergaya;
 
 
@@ -128,9 +128,9 @@ If the aim of Wakaf Ilmu was to collect liquid asset from the community to form 
 This practice of contributing our wealth for the benefit of future generations is already a part of our tradition. For example, the late bequeathed Masjid Omar Kampong Melaka, which still sits on its original location in the Central Business District. Originally from Yemen, he arrived at Singapore in the 19th century, and was a successful trader then. He had also made a wakaf of the Bencoolen Mosque and the properties that supported it. The same goes for the late Hajjah Fatimah binti Sulaiman, a prominent tradeswoman and philanthropist from the 19th century. During her time here, she had built houses for the poor and donated the site of her house to have a mosque built in its place. We now know the mosque as Masjid Hajjah Fatimah. In my view, this is the best reason for Muslims to consolidate wealth, not for their own benefit, but for the benefit of future generations as well. This will also be what we bring with us into the afterlife, where the assets that we bequeath continue to benefit others even after we pass on. Just as in the lyrics of “Ku Cari Damai Abadi” (I search for eternal Peace) sang by Ramli Sarip:
 
 
-Aku cari bukan harta bertimbun-timbun untuk hidup kaya <br>
+*Aku cari bukan harta bertimbun-timbun untuk hidup kaya <br>
 (I seek wealth, not to live a materialistic life) <br>
-Aku cari bukan wang berjuta-juta untuk hidup bergaya <br>
+*Aku cari bukan wang berjuta-juta untuk hidup bergaya <br>
 (I seek money worth millions, not to live flamboyantly) <br>
 
 
