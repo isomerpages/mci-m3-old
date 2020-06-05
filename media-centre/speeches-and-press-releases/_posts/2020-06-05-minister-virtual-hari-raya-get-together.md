@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  MINISTER’S VIRTUAL HARI RAYA GET-TOGETHER SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AND MINISTER-IN-CHARGE OF MUSLIM AFFAIRS MR MASAGOS ZULKIFLI ON 5 JUNE 2020
+title:  Minister's Virtual Hari Raya Get-Together Speech By Minister For The Environment And Water Resources and Minister-In-Charge Of Muslim Affairs Mr Masagos Zulkifli On 5 June 2020
 date:   2020-06-05
 permalink: /media-centre/speeches-and-press-releases/virtual-hari-raya-get-together-2020
 ---
 
 ### Building our Future Together as a Community of Success
 
-Community leaders,
-Distinguished colleagues,
-Ladies and gentlemen,
+Community leaders, <br>
+Distinguished colleagues, <br>
+Ladies and gentlemen, <br>
 
 1. Assalamualaikum Warahmatullahi Wabarakatuh. Selamat Hari Raya Aidilfitri. Thank you for joining me for our virtual Hari Raya get-together. We may all be in separate locations this year, but we remain united and together in spirit. Tonight, I am proud to share this space with representatives from various community institutions. You have all played very crucial roles, particularly in the past few months, to rally the community and build up our resilience, as we battle against COVID-19.  
 
@@ -21,12 +21,12 @@ Ladies and gentlemen,
 
 4.	I would also like to thank Ministry of Health in supporting our community. We have Dr Zubaidah Said with us in the virtual room this evening. She is part of the team that is spearheading contact tracing efforts at MOH. Busy as she is, she set aside some time last February, to engage our mosque and madrasah leaders on the precautionary measures needed to prevent clusters from forming at our places of worship. Director of Medical Services, Prof Kenneth Mak and Director of Communicable Diseases Division, Associate Prof Vernon Lee were always responsive when we needed to consult them.
 
-5.	We also made big adjustments in our socio-religious affairs during the 8 weeks of stay-at-home Circuit Breaker. We donated online through the OurMasjid.sg portal to sustain our mosques and their staff. The Singapore Malay Chamber of Commerce and Industry worked with our businesses, Muis, People’s Association volunteers and many other organisations to cook and distribute food for buka puasa meals for 20,000 frontliners and needy families on a daily basis. Together, we raised $3 million for it. When Syawal came, we refrained from visiting each other and connected with our loved ones digitally. Let us watch a video of our collective memory of a Ramadan and Syawal celebrated with the COVID-19 crisis in the background.
+5.	We also made big adjustments in our socio-religious affairs during the 8 weeks of stay-at-home Circuit Breaker. We donated online through the OurMasjid.sg portal to sustain our mosques and their staff. The Singapore Malay Chamber of Commerce and Industry worked with our businesses, Muis, People’s Association volunteers and many other organisations to cook and distribute food for *buka puasa* meals for 20,000 frontliners and needy families on a daily basis. Together, we raised $3 million for it. When Syawal came, we refrained from visiting each other and connected with our loved ones digitally. Let us watch a video of our collective memory of a Ramadan and Syawal celebrated with the COVID-19 crisis in the background.
 
 6.	Ladies and gentlemen, as shown in the video, this crisis has taught us one important lesson. For each milestone decision we made during this crisis for our community, the asatizah community played a pivotal role both in formulating solutions as well as in leading the community. They have been a reliable pillar of support in getting the community to behave and react in exemplary ways in this crisis. The symbiosis of our own community producing our own asatizah and the asatizah in turn shaping our community is one important element in building our Community of Success. Our asatizah is key in nurturing a community of praiseworthy character. That is why I want to dedicate this year’s Hari Raya message on building and supporting our religious sector. Allow me to continue in Malay.
 
 ### **Peri Pentingnya Sektor Keagamaan**
-7.	Saudara saudari sekalian, asatizah kita memainkan peranan penting dalam membimbing dan memberi sokongan rohani kepada masyarakat kita. Mereka telah lama membuktikan kebolehan mereka. Kini mereka membuktikan pentingnya peranan mereka dalam mengharungi krisis COVID-19 yang mencabar ini. Keupayaan mereka bukanlah terbina dalam sehari – tetapi lahir dari tekad dan usaha pemimpin-pemimpin masyarakat terdahalu sepanjang berdekad-dekad lamanya. Begitulah lama masanya yang diperlukan untuk  kepakaran ilmu agama matang, hingga asatizah kita tangkas memberi panduan dan memimpin masyarakat dalam hal-ehwal keagamaan dalam konteks yang unik  di Singapura. Kita telah lama melabur untuk memperkukuhkan institusi agama kita sambil mengasah dan meningkatkan taraf asatizah kita hari ini. Meskipun begitu, banyak lagi yang kita mesti dan boleh lakukan untuk memperkukuhkan lagi institusi dan sektor keagamaan kita. Ini menjadi inti ucapan Hari Raya saya tahun ini.
+7.	Saudara saudari sekalian, asatizah kita memainkan peranan penting dalam membimbing dan memberi sokongan rohani kepada masyarakat kita. Mereka telah lama membuktikan kebolehan mereka. Kini mereka membuktikan pentingnya peranan mereka dalam mengharungi krisis COVID-19 yang mencabar ini. Keupayaan mereka bukanlah terbina dalam sehari – tetapi lahir dari tekad dan usaha pemimpin-pemimpin masyarakat terdahulu sepanjang berdekad-dekad lamanya. Begitulah lama masanya yang diperlukan untuk  kepakaran ilmu agama matang, hingga asatizah kita tangkas memberi panduan dan memimpin masyarakat dalam hal-ehwal keagamaan dalam konteks yang unik  di Singapura. Kita telah lama melabur untuk memperkukuhkan institusi agama kita sambil mengasah dan meningkatkan taraf asatizah kita hari ini. Meskipun begitu, banyak lagi yang kita mesti dan boleh lakukan untuk memperkukuhkan lagi institusi dan sektor keagamaan kita. Ini menjadi inti ucapan Hari Raya saya tahun ini.
 
 8.	Saya bermula dengan melakarkan visi jangka panjang untuk sektor keagamaan kita. Mufti ialah pegawai di puncak kepimpinan agama dan beliau menentukan hala tujunya di Singapura. Mufti juga memantau semua hal-ehwal keagamaan yang dipegang jawatan dua Timbalan Mufti, Dekan Akademi Muis, Presiden Kanan Mahkamah Syariah dan Pendaftar Pejabat Pernikahan Orang-orang Islam. Pada masa-masa hadapan, Mufti harus dipilih daripada kalangan pegawai yang menyandang lima jawatan tersebut setelah meraih ilmu dan pengalaman yang luas. Kelima-lima pegawai ini pula memantau pelbagai laluan bagi asatizah kita. Lama-kelamaan, saya harap para asatizah juga dapat bergilir tempat untuk ke laluan-laluan yang lain demi meluaskan pengalaman mereka sambil mendalami ilmu dan mendapat pengiktirafan bagi kemahiran dalam semua bidang kerja tersebut. 
 
@@ -49,9 +49,8 @@ Ladies and gentlemen,
 
 17.	Amalan menyumbang hartanah demi kegunaan masa hadapan sememangnya sudah wujud dalam warisan kita. Sebagai contoh, Almarhum Syed Omar Ali Aljunied telah mewakafkan Masjid Omar Kampong Melaka, yang kini masih berdiri di tapak asalnya di daerah bandar. Berasal dari Yaman, beliau tiba di Singapura pada abad ke-19, dan merupakan seorang pedagang yang berjaya. Beliau turut mewakafkan Masjid Bencoolen serta bangunan-bangunan di sampingnya. Begitu juga dengan Almarhumah Hajjah Fatimah binti Sulaiman, seorang pedagang dan dermawan yang terkenal pada abad ke-19. Semasa di sini, beliau telah membina rumah-rumah bagi golongan fakir miskin dan mendermakan tapak rumahnya untuk didirikan sebuah masjid. Kita kini kenali masjid tersebut sebagai Masjid Hajjah Fatimah. Pada hemat saya, inilah matlamat yang paling murni bagi seorang Islam mengumpul harta, bukan kerana kepentingan sendiri, tetapi kerana ia boleh terus memanfaatkan generasi mendatang. Ini sekaligus menjadi bekalan akhirat kita dalam bentuk amal jariah melalui pewakafan harta. Seperti dalam lirik lagu “Ku Cari Damai Abadi” yang dinyanyikan Bang Ramli Sarip:
 
-<p class="desc">Aku cari bukan harta bertimbun-timbun untuk hidup kaya;</p>
-<p class="desc">Aku cari bukan wang berjuta-juta untuk hidup bergaya;</p>
-
+  <p class="desc">Aku cari bukan harta bertimbun-timbun untuk hidup kaya;</p>
+  <p class="desc">Aku cari bukan wang berjuta-juta untuk hidup bergaya;</p>
 
 Tuan-tuan dan puan-puan, dengan pengurusan yang teliti, pahala dari amal jariah mereka akan terus mengalir sampai ke akhirat nanti! Insya Allah.
 
