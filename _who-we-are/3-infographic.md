@@ -7,8 +7,13 @@ collection_name: who-we-are
 ---
 
 ### **English Infographic**
-<a href="/images/PDF/M³_English_Infographic_347KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/m3-infographic-eng-thumb.jpg" alt="M3 Infographic in English">347kb
+<a href="/images/PDF/INFOG_HR_KEYNOTE_SPEECH_ENG_2MB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/INFOG_HR_KEYNOTE_SPEECH_ENG_3.2MB_THUMB.jpg" alt="M3 Infographic in English">Hari Raya Keynote Speech by Minister Masagos (English Infographic)
+</a>
+
+
+<a href="/images/PDF/Post_COS_Infographic_English_643KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/Post_COS_Infographic_English_643KB_THUMB.jpg" alt="M3 Infographic in English">643kb
 </a>
 
 
@@ -32,13 +37,18 @@ collection_name: who-we-are
 </a>
 
 
-<a href="/images/PDF/Post_COS_Infographic_English_643KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/Post_COS_Infographic_English_643KB_THUMB.jpg" alt="M3 Infographic in English">643kb
+<a href="/images/PDF/M³_English_Infographic_347KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/m3-infographic-eng-thumb.jpg" alt="M3 Infographic in English">347kb
 </a>
 
 ### **Malay Infographic**
-<a href="/images/PDF/M³_Malay_Infographic_346KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/m3-infographic-mly-thumb.jpg" alt="M3 Infographic in Malay">346kb
+<a href="/images/PDF/INFOG_HR_KEYNOTE_SPEECH_MAL_2MB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/INFOG_HR_KEYNOTE_SPEECH_MAL_3.2MB_THUMB.jpg" alt="M3 Infographic in Malay">Hari Raya Keynote Speech by Minister Masagos (Malay Infographic)
+</a>
+
+
+<a href="/images/PDF/Post_COS_Infographic_Malay_672KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/Post_COS_Infographic_Malay_672KB_THUMB.jpg" alt="M3 Infographic in Malay">672kb
 </a>
 
 
@@ -62,6 +72,6 @@ collection_name: who-we-are
 </a>
 
 
-<a href="/images/PDF/Post_COS_Infographic_Malay_672KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/Post_COS_Infographic_Malay_672KB_THUMB.jpg" alt="M3 Infographic in Malay">672kb
+<a href="/images/PDF/M³_Malay_Infographic_346KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/m3-infographic-mly-thumb.jpg" alt="M3 Infographic in Malay">346kb
 </a>
