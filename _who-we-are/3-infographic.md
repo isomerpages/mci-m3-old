@@ -36,6 +36,12 @@ collection_name: who-we-are
   <img src="/images/Post_COS_Infographic_English_643KB_THUMB.jpg" alt="M3 Infographic in English">643kb
 </a>
 
+
+<a href="images/PDF/HARI_RAYA_KEYNOTE_SPEECH_ENG_2MB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="images/HARI_RAYA_KEYNOTE_SPEECH_ENG_3.2MB.jpg" alt="M3 Infographic in English">672kb
+</a>
+
+
 ### **Malay Infographic**
 <a href="/images/PDF/M³_Malay_Infographic_346KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/m3-infographic-mly-thumb.jpg" alt="M3 Infographic in Malay">346kb
