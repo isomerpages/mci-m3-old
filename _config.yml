@@ -58,5 +58,5 @@ collections:
     output: true  
 resources_name: media-centre
 
-no_contact: true
+no_contact: false
 
