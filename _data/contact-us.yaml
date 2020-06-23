@@ -12,8 +12,7 @@ locations:
   
   # Contact Us
   - title: General Enquiries & Feedback
-    content: As a Community of Success, we challenge ourselves to be better than we were yesterday. Do you have thoughts on how to empower and elevate our community further? 
-
-Share with us your M³ experience and any feedback through our Online Feedback Form below.
+    content: 
+    - line: As a Community of Success, we challenge ourselves to be better than we were yesterday. Do you have thoughts on how to empower and elevate our community further? 
+    Share with us your M³ experience and any feedback through our Online Feedback Form below.
   
-    - line:
