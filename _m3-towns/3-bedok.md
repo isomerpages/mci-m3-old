@@ -22,29 +22,31 @@ To better understand the community and its needs and aspirations, the M³@Bedok 
   </tr>
   <tr>
     <td>
-      <li>Mohd Fahmi Aliman, Chairman</li><br>
-      <li>Iskandar Abdullah</li>
-<li>Nadia Ahmad Samdin</li>
-<li>Abdul Mateen Bin Affandi</li>
-<li>Siti Rasyidah Bte Shiehk Abdul Hakim</li>
-<li>Muhammad Hafiz Bin Jaffar</li>
+      <li>Kadir Maideen Bin Mohamed, Chairman</li><br>
+      <li>Ramna Kamaludi</li>
 <li>Mohd Firdhaus Abdul Jaber</li>
-<li>Dr Fadzil Hamzah</li>
-<li>Nurhidayati Mohd Suphan</li>
-<li>Abdul Malik Bin Abdul Kadar</li>
-<li>Awalludin Abdul Jabbar</li>
-<li>Nurul Amelia Akhtiar</li>
-<li>Nur Hafizah Binte Ismail</li>
-<li>Norazlan Ibrahim</li>
 <li>Razali Bin Subir, PBM</li>
-<li>Haslina Bte Pardon</li>
-<li>Zulkefle B A Rahman, BBM</li>
+<li>Khairudin Bin Osman</li>
+<li>Muhammad Sani Bin Ahmad</li>
+<li>Haslina Pardon</li>
 <li>Yacob Bin Hussain</li>
-<li>Johan Bin Salim</li>
-<li>Sa'adiah Bte Abdul, PBM</li>
+<li>Johan Bin Salim, PBM</li>
+<li>Norami Aliza Harun, PBM</li>
+<li>Zulkefle B A Rahman, BBM</li>
+<li>Mohd Yahya Zakaria Attia, BBM</li>
 <li>Jamalul'lail Bin Adali</li>
-<li>Zainal Abidin Nordin</li>
-<li>Norami Aliza Haron, PBM</li>
+<li>Zainal Abidin Nordin, PBM</li>
+<li>Iskandar Abdullah</li>
+<li>Mohamed Fadzil Bin Mohamed Hamzah</li>
+<li>Nurhidayati Muhd Suphan</li>
+<li>Nur Hafizah Binte Ismail</li>
+<li>Nurul Amelia Bte Akhtiar</li>
+<li>Norazlan Ibrahim</li>
+<li>Awalludin Abdul Jabbar</li>
+<li>Abdul Malik Bn Abdul Kadar</li>
+<li>Nurfara Binte Pawzi</li>
+<li>Dania Binte Kamaludeen</li>
+<li>Salman Bin Kamiso</li>
     </td>
   </tr>
   </table>
