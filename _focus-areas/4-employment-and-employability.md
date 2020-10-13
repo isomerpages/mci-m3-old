@@ -10,7 +10,7 @@ collection_name: focus-areas
 
 COVID-19 has taken a toll on the Malay/Muslim workforce as Singapore rides through the economic impact of the pandemic. In order to remain resilient, M³ continues to play an integral role to support the community in ensuring that they can remain employed by having the necessary skillsets and optimising available opportunities.
 
-Led by Mr Zaqy Mohamad, this focus area launched in October 2020 aims to:
+Led by Mr Zaqy Mohamad, this focus area launched in October 2020 aims to: <br>
 a. Bridge our workers to employment and employability opportunities to meet their immediate needs <br>
 b. Enhance the capability of our workforce through skills upgrading and lifelong learning initiatives to enhance their resilience and ensure their employability in the future <br>
 c. Prepare our current and future workforce to harness employment opportunities in the post COVID landscape and be future ready. <br>
