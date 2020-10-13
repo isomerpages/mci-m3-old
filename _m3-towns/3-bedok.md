@@ -17,7 +17,7 @@ M³@Bedok operates based on the values of the C.A.R.E Framework:
 To better understand the community and its needs and aspirations, the M³@Bedok Household Survey (MHS) was initiated in March 2019. Results of the survey will be used to design programmes tailored for the Malay/Muslim residents within the M³@Bedok Divisions.
 
 [Facebook](https://www.facebook.com/M3atBedok)
-[Facebook](https://www.instagram.com/m3atbedok/)
+[Instagram](https://www.instagram.com/m3atbedok/)
 
 <table class="table-h">
   <tr>
