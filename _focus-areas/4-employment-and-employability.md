@@ -27,7 +27,9 @@ As part of the JUMP campaign, the JUMP Career Fair provides an employability pla
 
 ##### **a) Job Opportunities**
 MENDAKI SENSE, together with MESRA and its MAEC network, SkillsFuture Singapore, Workforce Singapore and Yayasan MENDAKI, are collaborating to organise both physical and virtual career events. <br>
+
 Apart from the virtual career fairs organised, physical events will be organised at various community centres across Singapore. Job opportunities in the growth sectors (early childhood, healthcare, manufacturing and social services) will be offered by participating companies and employers. <br>
+
 SkillsFuture Advice @ CDC (SFA@CDC) will be on board to engage participants and provide SkillsFuture Advice consultations, whilst MENDAKI SENSE will continue to provide personalised assistance to job seekers so as to broaden their understanding of jobs in demand and skills required in specific sectors. The collaboration targets to engage 20,000 jobseekers which includes 3,000 low wage workers, 1,000 vulnerable workers, and 5,000 tertiary students. 
 
 ##### **b) Upskilling**
