@@ -12,6 +12,8 @@ One of its programmes is KelasMateMatika (KMM)@ Admiralty, Sembawang and Woodlan
 
 M³@Woodlands will continue to work with a network of partners, professionals and volunteers to support the Malay community in Sembawang GRC.  M³@Woodlands will also organise programmes for the vulnerable families as well as empower and mentor youths.
 
+[Facebook](https://www.facebook.com/M3atWoodlands)
+
 <table class="table-h">
   <tr>
   <td><h5>Key Members of M³@Woodlands</h5></td>
