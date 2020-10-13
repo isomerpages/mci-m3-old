@@ -26,3 +26,10 @@ collection_name: focus-areas
 </a>
 </div>
 </div>
+
+<div class="focus col is-one-third-desktop is-one-third-tablet">
+<a href="/focus-areas/employment-and-employability/" class="project-link no-pdf-icon">
+  <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Employment and Employability
+</a>
+</div>
+</div>
