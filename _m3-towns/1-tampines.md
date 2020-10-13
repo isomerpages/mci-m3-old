@@ -19,54 +19,45 @@ M³@Tampines’ areas of focus include Marriage, Parenthood and Early Childhood.
   <tr>
   <td>
     <ul>
-      <li> Abu Bakar Mohd Nor, Chairman</li><br>
-      <li>Hayati Rahim</li>
-      <li>Elmi Zulkarnain</li>
-      <li>Adam Hamzah</li>
-      <li>Dr Fadzil Hamzah</li>
-      <li>Diyana Ramlan</li>
-      <li>Hanafi Idrus</li>
-      <li>Mohamed Azahari Bin Mohamed Said, PBM</li>
-      <li>Kahar Hasan</li>
-      <li>Norhaya Binte Isnain</li>
-      <li>Raizan Bin Abdul Razak</li>
-      <li>Muhd Rezal Omar</li>
-      <li>Zizie Zuzantie Binte Mohamed Said</li>
-<li>Dr Ismail Haniff</li>
-<li>Ramlah Binte Rimon</li>
-<li>Hj Abdul Matin Mirza</li>
-<li>Marini Musa</li>
-<li>Muhammad Luqman Mohd Shapie</li>
-<li>Mohd Jamalludin Mohd Affandi</li>
-<li>Adnan Abdul Hamid</li>
-<li>Nur Hanis Binte Rahmat</li>
-<li>Abdul Mateen Hanafi</li>
-<li>Yasmin Ibrahim</li>
-<li>Rohanah Pagi</li>
-<li>Liyana Abdul Rahaim</li>
+      <li> Abu Bakar Mohd Nor, PBM Chairman</li><br>
+      <li>Adam Haji Hamzah</li>
 <li>Umar Masagos</li>
-<li>Noor Azhar Mohamed</li>
-<li>Siti Nadhirah Bte Hamzah</li>
-<li>Attiytah Ashraf Ali</li>
-<li>Nur Adibah</li>
-<li>Ahmad Khushairi</li>
 <li>Jamaludin Saad</li>
-<li>Nur Hidayah Azman</li>
-<li>Kasra</li>
-<li>Kelane Bin Mohamad Amin</li>
-<li>Ridzuan Ismail</li>
-<li>Khalid Bin Ahmed</li>
-<li>Nawawi B Asmawi</li>
-<li>Shahrin Shan B. Sarbini</li>
-<li>Zainal Bin Osman</li>
-<li>Halmie Bin Hussein Mattar</li>
-<li>Siti Rohanah Hamson</li>
-<li>Hanna Alysha Ashiq</li>
-<li>Dr Nur Farhan Alami</li>
+<li>Zizie Zuzantie Mohamed Said</li>
+<li>Siti Rohana Hamson</li>
 <li>Zuraimi Jumaat</li>
-<li>Mohhamed Rozaini Bin Bidin</li>
-<li>Sheik Abdul Hafidz</li>
-<li>Effendi</li>
+<li>Hayati Rahim, PBM</li>
+<li>Hanafi Idrus</li>
+<li>Ramlah Rimon, PBM</li>
+<li>Norhaya Isnain</li>
+<li>Mohamed Azahari Bin Mohamed Said, PBM</li>
+<li>Salamah Abdoll, PBM</li>
+<li>Dr Ismail Haniff</li>
+<li>Marini Musa</li>
+<li>Mohd Jamalludin Mohd Affandi</li>
+<li>Muhammad Luqman Mohd Shapie</li>
+<li>Nur Adibah Mazeli</li>
+<li>Khalid Bin Ahmed</li>
+<li>Kelane bin Mohamad Amin</li>
+<li>Nawawi B Asmawi</li>
+<li>Ridzuan Ismail</li>
+<li>Halmie Bin Hussein Mattar</li>
+<li>Sahari Ani</li>
+<li>Diyana Ramlan</li>
+<li>Dr Elmi Zulkarnain Osman</li>
+<li>Raizan Abdul Razak</li>
+<li>Dr Fadzil Mohamed Hamzah</li>
+<li>Dr Nur Farhan Alami</li>
+<li>Hannah Alysha Ashiq</li>
+<li>Shabana Binte Mahmoodul Hasan</li>
+<li>Malique Hassan</li>
+<li>Attiytah Ashraf Ali</li>
+<li>Sheik Abdul Hafidz Bin Sheik A Hamid</li>
+<li>Wan Muhammad Fazlan Nordin</li>
+<li>Ahmad Khushairi Bin Abidin</li>
+<li>Muhammad Faisal Bin Ghulam Hussin</li>
+<li>Muhammad Faizal Abdollah</li>
+<li>Fakhrudin Amin</li>
       
 </ul>
     </td>
