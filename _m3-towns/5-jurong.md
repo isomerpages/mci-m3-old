@@ -22,21 +22,25 @@ Its vibrant lineup of programmes includes the KelasMateMatika (KMM)@Taman Jurong
   <tr>
   <td>
     <ul>
-      <li>Muhd Faizal Othman PBM, Chairman</li><br>
+      <li>Muhd Faizal Othman, PBM Chairman</li><br>
       <li>Sujimy Mohamad</li>
 <li>Haryati Surana</li>
 <li>Hariff Hambali, PBM</li>
-<li>Shahrin Bin Abdol Salam</li>
+<li>Shahrin Bin Abdol Salam, PBM</li>
 <li>Mohamed Fazal Bin Abdul Hamid</li>
 <li>Murshidah Hassan</li>
-<li>Danial Hakim</li>
-<li>Muhd Rahizan Zainuldin</li>
+<li>Muhd Danial Hakim Rosli</li>
+<li>Dr Muhd Rahizan Zainuldin</li>
 <li>Abdul Karim s/o Shahul Hameed</li>
-<li>Dr Muhammad Iqbal Abdullah</li>
+<li>Dr Muhd Iqbal Abdullah</li>
 <li>Haron Sumon</li>
-<li>Muhammad Razali Puasa</li>
-<li>Asyifah Rasid</li>
-<li>Iskandar Shah</li>
+<li>Muhd Razali Puasa</li>
+<li>Asyifah Rashid</li>
+<li>Iskandar Shah Abu Bakar</li>
+<li>Ratinah Rawi, PBM</li>
+<li>Zulkifli Shualman</li>
+<li>Syahrizan Mansor</li>
+<li>Dr Shamsuri Juhari</li>
     </ul>
     </td>
   </tr>
