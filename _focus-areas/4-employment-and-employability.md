@@ -8,13 +8,17 @@ collection_name: focus-areas
 
 ![Employment and Employability](/images/focus-area-employment.jpg)
 
-COVID-19 has taken a toll on the Malay/Muslim workforce as Singapore rides through the economic impact of the pandemic. In order to remain resilient, M3 continues to play an integral role to support the community in ensuring that they can remain employed by having the necessary skillsets and optimising available opportunities.
+COVID-19 has taken a toll on the Malay/Muslim workforce as Singapore rides through the economic impact of the pandemic. In order to remain resilient, M³ continues to play an integral role to support the community in ensuring that they can remain employed by having the necessary skillsets and optimising available opportunities.
 
 Led by Mr Zaqy Mohamad, this focus area launched in October 2020 aims to:
-a. Bridge our workers to employment and employability opportunities to meet their immediate needs 
-b. Enhance the capability of our workforce through skills upgrading and lifelong learning initiatives to enhance their resilience and ensure their employability in the future 
-c. Prepare our current and future workforce to harness employment opportunities in the post COVID landscape and be future ready. 
-This fourth focus area will also create outreach to the following target groups:  (i) Mature Jobseekers (40 years and above), (ii) PMET Jobseekers (mid-career switchers), (iii) Fresh Graduates and Young Workers, (iv) General Community (including the self-employed, vulnerable workers and low-wage workers).
+a. Bridge our workers to employment and employability opportunities to meet their immediate needs <br>
+b. Enhance the capability of our workforce through skills upgrading and lifelong learning initiatives to enhance their resilience and ensure their employability in the future <br>
+c. Prepare our current and future workforce to harness employment opportunities in the post COVID landscape and be future ready. <br>
+This fourth focus area will also create outreach to the following target groups:  
+(i) Mature Jobseekers (40 years and above), <br>
+(ii) PMET Jobseekers (mid-career switchers), <br>
+(iii) Fresh Graduates and Young Workers, <br>
+(iv) General Community (including the self-employed, vulnerable workers and low-wage workers). <br>
 
 ### **JUMP Campaign**
 Bringing various agencies together to tackle Job Opportunities, Upskilling, Mobility (Career) and Professional Development, in order to ensure our Malay/Muslim community remains mobile, agile and progressive in these economic times.
