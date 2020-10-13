@@ -32,4 +32,4 @@ collection_name: focus-areas
   <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Employment and Employability
 </a>
 </div>
-</div>
+
