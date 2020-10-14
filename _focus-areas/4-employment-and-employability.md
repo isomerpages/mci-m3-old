@@ -33,7 +33,7 @@ Apart from the virtual career fairs organised, physical events will be organised
 SkillsFuture Advice @ CDC (SFA@CDC) will be on board to engage participants and provide SkillsFuture Advice consultations, whilst MENDAKI SENSE will continue to provide personalised assistance to job seekers so as to broaden their understanding of jobs in demand and skills required in specific sectors. The collaboration targets to engage 20,000 jobseekers which includes 3,000 low wage workers, 1,000 vulnerable workers, and 5,000 tertiary students. 
 
 ##### **b) Upskilling**
-In collaboration with partners such as ITE, SalesForce, Union Leaders, MyFinB, MENDAKI SENSE has been running free virtual workshops / teasers on essential skills such as digital and financial literacy, as well as in-demand technical skills. 
+In collaboration with partners such as ITE, SalesForce, Union Leaders, MyFinB, MENDAKI SENSE has been running free virtual workshops/teasers on essential skills such as digital and financial literacy, as well as in-demand technical skills. <br>
 Through lighter programmes, this will create more accessible learning opportunities that are also less daunting, thereby encouraging participants to take greater investment into upskilling themselves. This will in turn enhance participants’ employability and continue to enhance success for the individuals and community. This collaboration is expected to run until March 2021 and targets 1,000 Malay Muslim online participants. 
 
 ##### **c) Mobility (Career)**
