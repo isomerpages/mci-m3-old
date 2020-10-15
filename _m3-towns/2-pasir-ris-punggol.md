@@ -6,9 +6,9 @@ breadcrumb: M<sup>3</sup>@Pasir Ris-Punggol
 collection_name: m3-towns
 ---
 
-Launched in October 2018, M3@Pasir Ris-Punggol aims to coordinate the work of Malay Activity Executive Committees (MAEC) and Malay/Muslim organisations to reach out to the Malay/Muslim community and deliver services that meet their needs. M³@Pasir Ris-Punggol’s strategic focus will be on education and strengthening family and community ties.
+Launched in October 2018, M³@Pasir Ris-Punggol aims to coordinate the work of Malay Activity Executive Committees (MAEC) and Malay/Muslim organisations to reach out to the Malay/Muslim community and deliver services that meet their needs. M³@Pasir Ris-Punggol’s strategic focus will be on education and strengthening family and community ties.
 
-M3@Pasir Ris-Punggol has two KelasMateMatika programmes – one at Pasir Ris East Community Club and the other at Punggol 21 Community Club.
+M³@Pasir Ris-Punggol has two KelasMateMatika programmes – one at Pasir Ris East Community Club and the other at Punggol 21 Community Club.
 
 [Instagram](https://www.instagram.com/m3atpunggol/)
 
