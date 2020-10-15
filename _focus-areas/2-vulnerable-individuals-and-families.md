@@ -23,9 +23,9 @@ FITRAH continues to provide services via online platforms in the midst of the CO
 Its services include:
 
 ##### **Structured in-care religious programmes, including customised Friday Sermons**
-FITRAH deploys Imams/Khatib for Friday prayers & Hari Raya prayers, and religious counsellors for counselling sessions with inmates. There are currently 130 religious counsellors.
+FITRAH deploys *Imams/Khatib* for Friday prayers & Hari Raya prayers, and religious counsellors for counselling sessions with inmates. There are currently 130 religious counsellors.
 
-These programmes sermons address relevant issues and matters such as the pursuit of religious guidance and the righteous path, as well as the importance of staying optimistic in preparation for life after release.
+These programmes address relevant issues and matters such as the pursuit of religious guidance and the righteous path, as well as the importance of staying optimistic in preparation for life after release.
 
 ##### **Community Befriending**
 FITRAH has recruited more than 200 community befrienders to conduct joint home visits to families of those incarcerated by Community Befrienders and Yellow Ribbon Community Project (YRCP) volunteers, and to offer befriending services to inmates in prisons and upon release.
@@ -46,7 +46,8 @@ The pilot group, which commenced in July 2019, had 12 members from nine families
 While the adults were engaged in the FEC, the children participated in Art Therapy sessions, where they delved in arts and crafts to express their feelings. 
 
 FEC members and their children had been connected to other MENDAKI programmes and services, such as the MENDAKI Tuition Scheme, Mentoring @ MTS and other developmental activities held at MENDAKI’s satellite centres. 
-Reintegration of Ex-offenders
+
+### **Reintegration of Ex-offenders**
 To assist ex-offenders and their families in successfully reintegrating into the society, Malay Activity Executive Committees Council (MESRA) has helped to recruit more Malay volunteers from PA’s grassroots network to provide support to YRCP and its outreach efforts. This initiative was piloted in M³@Bedok, M³@Woodlands and M³@Jurong. Now, more than 30% of YRCP members in these pilot towns are Malays, as compared to 24.8% previously.
 MESRA also offers SHIOK Series courses to ex-offenders and their family members, so that they can pick up new skills and interact with other members of the community.
 
