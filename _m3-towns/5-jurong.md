@@ -6,7 +6,7 @@ breadcrumb: M<sup>3</sup>@Jurong
 collection_name: m3-towns
 ---
 
-Launched in April 2019 by Grassroots Adviser Madam *Rahayu Mahzam*, M³@Jurong aims to empower and uplift the youth and low-income Malay/Muslim families in Jurong. 
+Launched in April 2019 by Grassroots Adviser Madam Rahayu Mahzam, M³@Jurong aims to empower and uplift the youth and low-income Malay/Muslim families in Jurong. 
 
 M³@Jurong’s hashtag #kitadisini reminds the community that it is here to assist residents who require help. 
 
