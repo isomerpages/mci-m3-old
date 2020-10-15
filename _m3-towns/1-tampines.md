@@ -58,6 +58,8 @@ M³@Tampines’ areas of focus include Marriage, Parenthood and Early Childhood.
 <li>Muhammad Faisal Bin Ghulam Hussin</li>
 <li>Muhammad Faizal Abdollah</li>
 <li>Fakhrudin Amin</li>
+  <li>Sazali Zainal</li>
+<li>LTC Mohamad Rashid Bin Talib</li>
       
 </ul>
     </td>
