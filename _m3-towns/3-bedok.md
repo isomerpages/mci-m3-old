@@ -20,10 +20,11 @@ Follow M³@Bedok on [Facebook](https://www.facebook.com/M3atBedok) and [Instagra
 
 <table class="table-h">
   <tr>
-  <td><h5>Key Members of M³@Bedok</h5></td>
+  <td><h5>Key Members of M³@Tampines</h5></td>
   </tr>
   <tr>
-    <td>
+  <td>
+    <ul>
       <li>Kadir Maideen Bin Mohamed, Chairman</li>
       <li>Ramna Kamaludi</li>
 <li>Mohd Firdhaus Abdul Jaber</li>
@@ -49,6 +50,7 @@ Follow M³@Bedok on [Facebook](https://www.facebook.com/M3atBedok) and [Instagra
 <li>Nurfara Binte Pawzi</li>
 <li>Dania Binte Kamaludeen</li>
 <li>Salman Bin Kamiso</li>
+    </ul>
     </td>
-  </tr>
-  </table>
+  </tr>  
+</table>
