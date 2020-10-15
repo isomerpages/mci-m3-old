@@ -10,7 +10,7 @@ M³@Tampines was formed in August 2018 to streamline the efforts of the five Mal
  
 M³@Tampines’ areas of focus include Marriage, Parenthood and Early Childhood. It aims to scale up KelasMateMatika (KMM)@ Tampines West Community Club to benefit more families and young children.  M³@Tampines actively works with a network of partners and volunteers to support vulnerable individuals as well as empower and mentor youths. 
 
-[Facebook](https://www.facebook.com/M3atTampines/)
+Follow M³@Tampines on[Facebook](https://www.facebook.com/M3atTampines/)!
 
 <table class="table-h">
   <tr>
