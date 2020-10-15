@@ -12,7 +12,7 @@ M³@Jurong’s hashtag #kitadisini reminds the community that it is here to assi
 
 Its vibrant lineup of programmes includes the KelasMateMatika (KMM)@Taman Jurong to strengthen the academic readiness of families with pre-school children. The success of this project, which was first piloted at Taman Jurong, has since been replicated at other M³@Towns. 
 
-Follow M³@Tampines on [Facebook](https://www.facebook.com/m3atjurong/) and [Instagram](https://www.instagram.com/m3atjurong/)!
+Follow M³@Jurong on [Facebook](https://www.facebook.com/m3atjurong/) and [Instagram](https://www.instagram.com/m3atjurong/)!
 
 <table class="table-h">
   <tr>
