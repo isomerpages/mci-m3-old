@@ -19,7 +19,7 @@ M³@Pasir Ris-Punggol has two KelasMateMatika programmes – one at Pasir Ris Ea
   <tr>
     <td>
       <ul>
-        <li>Mr Abdul Wahab Bin Mohamed Yusoff</li><br>
+        <li>Mr Abdul Wahab Bin Mohamed Yusoff</li>
         <li>Mohamed Helmy Bin Mohd Isa</li>
 <li>Md Farhan Chia B Md Ibrahim</li>
 <li>Norhaida Kamaludin</li>
