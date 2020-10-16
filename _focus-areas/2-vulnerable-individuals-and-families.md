@@ -48,7 +48,8 @@ While the adults were engaged in the FEC, the children participated in Art Thera
 FEC members and their children had been connected to other MENDAKI programmes and services, such as the MENDAKI Tuition Scheme, Mentoring @ MTS and other developmental activities held at MENDAKI’s satellite centres. 
 
 ### **Reintegration of Ex-offenders**
-To assist ex-offenders and their families in successfully reintegrating into the society, Malay Activity Executive Committees Council (MESRA) has helped to recruit more Malay volunteers from PA’s grassroots network to provide support to YRCP and its outreach efforts. This initiative was piloted in M³@Bedok, M³@Woodlands and M³@Jurong. Now, more than 30% of YRCP members in these pilot towns are Malays, as compared to 24.8% previously.
+To assist ex-offenders and their families in successfully reintegrating into the society, Malay Activity Executive Committees Council (MESRA) has helped to recruit more Malay volunteers from PA’s grassroots network to provide support to YRCP and its outreach efforts. This initiative was piloted in M³@Bedok, M³@Woodlands and M³@Jurong. Now, more than 30% of YRCP members in these pilot towns are Malays, as compared to 24.8% previously. <br>
+
 MESRA also offers SHIOK Series courses to ex-offenders and their family members, so that they can pick up new skills and interact with other members of the community.
 
 
