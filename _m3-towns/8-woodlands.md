@@ -21,7 +21,7 @@ Follow M³@Woodlands on [Facebook](https://www.facebook.com/M3atWoodlands)!
   <tr>
   <td>
     <ul>
-      <li> Dr Noorul Fatha As’art , Chairperson</li><br>
+      <li>Chairperson: Dr Noorul Fatha As’art</li>
       <li>Edwan Nizar Bin Ahadan</li>
 <li>Muhammad Harmizan Bin Abdul Hamid</li>
 <li>Edwin Ignatious M</li>
