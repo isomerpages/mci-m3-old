@@ -21,7 +21,7 @@ Follow M³@Jurong on [Facebook](https://www.facebook.com/m3atjurong/) and [Insta
   <tr>
   <td>
     <ul>
-      <li>Muhd Faizal Othman, PBM Chairman</li><br>
+      <li>Chairperson: Muhd Faizal Othman, PBM</li>
       <li>Sujimy Mohamad</li>
 <li>Haryati Surana</li>
 <li>Hariff Hambali, PBM</li>
