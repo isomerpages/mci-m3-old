@@ -19,7 +19,7 @@ Follow M³@Nee Soon on [Facebook](https://www.facebook.com/M3-at-Nee-Soon-103809
   <tr>
   <td>
     <ul>
-      <li>Djohan Abdul Rahman, Chairman</li><br>
+      <li>Chairperson: Djohan Abdul Rahman</li>
       <li>Hasnah Bte Hassan</li>
 <li>Muliana Mohammad</li>
 <li>Dr Elly Sabrina Binte Ismail</li>
