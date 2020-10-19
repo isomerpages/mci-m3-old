@@ -25,7 +25,7 @@ Follow M³@Bedok on [Facebook](https://www.facebook.com/M3atBedok) and [Instagra
   <tr>
   <td>
     <ul>
-      <li>Kadir Maideen Bin Mohamed, Chairman</li> <br>
+      <li>Chairperson: Kadir Maideen Bin Mohamed</li>
       <li>Ramna Kamaludi</li>
 <li>Mohd Firdhaus Abdul Jaber</li>
 <li>Razali Bin Subir, PBM</li>
