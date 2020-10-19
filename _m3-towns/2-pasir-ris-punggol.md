@@ -19,7 +19,7 @@ Follow M³@Pasir Ris-Punggol on [Instagram](https://www.instagram.com/m3atpunggo
   <tr>
     <td>
       <ul>
-        <li>Mr Abdul Wahab Bin Mohamed Yusoff</li>
+        <li>Chairperson: Mr Abdul Wahab Bin Mohamed Yusoff</li>
         <li>Mohamed Helmy Bin Mohd Isa</li>
 <li>Md Farhan Chia B Md Ibrahim</li>
 <li>Norhaida Kamaludin</li>
