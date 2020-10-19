@@ -22,7 +22,7 @@ Follow M³@Marsiling-Yew Tee on [Facebook](https://www.facebook.com/M3atMarsilin
   <tr>
   <td>
     <ul>
-      <li>Chairperson: Mdm Rahidah Bte Mohd Noor, PBM</li><br>
+      <li>Chairperson: Mdm Rahidah Bte Mohd Noor, PBM</li>
       <li>Mr Mohamed Wahed Bin Sawpi</li>
       <li>Mr Abdul Rahman Bin Minhad</li>
       <li>Mr Syed Mohamad Bin Syed Hamid</li>
