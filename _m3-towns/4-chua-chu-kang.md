@@ -23,7 +23,7 @@ Follow M³@Chua Chu Kang on [Instagram](https://www.instagram.com/m3atcckgrc/)!
   <tr>
   <td>
     <ul>
-      <li>Col Fairoz Bin Hassan, Chairman</li><br>
+      <li>Chairperson: Col Fairoz Bin Hassan</li>
       <li>Mr Johar Bin Anuar, PBM</li>
       <li>Mdm Junaidah Bte Tarjo, PBM</li>
 <li>Ms Hamidah Aidillah Binte Mustafa</li>
