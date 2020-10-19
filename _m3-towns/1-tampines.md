@@ -19,7 +19,7 @@ Follow M³@Tampines on [Facebook](https://www.facebook.com/M3atTampines/)!
   <tr>
   <td>
     <ul>
-      <li> Abu Bakar Mohd Nor, PBM Chairman</li><br>
+      <li>Chairperson: Abu Bakar Mohd Nor, PBM</li>
       <li>Adam Haji Hamzah</li>
 <li>Umar Masagos</li>
 <li>Jamaludin Saad</li>
