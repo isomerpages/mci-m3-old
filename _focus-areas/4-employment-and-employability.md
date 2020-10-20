@@ -10,13 +10,11 @@ collection_name: focus-areas
 
 COVID-19 has taken a toll on the Malay/Muslim workforce as Singapore rides through the economic impact of the pandemic. In order to remain resilient, M³ continues to play an integral role to support the community in ensuring that they can remain employed by having the necessary skillsets and optimising available opportunities.
 
-Led by Mr Zaqy Mohamad, this focus area launched in October 2020 aims to: <br>
-a. Bridge our workers to employment and employability opportunities to meet their immediate needs <br>
-b. Enhance the capability of our workforce through skills upgrading and lifelong learning initiatives to enhance their resilience and ensure their employability in the future <br>
-c. Prepare our current and future workforce to harness employment opportunities in the post COVID landscape and be future ready. <br>
+Led by Mr Zaqy Mohamad and launched in October 2020, this focus area aims to bridge our workers to employment and employability opportunities to meet their immediate needs. Through this focus area, M³  aims to enhance the capability of our workforce through skills upgrading and lifelong learning initiatives, thereby strengthening their resilience and ensuring their employability in the future. 
 
-This fourth focus area will also create outreach to the following target groups:  
-(i) Mature Jobseekers (40 years and above), (ii) PMET Jobseekers (mid-career switchers), (iii) Fresh Graduates and Young Workers, (iv) General Community (including the self-employed, vulnerable workers and low-wage workers). 
+This focus area will look towards reaching out to a range of jobseekers from mature jobseekers (40 years and above), PMET jobseekers (mid-career switchers), fresh graduates, young workers and the general community (including the self-employed, vulnerable and low-wage workers).
+
+Together, we will prepare our current and future workforce to harness employment opportunities in the post-COVID landscape and be future ready. 
 
 ### **JUMP Campaign**
 *Bringing various agencies together to tackle Job Opportunities, Upskilling, Mobility (Career) and Professional Development, in order to ensure our Malay/Muslim community remains mobile, agile and progressive in these economic times.*
