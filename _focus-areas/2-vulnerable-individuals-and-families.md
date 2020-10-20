@@ -13,7 +13,7 @@ Rehabilitation is a challenging journey for offenders but with strong support fr
 In partnership with the Ministry of Home Affairs (MHA), Singapore Prison Service (SPS) and community organisations, M³ agencies provide holistic support for offenders, ex-offenders, as well as their families so that they will have opportunities for progress. This workstream is led by Associate Professor Dr Muhammad Faishal Ibrahim, Minister of State, Ministry of Home Affairs and Ministry of National Development.
 
 ### **FITRAH**
-The FITRAH (Family and Inmates Throughcare Assistance Haven) programme<sup>1</sup> by the Islamic Religious Council of Singapore (Muis) aims to provide integrated and holistic support for inmates as well as their families - from in-care to aftercare. The families will be connected to the necessary network of assistance while their spouses who are in prison are duly supported with in-care services.
+The FITRAH<sup>1</sup> (Family and Inmates Throughcare Assistance Haven) programme by the Islamic Religious Council of Singapore (Muis) aims to provide integrated and holistic support for inmates as well as their families - from in-care to aftercare. The families will be connected to the necessary network of assistance while their spouses who are in prison are duly supported with in-care services.
 
 A total of 385 families have benefitted from services offered by FITRAH, which include befriending, referral for financial assistance, Islamic learning at Mosques and referral to MENDAKI for employment and tuition for their children. 
 
