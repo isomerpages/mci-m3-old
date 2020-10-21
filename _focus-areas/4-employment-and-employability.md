@@ -14,8 +14,6 @@ Led by Mr Zaqy Mohamad and launched in October 2020, this focus area aims to bri
 
 This focus area will look towards reaching out to a range of jobseekers from mature jobseekers (40 years and above), PMET jobseekers (mid-career switchers), fresh graduates, young workers and the general community (including the self-employed, vulnerable and low-wage workers).
 
-Together, we will prepare our current and future workforce to harness employment opportunities in the post-COVID landscape and be future ready. 
-
 ### **JUMP Campaign**
 *Bringing various agencies together to tackle Job Opportunities, Upskilling, Mobility (Career) and Professional Development, in order to ensure our Malay/Muslim community remains mobile, agile and progressive in these economic times.*
 
