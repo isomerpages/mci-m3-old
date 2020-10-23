@@ -12,6 +12,8 @@ One of its programmes is KelasMateMatika (KMM)@ Admiralty, Sembawang and Woodlan
 
 M³@Woodlands will continue to work with a network of partners, professionals and volunteers to support the Malay community in Sembawang GRC.  M³@Woodlands will also organise programmes for the vulnerable families as well as empower and mentor youths.
 
+Follow M³@Woodlands on [Facebook](https://www.facebook.com/M3atWoodlands)!
+
 <table class="table-h">
   <tr>
   <td><h5>Key Members of M³@Woodlands</h5></td>
@@ -19,29 +21,43 @@ M³@Woodlands will continue to work with a network of partners, professionals an
   <tr>
   <td>
     <ul>
-      <li> Dr Noorul Fatha As’art , Chairperson</li><br>
-      <li>Mr Edwin Ignatious M</li>
-<li>Mr Saiful Saroni</li>
-<li>Mr Muhammad Harmizan Bin Abdul Hamid</li>
-<li>Mr Edwan Nizar Bin Ahadan</li>
+      <li>Chairperson: Dr Noorul Fatha As’art</li>
+      <li>Edwan Nizar Bin Ahadan</li>
+<li>Muhammad Harmizan Bin Abdul Hamid</li>
+<li>Edwin Ignatious M</li>
+<li>Saiful Saroni</li>
 <li>Dr Rufaihah Abdul Jalil</li>
-<li>Mr Mohamed Shahril Bin Jaffar</li>
-<li>Mr Raja Hamzah Bin Raja Zulkifli, PBM</li>
-<li>Mr Mohamad Saddiq Mohammad Sa’id</li>
-<li>Mr Muhamad Faiz Bin Kamari</li>
-<li>Mdm Aina Bte Ibrahim</li>
-<li>Ms Nurul Asy'qah Bte Roslan</li>
-<li>Ms Nurul Aszrifah Bte Roslan</li>
-<li>Ms Fathiah Najwa</li>
-<li>Mr Izuan M Rais</li>
-<li>Mdm Lina Julianna Margini</li>
-<li>Mr Shahrudin Salleh</li>
-<li>Ms Nazhatulshima Abu Samah</li>
-<li>Mr Imran Rahim</li>
-<li>Mr Khairul Ashraf Bin Khairul Anwar</li>
-
-
-    
+<li>Mohamed Shahril Bin Jaffar</li>
+<li>Raja Hamzah Bin Raja Zulkifli, PBM</li>
+<li>Mohamad Saddiq Mohammad Sa’id</li>
+<li>Muhamad Faiz Bin Kamari</li>
+<li>Aina Bte Ibrahim</li>
+<li>Nurul Asy'qah Bte Roslan</li>
+<li>Nurul Aszrifah Bte Roslan</li>
+<li>Izuan M Rais</li>
+<li>Abdul Fattah Abdussamad</li>
+<li>Muhd Alawi Ahmad Shamsuddin</li>
+<li>Siti Rasyidah Sheihk Abdul Hakim</li>
+<li>Farah Nadia Bte Jamalludin</li>
+<li>Hazrul Azhar Bin Jamari</li>
+<li>Tengku Nur Nabilah Binte Tengku Ibrahim</li>
+<li>Tengku Nur Azura Binte Tuan Azman</li>
+<li>Lydia Salim</li>
+<li>Nur Fitria Rozlan</li>
+<li>Mazlan Boyamin</li>
+<li>Iliyana Sarib</li>
+<li>Munaya Mahirah Md Tahar</li>
+<li>Muhammad Alfian Aman</li>
+<li>Mohamad Ridhwan Bin Abdul Lazim</li>
+<li>Shabirin Bin Ariffin</li>
+<li>Md Nurizham Shah Bin Abdullah</li>
+<li>Abdul Samad Bin Abdul Wahab</li>
+<li>Abdul Rahman Bin Abdul Basir</li>
+<li>Euan Ismail</li>
+<li>Nur Fitria Rozlan</li>
+<li>Nurul Nadiah Bte Mohd Hashim</li>
+<li>Mohamad Nur Iqmal bin Mohamed Rozaini</li>
+<li>Muhammad Daniyal Bin Mohammad Johan</li>
  </ul>
     </td>
      </tr>
