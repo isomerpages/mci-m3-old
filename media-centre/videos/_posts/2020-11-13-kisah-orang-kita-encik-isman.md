@@ -6,7 +6,10 @@ permalink: /media-centre/videos/kisah-orang-kita-encik-isman/
 breadcrumb: Kisah Orang Kita - Encik Isman
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SJagd_xEv2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SJagd_xEv2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 #KisahOrangKita
 
