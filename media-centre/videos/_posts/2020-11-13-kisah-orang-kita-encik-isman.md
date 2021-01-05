@@ -11,9 +11,6 @@ breadcrumb: Kisah Orang Kita - Encik Isman
 
 </div>
 
-
-KisahOrangKita
-
 Di mana ada kemahuan, di situ ada jalannya. Dengan usaha gigih dan semangat tidak ingin berputus asa, Encik Isman mengubah nasib keluarganya.
 
 After his career was hit by SARS in 2004 and again recently by COVID-19, Mr Isman was determined to do what it takes to support his family. He applied for 50 jobs every month, set up his own food business and took up courses to improve his chances of securing a job.
