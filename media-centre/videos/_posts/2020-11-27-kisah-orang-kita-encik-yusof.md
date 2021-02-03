@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Kisah Orang Kita - Encik Yusof
+title:  Kisah Orang Kita - Encik Yusof & Isteri
 date:   2020-11-27
 permalink: /media-centre/videos/kisah-orang-kita-encik-yusof/
-breadcrumb: Kisah Orang Kita - Encik Yusof
+breadcrumb: Kisah Orang Kita - Encik Yusof & Isteri
 ---
 
 <div class="bp-youtube">
