@@ -10,7 +10,11 @@ As part of Singapore Together Emerging Stronger Conversations, CiptaSama@M³ pro
 
 In January 2021, two Singapore Together Emerging Stronger Conversations x CiptaSama@M³ sessions were held in Malay and English, involving more than 100 Singaporeans:
 
+![Ciptasama Photo 1](/images/Ciptasama-photo-1.png)
+
 On 7 Jan 2021, we discussed the topic of “Seizing Opportunities in the Age of Digital Transformation” with Minister Maliki Osman and Senior Minister of State Zaqy Mohamad.
+
+![Ciptasama Photo 2](/images/Ciptasama-photo-2.jpg)
 
 On 12 Jan 2021, we discussed the topic of “Strengthening Malay/Muslim Families” with Minister of State Faishal Ibrahim and Parliamentary Secretary Rahayu Mahzam.
 
