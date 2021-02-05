@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: CiptaSama@M³
 permalink: /ciptasamam3/
 breadcrumb: CiptaSama@M³
