@@ -6,6 +6,8 @@ breadcrumb: CiptaSama@M³
 collection_name: ciptasamam3
 ---
 
+![Ciptasama header](/images/Ciptasama-website-header.jpeg)
+
 As part of Singapore Together Emerging Stronger Conversations, CiptaSama@M³ provides a platform for the Malay/Muslim community to come together, reflect on what we have learnt from our COVID-19 experience, and chart the way forward as we progress together with the rest of Singapore. This is an important part of our endeavour to build up our Community of Success.
 
 In January 2021, two Singapore Together Emerging Stronger Conversations x CiptaSama@M³ sessions were held in Malay and English, involving more than 100 Singaporeans:
