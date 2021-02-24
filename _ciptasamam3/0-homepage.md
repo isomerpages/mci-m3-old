@@ -14,10 +14,14 @@ In January 2021, two Singapore Together Emerging Stronger Conversations x CiptaS
 
 ![Ciptasama Photo 1](/images/Ciptasama-photo-1.png)
 
+![Ciptasama Photo 3](/images/participants-images-2.png)
+
 On 7 Jan 2021, we discussed the topic of “Seizing Opportunities in the Age of Digital Transformation” with Minister Maliki Osman and Senior Minister of State Zaqy Mohamad.
 
 ![Ciptasama Photo 2](/images/Ciptasama-photo-2.jpg)
 
 On 12 Jan 2021, we discussed the topic of “Strengthening Malay/Muslim Families” with Minister of State Faishal Ibrahim and Parliamentary Secretary Rahayu Mahzam.
+
+![Ciptasama Photo 4](/images/participants-images.jpg)
 
 Following these CiptaSama@M³ sessions, we took back the ideas and suggestions, are studying them, and will build a network of community partners who will co-create a better tomorrow for Singapore through the Singapore Together Alliances for Action (AfA).
