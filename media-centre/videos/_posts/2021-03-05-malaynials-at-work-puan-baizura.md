@@ -11,5 +11,9 @@ breadcrumb: Malay-nials @ work - Baizura
 </div>
 
 When you are curious, you learn. And when you learn, you grow.
-Growing up watching documentaries about Google, Baizura was curious to discover it for herself. Driven with enthusiasm, she landed herself the opportunity to learn the ropes in their data centre. What was seemingly impossible, became possible for her. 
-All she had to do was take the first step forward with Skills Ignition SG. Watch and discover the rest of her journey!
+
+Growing up watching documentaries about Google, Baizura was curious to discover it for herself.
+Driven with enthusiasm, she landed herself the opportunity to learn the ropes in their data centre. What was seemingly impossible, became possible for her. 
+All she had to do was take the first step forward with Skills Ignition SG. 
+
+Watch and discover the rest of her journey!
