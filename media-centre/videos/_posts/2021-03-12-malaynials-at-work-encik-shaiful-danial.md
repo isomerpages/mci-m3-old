@@ -11,5 +11,8 @@ breadcrumb: Malay-nials @ work - Encik Shaiful Danial
 </div>
 
 To reach your goal, you must step out of your comfort zone.
+
 In his mid-twenties, Shaiful Danial made the decision to start up his own company.
-While there were people who doubted his capabilities, he decided to prove them wrong. Driven by his grit and passion, he created his own definition of success and the rest was history. Watch and discover the rest of his journey!
+While there were people who doubted his capabilities, he decided to prove them wrong. Driven by his grit and passion, he created his own definition of success and the rest was history. 
+
+Watch and discover the rest of his journey!
