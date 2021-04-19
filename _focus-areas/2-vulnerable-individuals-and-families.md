@@ -53,6 +53,8 @@ To assist ex-offenders and their families in successfully reintegrating into the
 
 MESRA also offers SHIOK Series courses to ex-offenders and their family members, so that they can pick up new skills and interact with other members of the community.
 
+Click [here](https://msha.ke/fitrahsg) for more information on FITRAH.
+
 
 <hr>
 
