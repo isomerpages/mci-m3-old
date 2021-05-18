@@ -2,7 +2,7 @@
 layout: post
 title:  Macam Mana Nak Cari Kerja? 
 date:   2021-04-09
-permalink: /media-centre/videos/macam-mana-video-1/
+permalink: /media-centre/videos/macam-mana-nak-cari-kerja/
 breadcrumb: Macam Mana Nak Cari Kerja? 
 ---
 
