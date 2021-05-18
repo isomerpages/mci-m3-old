@@ -2,7 +2,7 @@
 layout: post
 title:  Macam Mana Nak Terus Belajar?
 date:   2021-04-16
-permalink: /media-centre/videos/macam-mana-video-2/
+permalink: /media-centre/videos/macam-mana-nak-terus-belajar/
 breadcrumb: Macam Mana Nak Terus Belajar?
 ---
 
