@@ -14,5 +14,6 @@ breadcrumb: Macam Mana Nak Cari Kerja?
 
 Macam mana nak cari kerja eh? If you find yourself asking this question, this video's for you.
 When applying for jobs and awaiting for responses, you might feel disheartened at times and question what could have been done differently. From analysing your resumes to using the right keywords, follow Syafiqa as she gets practical tips from a MENDAKI SENSE career coach to help you land the job 😉
+
 Need career guidance? Simply call 6330 3300 to speak to a MENDAKI SENSE career coach.
 
