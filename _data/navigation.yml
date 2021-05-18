@@ -45,6 +45,13 @@
     url: /m3-towns/nee-soon/
   - title: M<sup><sup>3</sup></sup>@Woodlands
     url: /m3-towns/woodlands/
+  - title: M<sup><sup>3</sup></sup>@Geylang Serai
+    url: /m3-towns/geylang-serai/
+  - title: M<sup><sup>3</sup></sup>@Jalan Besar
+    url: /m3-towns/jalan-besar/
+  - title: M<sup><sup>3</sup></sup>@Toa Payoh
+    url: /m3-towns/toa-payoh/
+    
 - title: Media Centre
   url: /media-centre/
 - title: Our Community
@@ -73,5 +80,7 @@
     url: /useful-links/mendaki/
   - title: MESRA
     url: /useful-links/mesra/
+  - title: /useful-links/lawyers-m3/
+    url: lawyers-m3
 - title: Contact Us
   url: /contact-us/
