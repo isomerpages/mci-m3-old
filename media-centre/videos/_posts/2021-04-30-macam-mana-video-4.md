@@ -15,5 +15,5 @@ breadcrumb: Macam Mana Nak Persiapkan Anak Untuk Darjah Satu?
 From getting used to subjects and classes to making new friends, how can you play your part in getting your child ready for Primary One?
 For Ms Ami Iryani, a facilitator from KelasMateMatika@CC (KMM@CC), the secret is to get them started early 😉
 
-Visit [here](www.mendaki.org.sg) to enquire more on KMM@CC!
+Visit [here](https://www.mendaki.org.sg) to enquire more on KMM@CC!
 
