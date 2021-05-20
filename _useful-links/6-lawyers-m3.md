@@ -6,7 +6,9 @@ breadcrumb: Lawyers@M³
 collection_name: useful-links
 ---
 
-Lawyers@M³ are lawyers, legal professionals, and individuals with legal backgrounds who grouped together to do what we can for the community under the auspices of M³.
+![Lawyers@M³](/images/Lawyers-at-m3.jpg)
+
+Lawyers@M³ are lawyers, legal professionals, and individuals with legal backgrounds who grouped together to do what they can for the community under the auspices of M³.
 ‍
 Together, they hope to improve legal literacy and awareness in the community and help the underprivileged to better access legal services. To that end, they conduct talks, pro bono legal clinics, and sessions where they will share their views and know-how.
  
