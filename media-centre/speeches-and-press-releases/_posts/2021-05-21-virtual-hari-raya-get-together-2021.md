@@ -220,9 +220,9 @@ These seminars will lead up to an International Conference on Communities of Suc
 Ladies and gentlemen, allow me to conclude in English.
 
 
+![Minister Hari Raya Speech Inforgraphic ENG](/images/Minister-Hari-Raya-Speech-ENG.jpg)
 
-
-
+![Minister Hari Raya Speech Inforgraphic MAL](/images/Minister-Hari-Raya-Speech-MAL.jpg)
 
 
 
