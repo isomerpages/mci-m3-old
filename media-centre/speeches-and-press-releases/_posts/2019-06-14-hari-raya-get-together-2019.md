@@ -30,8 +30,8 @@ Ladies and gentlemen,
 
 8.	Hadirin sekalian, seperti yang diingatkan Mufti dalam khutbah Hari Rayanya, kita di Singapura harus bersyukur bahawa kita dapat menikmati dan melaksanakan kehidupan beragama dalam suasana yang damai di kalangan masyarakat majmuk. Tidak seperti di negara lain, masyarakat kita tidak dipalit imej negatif disebabkan perbuatan kumpulan pengganas walaupun ada yang turut diberkas kerana berpandangan extremis. Namun, apa yang membezakan, ialah kita sama menolak dengan konsisten dan sekeras-kerasnya fahaman pelampau ini. Sikap kita terus berwaspada, bekerjasama dengan pihak agama dan pihak berkuasa untuk membendung masalah dan menanam keyakinan warga.  Inilah cara kita buktikan kepada semua bahawa kita, orang Islam mahu hidup aman damai. Justeru, perbezaan masyarakat Melayu/Islam dengan kaum minoriti Islam di banyak negara lain begitu ketara. Dan ini bukan sekadar sikap menolak pengganasan. Kita bersama mengejar kemajuan di negara ini dengan warga lain dan kita tidak menyifatkan diri kita mangsa keadaan. Sebaliknya, kita diyakini dan dihormati masyarakat umum Singapura. Kita bukan masyarakat bermasalah kepada negara. Sebaliknya semakin ramai masyarakat kita maju menyumbang kepada ekonomi dan negara, menjadikan kita masyarakat yang yakin dan dapat menyelesaikan masalah kita sendiri. Malam ini, saya mengajak kita bersama meninggalkan tanggapan negatif kita terhadap masyarakat dan diri kita sendiri. Tidak ada pasukan yang akan menang jika bertemu lawan dengan merasakan serba kekurangan. Tidaklah masuk akal apabila pembesar luar negara memuji pencapaian kita, tetapi kita hanya melihat kepada kelemahan kita. Malam ini, saya mengajak tuan-tuan dan puan-puan bersama dengan berani dan megah mengatakan bahawa kita adalah sebuah Masyarakat Gemilang! Masyarakat Gemilang yang berdiri atas tiga dasar yang kukuh, yang saya singkatkan Dasar 3K, iaitu Keperibadian, Kemahiran dan Kewarga-negaraan kita.
 
-       Para hadirin yang saya hormati
-       ### **Keperibadian Masyarakat**
+      Para hadirin yang saya hormati
+      ### **Keperibadian Masyarakat**
 
 
 
