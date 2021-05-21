@@ -30,8 +30,8 @@ Ladies and gentlemen,
 
 8.	Hadirin sekalian, seperti yang diingatkan Mufti dalam khutbah Hari Rayanya, kita di Singapura harus bersyukur bahawa kita dapat menikmati dan melaksanakan kehidupan beragama dalam suasana yang damai di kalangan masyarakat majmuk. Tidak seperti di negara lain, masyarakat kita tidak dipalit imej negatif disebabkan perbuatan kumpulan pengganas walaupun ada yang turut diberkas kerana berpandangan extremis. Namun, apa yang membezakan, ialah kita sama menolak dengan konsisten dan sekeras-kerasnya fahaman pelampau ini. Sikap kita terus berwaspada, bekerjasama dengan pihak agama dan pihak berkuasa untuk membendung masalah dan menanam keyakinan warga.  Inilah cara kita buktikan kepada semua bahawa kita, orang Islam mahu hidup aman damai. Justeru, perbezaan masyarakat Melayu/Islam dengan kaum minoriti Islam di banyak negara lain begitu ketara. Dan ini bukan sekadar sikap menolak pengganasan. Kita bersama mengejar kemajuan di negara ini dengan warga lain dan kita tidak menyifatkan diri kita mangsa keadaan. Sebaliknya, kita diyakini dan dihormati masyarakat umum Singapura. Kita bukan masyarakat bermasalah kepada negara. Sebaliknya semakin ramai masyarakat kita maju menyumbang kepada ekonomi dan negara, menjadikan kita masyarakat yang yakin dan dapat menyelesaikan masalah kita sendiri. Malam ini, saya mengajak kita bersama meninggalkan tanggapan negatif kita terhadap masyarakat dan diri kita sendiri. Tidak ada pasukan yang akan menang jika bertemu lawan dengan merasakan serba kekurangan. Tidaklah masuk akal apabila pembesar luar negara memuji pencapaian kita, tetapi kita hanya melihat kepada kelemahan kita. Malam ini, saya mengajak tuan-tuan dan puan-puan bersama dengan berani dan megah mengatakan bahawa kita adalah sebuah Masyarakat Gemilang! Masyarakat Gemilang yang berdiri atas tiga dasar yang kukuh, yang saya singkatkan Dasar 3K, iaitu Keperibadian, Kemahiran dan Kewarga-negaraan kita.
 
-Para hadirin yang saya hormati
-### **Keperibadian Masyarakat**
+ Para hadirin yang saya hormati
+ ### **Keperibadian Masyarakat**
 
 
 
@@ -47,7 +47,7 @@ Para hadirin yang saya hormati
 
 14. Saya ingin merakamkan setinggi-tinggi penghargaan saya kepada semua yang ada di dewan ini atas budi baik dan sumbangan yang anda curahkan kepada masjid, madrasah, MMO dan IMO, serta pegawai perkhidmatan awam kita. Bakti anda kepada masyarakat dan negara, sangat-sangat disanjungi. Kini usaha anda diperkukuhkan lagi dengan tampilnya barisan baru, karyawan yang sama membantu dalam projek-projek M<sup>3</sup>.
 
-Para hadirin yang saya hormati,
+ Para hadirin yang saya hormati,
 
 15. Mungkin ada pula yang mengkritik, apakah kita sudah dapat berbangga hanya kerana karyawan mula ramai tampil ke hadapan. Malah mereka akan berkata lagi kita seharusnya berasa segan menggelar masyarakat kita sebagai Masyarakat Gemilang kerana jumlah karyawan dan yang cemerlang masih jauh lebih kecil berbanding masyarakat lain. Kepada mereka saya katakan, lihat sahaja pada sejarah awal Islam. Meskipun jumlah Muslimin ketika itu kecil, namun mereka dapat mengatasi cabaran yang sangat besar, yang sangat luar biasa apabila mereka bersatu dan yakin. Amatilah peristiwa di mana adakalanya kaum Muslimin tewas meskipun jumlah mereka ramai kerana mereka gagal bersatu hati dan memiliki matlamat yang tidak tepat atau apabila mereka mementingkan diri sendiri.
 
@@ -55,8 +55,8 @@ Para hadirin yang saya hormati,
 
 17. Justeru, masyarakat Melayu/Islam kita kuat bukan kerana ramainya yang berpendapatan tinggi dan peniaga jutawan di kalangan kita, tetapi kerana nilai-nilai murni yang kita pegang. Ini terserlah juga dari semangat sukarelawan kita. Walaupun masyarakat kita kecil, kitalah yang paling banyak melakukan kerja sukarela di Singapura. Ini juga keperibadian masyarakat yang kita banggakan. 
 
-Para hadirin yang saya hormati
-### **Kemahiran**
+ Para hadirin yang saya hormati
+ ### **Kemahiran**
 
 18. Keperibadian masyarakat itu adalah teras masyarakat gemilang. Namun untuk hidup dengan makmur, kita juga harus mempunyai **kemahiran**, sebagai individu dan juga anggota masyarakat. Kita harus menjadi masyarakat yang menyumbang, dan bukan sekadar menerima. Contohnya, Puan Bibi Fatima, seorang suri rumah yang terpaksa menggalas tanggungjawab setelah suaminya jatuh sakit dan tidak boleh lagi bekerja. Puan Bibi tidak mahu menjadi beban pada sesiapa. Beliau mengambil kursus menaip, dan mendapat pekerjaan sebagai kerani di SingPost. Berkat usaha gigih untuk mempertingkatkan diri, beliau berjaya menampung keluarganya sehingga anak-anaknya lulus pengajian tinggi – ada di tahap sarjana muda, ada juga yang meraih diploma. Syabas, Puan Bibi Fatima!
 
@@ -70,8 +70,8 @@ Para hadirin yang saya hormati
 
 23. Kemahiran masyarakat kita akan membuat golongan pekerja kita lebih berdaya tahan dan boleh merebut peluang jika kita terus mempertingkatkan diri, lebih-lebih lagi dalam keadaan ekonomi dunia yang deras berubah. Hari ini, kita harus berbangga kerana semakin ramai anak-anak Melayu/Islam diberi tanggungjawab yang besar dan anak-anak Melayu/Islam memainkan peranan penting dalam kemajuan Singapura di sektor privet dan awam seperti menjadi pengurus besar, sebagai penjawat awam ataupun sebagai pemegang jawatan politik di kementerian-kementerian dan seperti Presiden Halimah Yacob, yang menjadi ketua negara.
 
-Para hadirin yang saya hormati,
-### **Kewarga-negaraan**
+ Para hadirin yang saya hormati,
+ ### **Kewarga-negaraan**
 
 24.	Sejauh ini, saya telah berkongsi bagaimana kita telah membangunkan masyarakat Islam Singapura dengan keperibadian murni dan kemahiran kukuh. Namun, untuk membangunkan Masyarakat Gemilang, kita juga memerlukan satu lagi sifat “K” yang ketiga, iaitu semangat **Kewarga-negaraan.** Nilai inilah yang akan memperkukuhkan ikatan masyarakat kita kepada warga lain dan meterai masyarakat kita sebagai aset penting kepada Singapura. Justeru, sebagai Masyarakat Gemilang kita tidak harus puas hanya sekadar berintegrasi kerana tahu sifat kewarga-negaraanlah yang dapat menyemai kepercayaan antara warga demi mencipta kemakmuran untuk semua dan memperteguh jadi diri kita sebagai anak watan Singapura.
 
@@ -114,12 +114,12 @@ Berpadulah kita Membangunkan negara. <br>
 35.	Sekian. Terima kasih dan wassalam. 
 
 
-### **ENGLISH TRANSLATION**
+ ### **ENGLISH TRANSLATION**
 
 8.	As Mufti reminded us during his Hari Raya sermon, Muslims in Singapore should be thankful that we can practice our religion peacefully in a multi-religious society. Unlike in other countries, Muslims are not viewed with suspicion because of the acts of terrorists who claim to be Muslim. Yes, our community too has not been spared from the influences of extremist ideologies. But what differentiates us is that our community condemns such ideologies. Our vigilance against extremism and our cooperation with the authorities to curb problems earn us the trust of others.  This also demonstrates our desire to live harmoniously in a plural society.  Hence, we are very different from other Muslim minority communities. We need not be apologetic for terrorism, nor do we need to see ourselves as victims. We are not liabilities; rather, we contribute to the nation and the economy, and we solve our own problems. We have the trust and respect of society.  Tonight, I want us to cast off our doubts about our community. We need not dwell on our weaknesses, when leaders around the world laud our achievements. In fact, tonight, I invite all of us to proudly say that our community is a Community of Success – a community of character, competence and citizenry, three Cs. 
 
-Respected guests,
-### **Character**
+ Respected guests,
+ ### **Character**
 
 9.	Let’s start with the first “C” – Character, one that we have emphasised as a community. Morals shape an individual’s identity, and the collective behavior of individuals shape the community’s identity.  
 
@@ -133,15 +133,15 @@ Respected guests,
 
 14.	I wish to express my deepest appreciation to everyone in this room – for your contributions to our mosques, our madrasahs, our MMOs and IMOs, and to public service. Your contribution to the community and country is much appreciated. And now your efforts are further strengthened by a new group of professionals who have stepped forward to help in M³ projects.
 
-Respected guests,
+ Respected guests,
 15.	Now, the more critical among us may question if we can be proud simply because our professionals have started to come forward. They would also point out that the number of professionals in our community is much smaller than that in others, and ask if we should really be referring to ourselves as a Community of Success. To them I will say, take a leaf from the early days of Islam. Even though Muslims were small in number then, they overcame extraordinary obstacles when they were united and confident. But there were also instances when great defeats were suffered despite there being large numbers of Muslims, because they were divided, selfish and unable to work together towards a common goal.
 
 16.	The good character of our community can be further seen in the solidarity in our community’s giving. The proof? Take the Zakat contributions paid to MUIS for example. In 2018, our community contributed $43 million to MUIS to help vulnerable Singaporean households. In the same year, our small community contributed $18 million towards mosque building. If we tally the contributions made towards mosque building since 1975, the amount exceeds $250 million. This does not even include the donations made directly to mosques on a daily basis, which are in the millions!  Today, when we want to build a new mosque or upgrade an old one, we conduct our own fundraising events, and are not reliant on donations from abroad or from the Government. Let’s look at our wakaf assets next. In 2018, the value of the wakaf assets of the Muslim community stood at over $940 million.  The returns from wakaf have benefited many Muslims in Singapore, as well as those around the world. If we combine zakat, mosque building funds and wakaf, we are managing assets that amount to over one billion dollars! This must surely be the result of the cohesiveness of our community and the strength of its character. Zakat and wakaf are surely signs of our community’s generosity.
 
 17.	We were able to raise these funds not because there are many high-income earners or millionaires amongst us, but because of our values. Malay/Muslims also punch above our weight in the volunteerism sector; we have the highest volunteerism rate of all communities in Singapore. This is something we are proud of.
 
-Respected guests,
-### **Competence**
+ Respected guests,
+ ### **Competence**
 
 18.	Good character is the basis of a community of success. But to lead lives of dignity, we also need to be competent, as individuals, and as a community. We should be a community that contributes, not a community that merely takes. For example, Mdm Bibi Fatima, a housewife who had to step up after her husband became ill and could no longer work. Mdm Bibi refused to be a burden to others. She took courses to learn how to type, and got a job as a clerk in SingPost. Through her determined efforts to upskill, she managed to take care of her family, and put her children through school. All three of them have now graduated with degrees and diplomas to their name. Congratulations, Mdm Bibi Fatima!
 
@@ -155,8 +155,8 @@ Respected guests,
 
 23.	Our competence will help our workers stay resilient in volatile times. Today, we should be proud that more of our young generation are taking on greater responsibilities, and that the Malay/Muslim community plays an integral role in Singapore’s progress: from the private sector to the public sector, from general managers and CEOs, and political offices from Ministers to President Halimah Yacob.
 
-Respected guests,
-### **Citizenry**
+ Respected guests,
+ ### **Citizenry**
 
 24.	So far, I have talked about how we have developed Singaporean Muslims with good character and competence. However, to truly be a community of success, we also need the third “C”: citizenry. Citizenry is what binds the community to other citizens, and vice versa.  It is what makes our community an asset to Singapore. We cannot be satisfied merely with peaceful coexistence with other communities. There must be active efforts made to build trust and friendship across racial and religious lines, to enable all communities to conceive of the common good, and to nurture a deep sense of belonging to Singapore, our home. 
 
@@ -172,7 +172,7 @@ Respected guests,
 
 30.	The system and model that has allowed us to live prosperously and harmoniously as a Muslim minority community is well-regarded internationally, and should be shared with others. As such, **I intend to hold a conference on the theme of being a community of success next year.** It will discuss the development and application of religious guidance for Muslim minorities who wish to live as dignified and contributing citizens in their societies. MUIS, as well as our religious scholars and asatizah, can contribute their weath of experience, fatwa and irsyad. These can be discussed by other religious scholars around the world. This can be Singapore’s contribution to the world. 
 
-Respected guests,
+ Respected guests,
 31. Just as the Muhajirin Muslims earned the complete trust of their non-Muslim countrymen in Abyssinia, it is our citizenry and belief in shared values that enable us to be one with the other communities in Singapore. Recently, I visited the Singapore Bicentennial Exhibition, and was reminded of the values that have already been inculcated in our community since 700 years ago. First, our confidence in our place in our multicultural society; second, our commitment to determine our own destiny; and third, our willingness to embrace change. These have shaped the attitudes and worldview of the Malays in Singapore, and we are distinct because of it.  For instance, interfaith dialogues are not a norm in this region.  However, in Singapore, the late Moulana Abdul Aleem Siddique, guided by his knowledge of Islam, which in its essence means peace, preached greater cooperation amongst religions, and his efforts eventually led to the formation of the Inter-Religious Organisation (IRO) 70 years ago.
 
 32.	During my visit to the Singapore Bicentennial Experience exhibition recently, I could see the strong sense of citizenry of the Malay/Muslims in Singapore in the sacrifice made by Lieutenant Adnan Saidi. Lieutenant Adnan and his comrades from the Malay Regiment faced an intense battle against the Japanese to defend Pasir Panjang. Even though they were facing shortages of food and water, they did not give up and continued to fight on. During the battle, Lt Adnan was shot and ran out of ammunition, but he continued to battle his enemies in hand-to-hand combat till the very end. Lt Adnan was not only courageous; he was also intelligent.  One of the surviving anecdotes from that battle is that he foiled the Japanese attempt to sneak past the Malay Regiment in uniforms stolen from the British Indian Army. Lieutenant Adnan’s story stays with me, because his sacrifice is the highest example of the three “C”s that I have mentioned – character, competence, as well as citizenry, proven in his sacrifice to defend the country from its enemy.
