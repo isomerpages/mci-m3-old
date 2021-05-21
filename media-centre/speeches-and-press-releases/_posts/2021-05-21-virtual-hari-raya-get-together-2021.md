@@ -5,8 +5,8 @@ date:   2021-05-21
 permalink: /media-centre/speeches-and-press-releases/virtual-hari-raya-get-together-2021
 ---
 
-### **“Raikan Kejayaan, Kukuhkan Perpaduan”
-### **(Celebrating Success, Strengthening Unity)**
+### ** “Raikan Kejayaan, Kukuhkan Perpaduan”
+### ** (Celebrating Success, Strengthening Unity)**
 
 
 Mufti of Singapore, <br>
@@ -114,9 +114,12 @@ Oleh yang sedemikian, Muis akan menganjurkan sebuah siri seminar untuk memperkuk
 
 Pada kemuncak siri seminar ini ialah Persidangan Antarabangsa mengenai Masyarakat Gemilang, anjuran Muis. Seminar-seminar dan persidangan yang dianjurkan memberi peluang kepada para asatizah kita untuk membangunkan sumber ilmu yang boleh membantu kita menghadapi pelbagai cabaran kontemporari yang rumit. Secara kolektif, kami harap semua usaha ini akan membolehkan Singapura dan masyarakat minoriti Islam yang lain untuk berkembang maju dan hidup bersama masyarakat lain di dunia secara harmoni. 
 
+## **Kesimpulan**
+
 Hadirin hadirat sekalian, izinkan saya akhiri ucapan dalam Bahasa Inggeris. 
 
-I am proud to see how our community has rallied together to meet the challenges of COVID-19 in this past year. Tonight, we celebrate this spirit of 
+I am proud to see how our community has rallied together to meet the challenges of COVID-19 in this past year. Tonight, we celebrate this spirit of resilience and unity, which has kept our community strong during this crisis. As you have seen in recent days, our fight against COVID-19 is still ongoing. We need to come together, more than ever, to support one another and strengthen partnerships within the community. We are living in an ever-changing world, and we must be prepared for the future. Our asatizah too must be well-equipped, so that they can provide sound religious guidance in uncertain times, and help build a body of knowledge which lets us face future challenges confidently, as a Community of Success.
+
 
 On this note, I wish all of you Selamat Hari Raya Aidilfitri, Maaf zahir dan batin. May this year’s Aidilfitri bring happiness to you and your family. Thank you.
 
@@ -124,6 +127,9 @@ On this note, I wish all of you Selamat Hari Raya Aidilfitri, Maaf zahir dan bat
 
 
 ### **ENGLISH TRANSLATION**
+
+### **Coming Together as a Community During COVID-19**
+
 
 Ladies and gentlemen, last year, I spoke about the uncertainties that tested our mettle as a Community of Success. I touched on the difficult adjustments we had to make to our social and religious lives in order to contain the spread of COVID-19. I also announced the formation of the Singapore Community Wakaf to financially sustain the religious needs of the community in the future. 
 
