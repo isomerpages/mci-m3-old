@@ -215,6 +215,8 @@ Hence, Muis will be organising a series of seminars to deepen engagement and col
 
 These seminars will lead up to an International Conference on Communities of Success (ICCOS), which Muis will organise in the near future. The seminars and Conference present an opportunity for our asatizah to develop a body of knowledge that will help us navigate various contemporary and complex challenges. We hope that these collective efforts will enable Singapore and other Muslim minority communities to thrive and live harmoniously with other communities around the world.
 
+## **Conclusion**
+
 Ladies and gentlemen, allow me to conclude in English.
 
 
