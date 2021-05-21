@@ -6,7 +6,7 @@ permalink: /media-centre/speeches-and-press-releases/virtual-hari-raya-get-toget
 ---
 
 ### **“Raikan Kejayaan, Kukuhkan Perpaduan”
-(Celebrating Success, Strengthening Unity)**
+### **(Celebrating Success, Strengthening Unity)**
 
 
 Mufti of Singapore, <br>
