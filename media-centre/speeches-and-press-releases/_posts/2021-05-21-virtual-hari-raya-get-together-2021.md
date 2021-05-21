@@ -5,8 +5,8 @@ date:   2021-05-21
 permalink: /media-centre/speeches-and-press-releases/virtual-hari-raya-get-together-2021
 ---
 
-### ** “Raikan Kejayaan, Kukuhkan Perpaduan”
-### ** (Celebrating Success, Strengthening Unity)**
+###  “Raikan Kejayaan, Kukuhkan Perpaduan”
+###  (Celebrating Success, Strengthening Unity)
 
 
 Mufti of Singapore, <br>
