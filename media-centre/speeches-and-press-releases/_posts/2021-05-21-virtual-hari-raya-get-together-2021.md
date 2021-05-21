@@ -72,7 +72,7 @@ Hadirin hadirat sekalian, bekerjasama dan menaruh kepercayaan antara kita merupa
 
 Justeru, kami ingin memanfaatkan kekuatan yang ada pada MMO kita, serta melestarikan kerjasama yang telah kita tunjukkan di bawah SGTB. Seterusnya, kami ingin memanfaatkan rangkaian M³ untuk meluaskan lagi jangkauan kita bersama MMO agar dapat meningkatkan taraf masyarakat kita. 
 
-Bagi fasa seterusnya, kami akan semaikan benih kerjasama yang ditanam dengan penubuhan SGTB, untuk terus memanfaatkan kerjasama yang ada di antara MMO dan M³. Jika M³ boleh menyediakan jangkaun kepada masyarakat yang luas dengan rangkaian 11 Bandar@M³, MMO pula mempunyai berbagai program yang berkesan, berkat daripada pengkhususan mereka dalam bidang masing-masing. Sebagai contoh:
+Bagi fasa seterusnya, kami akan semaikan benih kerjasama yang ditanam dengan penubuhan SGTB, untuk terus memanfaatkan kerjasama yang ada di antara MMO dan M³. Jika M³ boleh menyediakan jangkauan kepada masyarakat yang luas dengan rangkaian 11 Bandar@M³, MMO pula mempunyai berbagai program yang berkesan, berkat daripada pengkhususan mereka dalam bidang masing-masing. Sebagai contoh:
 
  a. PERTAPIS, yang mengendalikan sebuah rumah tumpangan dan menjalankan usaha-usaha untuk membantu para banduan, bakal bekerjasama dengan pejabat FITRAH di bawah naungan Muis. Kami dapat berkongsi program-program pengayaan, serta amalan-amalan terbaik yang dilaksanakan untuk menyokong para banduan Islam, serta keluarga mereka. 
 
@@ -131,7 +131,7 @@ Allow me to look back at our shared journey as a community in the past year. Our
 
 I would like to specially thank our Malay/Muslim COVID-19 Working Group and our SGTeguhBersatu Taskforce (SGTB), who sprang into action when the pandemic started and have been working hard in the past year to guide and support our community through this crisis. 
 
-We set up SGTB in April last year to strengthen the last-mile delivery of the support measures under the Resilience Budget. SGTB led targeted initiatives that support the Malay/Muslim community through the COVID-19 situation. We tapped on the network and expertise of the M3 agencies, Malay/Muslim Organisations such as PERGAS, PPIS, AMP, the Singapore Malay Chamber of Commerce and Industry (SMCCI) as well as the National Trades Union Congress (NTUC). 
+We set up SGTB in April last year to strengthen the last-mile delivery of the support measures under the Resilience Budget. SGTB led targeted initiatives that support the Malay/Muslim community through the COVID-19 situation. We tapped on the network and expertise of the M³ agencies, Malay/Muslim Organisations such as PERGAS, PPIS, AMP, the Singapore Malay Chamber of Commerce and Industry (SMCCI) as well as the National Trades Union Congress (NTUC). 
 
 Through the exchange of information and discussing issues together, MUIS, MENDAKI and MESRA were able to formulate many initiatives that benefited the community during this pandemic. For example:
 
@@ -163,29 +163,29 @@ I have listed down the various achievements from the “gotong-royong” spirit,
 
 ### **Strengthening Partnerships within the Community**
 
-Ladies and gentlemen, working together and trusting one another are the hallmarks of partnership, and we have seen many such examples over the past year.  We need to continue the spirit of working together among M3 and MMOs in SGTB – this reminds me of the Malay proverb, “Tali yang tiga lembar itu, tidak suang-suang putus”, which means there is strength in working together. 
+Ladies and gentlemen, working together and trusting one another are the hallmarks of partnership, and we have seen many such examples over the past year.  We need to continue the spirit of working together among M³ and MMOs in SGTB – this reminds me of the Malay proverb, “Tali yang tiga lembar itu, tidak suang-suang putus”, which means there is strength in working together. 
 
-Therefore, we want to continue building on the strengths of our MMOs, and the collaborations that have been forged under SGTB. Going forward, we want to tap on our M3 network to extend our shared outreach with the MMOs in uplifting our community.
+Therefore, we want to continue building on the strengths of our MMOs, and the collaborations that have been forged under SGTB. Going forward, we want to tap on our M³ network to extend our shared outreach with the MMOs in uplifting our community.
 
-For the next phase, we will sow the seeds of partnerships, just like the ones we have planted in forming SGTB, to continue to find synergies within M³ and the MMOs. M³ is able to support outreach efforts to the wider community through the 11 M3@Towns, while MMOs have a broad range of effective programmes that are a result of their specialisation in their respective fields.  For instance: 
+For the next phase, we will sow the seeds of partnerships, just like the ones we have planted in forming SGTB, to continue to find synergies within M³ and the MMOs. M³ is able to support outreach efforts to the wider community through the 11 M³@Towns, while MMOs have a broad range of effective programmes that are a result of their specialisation in their respective fields.  For instance: 
 
  a. PERTAPIS, which operates a halfway house and works with prison inmates, will work with Muis’ FITRAH office. We will be able to share capability-building programmes as well as best practices to best support Muslim inmates and their families.
 
  b. We are also in discussion with PPIS to strengthen support for young families staying at M³@Towns, especially those living in rental flats. 
 
- c. Kesatuan Guru-Guru Melayu Singapura (KGMS) will be organising a webinar to enhance parents’ awareness of how to prepare their children for Primary 1 at the M3@Towns. 
+ c. Kesatuan Guru-Guru Melayu Singapura (KGMS) will be organising a webinar to enhance parents’ awareness of how to prepare their children for Primary 1 at the M³@Towns. 
 
-Funding will be available for MMOs through the Mendaki Community Leaders’ Forum (CLF) for projects aligned with the M3 Focus Areas. While many of our MMOs are already running programmes that address our M3 Focus Areas, the CLF funding can provide additional support for these programmes. Mendaki is currently revising the CLF application process, to make it simpler and more streamlined, including shortening the current processing time from 12 weeks to 4 weeks. This will give MMOs more time to implement the programmes. 
+Funding will be available for MMOs through the Mendaki Community Leaders’ Forum (CLF) for projects aligned with the M³ Focus Areas. While many of our MMOs are already running programmes that address our M³ Focus Areas, the CLF funding can provide additional support for these programmes. Mendaki is currently revising the CLF application process, to make it simpler and more streamlined, including shortening the current processing time from 12 weeks to 4 weeks. This will give MMOs more time to implement the programmes. 
 
-In instilling among us a spirit of cooperation, I also wish to introduce a new programme to strengthen leadership development for the next generation of leaders within our community. It will bring together our young leaders who are under 45 years old, and holding senior positions in the MMOs. This programme is called Tunas Bersama M3. It will be supported by Mendaki through the CLF. 
+In instilling among us a spirit of cooperation, I also wish to introduce a new programme to strengthen leadership development for the next generation of leaders within our community. It will bring together our young leaders who are under 45 years old, and holding senior positions in the MMOs. This programme is called Tunas Bersama M³. It will be supported by Mendaki through the CLF. 
 
- a. Tunas Bersama M3 members will benefit from a range of programmes so that they can network among themselves and foster close relationships with each other by the time they lead their respective MMOs and organisations in the future. 
+ a. Tunas Bersama M³ members will benefit from a range of programmes so that they can network among themselves and foster close relationships with each other by the time they lead their respective MMOs and organisations in the future. 
 
  b. They will receive opportunities to be trained in governance and leadership.
 
  c. They will also get the chance to exchange ideas with Government leaders where they can learn more about ongoing issues and the considerations behind our policies that have contributed to Singapore’s development.
 
- d. We hope that Tunas Bersama M3 will be able to propose projects that can be implemented across the network of M3 towns.
+ d. We hope that Tunas Bersama M³ will be able to propose projects that can be implemented across the network of M³ towns.
 
  e. More details of this initiative will be shared later.
 
