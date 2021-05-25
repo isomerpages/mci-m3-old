@@ -30,5 +30,3 @@ Following these CiptaSama@M³ sessions, we took back the ideas and suggestions, 
 
 Read the report from the ESCs <a href="/images/PDF/Ciptamasa_ESC_Report_6.3MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a>
 
-![Ciptasama report ENG](/images/Ciptasama-report.jpg)
-
