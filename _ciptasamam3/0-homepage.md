@@ -28,7 +28,7 @@ Watch the highlights of the sessions [here](https://www.youtube.com/watch?v=78tz
 
 Following these CiptaSama@M³ sessions, we took back the ideas and suggestions, are studying them, and will build a network of community partners who will co-create a better tomorrow for Singapore through the Singapore Together Alliances for Action (AfA).
 
-Read the report from the ESCs here.
+Read the report from the ESCs <a href="/images/PDF/Ciptamasa_ESC_Report_6.3MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a>
 
 ![Ciptasama report ENG](/images/Ciptasama-report.jpg)
 
