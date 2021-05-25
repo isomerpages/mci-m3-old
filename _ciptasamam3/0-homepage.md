@@ -24,4 +24,11 @@ On 12 Jan 2021, we discussed the topic of “Strengthening Malay/Muslim Families
 
 ![Ciptasama Photo 4](/images/thank-you-2.jpg)
 
+Watch the highlights of the sessions [here](https://www.youtube.com/watch?v=78tzB2lFKB8).
+
 Following these CiptaSama@M³ sessions, we took back the ideas and suggestions, are studying them, and will build a network of community partners who will co-create a better tomorrow for Singapore through the Singapore Together Alliances for Action (AfA).
+
+Read the report from the ESCs here.
+
+![Ciptasama report ENG](/images/Ciptasama-report.jpg)
+
