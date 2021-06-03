@@ -18,6 +18,6 @@ Join Huda Ali as she drops by M³@Tampines to meet Block Ambassadors, Ridzuan an
 
 To find out more on M3 at Tampines, follow them on:
 
-Facebook - www.facebook.com/M3atTampines/
+Facebook - www.facebook.com/M3atTampines/ <br>
 Instagram - www.instagram.com/m3attampines/
 
