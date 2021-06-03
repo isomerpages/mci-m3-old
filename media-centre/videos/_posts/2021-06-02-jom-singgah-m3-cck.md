@@ -12,6 +12,8 @@ breadcrumb: "Jom Singgah: M³@Chua Chu Kang"
 
 #JomSinggah
 
-Huda Ali visits M³ @ Chua Chu Kang to meet with Hamidah, a volunteer in charge of Nakhoda Bahtera - a programme which aims to empower men with good health and financial literacy to become better leaders for their families. She also got the opportunity to hear the experience of Imran, a Nakhoda Bahtera participant himself 😉
+Huda Ali visits M³@Chua Chu Kang to meet with Hamidah, a volunteer in charge of Nakhoda Bahtera - a programme which aims to empower men with good health and financial literacy to become better leaders for their families. She also got the opportunity to hear the experience of Imran, a Nakhoda Bahtera participant himself 😉
 
-To find out more on M³ @ Chua Chu Kang , follow them on Instagram (@m3atcckgrc)!
+
+To find out more on M³@Chua Chu Kanv, follow them on [Instagram](https://www.instagram.com/m3atcckgrc/)! 
+
