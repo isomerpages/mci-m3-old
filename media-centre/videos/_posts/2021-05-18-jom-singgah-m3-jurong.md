@@ -18,5 +18,5 @@ Huda Ali visits M³@Jurong to meet Dian, a youth mentor under Project SOAR, to f
 
 To find out more on M3 at Jurong, follow them on: 
 
-Facebook - www.facebook.com/m3atjurong/
+Facebook - www.facebook.com/m3atjurong/ <br>
 Instagram - www.instagram.com/m3atjurong/
