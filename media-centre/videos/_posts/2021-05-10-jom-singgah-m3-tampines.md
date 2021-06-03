@@ -16,8 +16,5 @@ We have all heard about brand ambassadors and influencers but do you know about 
 
 Join Huda Ali as she drops by M³@Tampines to meet Block Ambassadors, Ridzuan and Kelane, in their mission to help as many residents as they can.
 
-To find out more on M3 at Tampines, follow them on:
-
-Facebook - www.facebook.com/M3atTampines/ <br>
-Instagram - www.instagram.com/m3attampines/
+To find out more on M³@Tampines, follow them on [Facebook](https://www.facebook.com/M3atTampines/) and [Instagram](https://www.instagram.com/m3attampines/)! 
 
