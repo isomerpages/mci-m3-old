@@ -16,7 +16,6 @@ What is a youth mentor? How do they actually empower our youth?
 
 Huda Ali visits M³@Jurong to meet Dian, a youth mentor under Project SOAR, to find out more on their efforts in helping fellow youths!
 
-To find out more on M3 at Jurong, follow them on: 
 
-Facebook - www.facebook.com/m3atjurong/ <br>
-Instagram - www.instagram.com/m3atjurong/
+To find out more on M³@Jurong, follow them on [Facebook](https://www.facebook.com/m3atjurong/) and [Instagram](https://www.instagram.com/m3atjurong/)! 
+
