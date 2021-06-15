@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "#InspirasiSG Stories"
+title: '#InspirasiSG Stories'
 permalink: /inspirasisg/stories/
-breadcrumb: "#InspirasiSG Stories"
-collection_name: inspirasisg
+breadcrumb: '#InspirasiSG Stories'
+
 ---
+
 ### **All Stories**
 <div class="focus-list row is-multiline">
   <div class="focus col is-one-third-desktop is-one-third-tablet">
