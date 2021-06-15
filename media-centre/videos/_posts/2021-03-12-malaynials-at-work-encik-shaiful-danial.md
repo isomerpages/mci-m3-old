@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Malay-nials @ work - Encik Shaiful Danial
-date:   2021-03-12
+title: 'Malay-nials @ work - Encik Shaiful Danial'
+date: 2021-03-12T00:00:00.000Z
 permalink: /media-centre/videos/malaynials-at-work-encik-shaiful-danial/
-breadcrumb: Malay-nials @ work - Encik Shaiful Danial
+breadcrumb: 'Malay-nials @ work - Encik Shaiful Danial'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlU2f2BVgJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
