@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  M³ Youth Festival 2019
-date:   2019-07-22
+title: 'M³ Youth Festival 2019'
+date: 2019-07-22T00:00:00.000Z
 permalink: /media-centre/videos/m3-youth-festival-2019/
-breadcrumb: M³ Youth Festival 2019
+breadcrumb: 'M³ Youth Festival 2019'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhzTSPjSTAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
