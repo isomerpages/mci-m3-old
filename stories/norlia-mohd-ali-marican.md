@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Norlia Mohd Ali Marican, 53, Housewife 
-permalink: /inspirasisg/stories/norlia-mohd-ali-marican/ 
-breadcrumb: Norlia Mohd Ali Marican
-collection_name: inspirasisg
+title: 'Norlia Mohd Ali Marican, 53, Housewife'
+permalink: /inspirasisg/stories/norlia-mohd-ali-marican/
+breadcrumb: 'Norlia Mohd Ali Marican'
+
 ---
+
 
 ### **Senior inspires and encourages fostering in others**
 
