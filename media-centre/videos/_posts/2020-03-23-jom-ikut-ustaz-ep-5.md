@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Jom Ikut Ustaz Episode 5"
-date:   2020-03-23
+title: 'Jom Ikut Ustaz Episode 5'
+date: 2020-03-23T00:00:00.000Z
 permalink: /media-centre/videos/jom-ikut-ustaz-ep-5/
-breadcrumb: "Jom Ikut Ustaz Episode 5"
+breadcrumb: 'Jom Ikut Ustaz Episode 5'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H78-oEWikwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
