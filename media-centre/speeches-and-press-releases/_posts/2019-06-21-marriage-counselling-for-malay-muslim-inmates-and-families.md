@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Marriage Counselling Programme for Malay/Muslim Inmates and Their Families
-date:   2019-06-21
+title: 'Marriage Counselling Programme for Malay/Muslim Inmates and Their Families'
+date: 2019-06-21T00:00:00.000Z
 permalink: /media-centre/speeches-and-press-releases/marriage-counselling-for-malay-muslim-inmates-and-families
+
 ---
+
 
 MEDIA FACTSHEET <br> 
 **SYARIAH COURT (SYC) PARTNERS SINGAPORE PRISON SERVICE(SPS) AND FITRAH OFFICE (MUIS) TO PROVIDE HOLISTIC CARE FOR MALAY/MUSLIM INMATES UNDERGOING DIVORCE AND THEIR FAMILIES**
