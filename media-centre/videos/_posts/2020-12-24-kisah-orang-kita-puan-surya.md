@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Kisah Orang Kita - Puan Surya
-date:   2020-12-24
+title: 'Kisah Orang Kita - Puan Surya'
+date: 2020-12-24T00:00:00.000Z
 permalink: /media-centre/videos/kisah-orang-kita-puan-surya/
-breadcrumb: Kisah Orang Kita - Puan Surya
+breadcrumb: 'Kisah Orang Kita - Puan Surya'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TrdL5DDEyLk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
