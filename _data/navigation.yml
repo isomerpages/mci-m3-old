@@ -42,7 +42,7 @@ links:
       url: /media-centre/
     - title: Our Community
       url: /be-a-volunteer/
-      sub-links:
+      sublinks:
       - title: Be a Volunteer
         url: /be-a-volunteer/
       - title: "#InspirasiSG"
