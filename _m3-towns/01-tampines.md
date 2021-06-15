@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: M³@Tampines
 permalink: /m3-towns/tampines/
 breadcrumb: M<sup>3</sup>@Tampines
-collection_name: m3-towns
+
 ---
+
 
 M³@Tampines was formed in August 2018 to streamline the efforts of the five Malay Activity Executive Committees (MAEC) in Tampines in meeting the needs of the Malay/Muslim community in Tampines. Together with representatives from MUIS and MENDAKI, M³@Tampines works with the Malay/Muslim professionals to be a one-stop centre for local programmes dedicated in meeting the residents’ ever-changing needs.
  
