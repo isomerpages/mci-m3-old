@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Minister Masagos Leads SGTeguhBersatu Taskforce To Provide Targeted Support To Malay/Muslim Community Through COVID-19 
-date:   2020-04-04
+title: 'Minister Masagos Leads SGTeguhBersatu Taskforce To Provide Targeted Support To Malay/Muslim Community Through COVID-19'
+date: 2020-04-04T00:00:00.000Z
 permalink: /media-centre/speeches-and-press-releases/sgteguhbersatu-taskforce/
+
 ---
+
 
 Minister-in-Charge of Muslim Affairs Masagos Zulkifli has convened the *SGTeguhBersatu*<sup>1</sup>  Taskforce, which will strengthen the last-mile delivery of national support measures under the Resilience Budget and lead targeted initiatives that support the Malay/Muslim community through the COVID-19 situation.
 
