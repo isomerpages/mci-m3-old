@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Kisah Orang Kita - Encik Isman
-date:   2020-11-13
+title: 'Kisah Orang Kita - Encik Isman'
+date: 2020-11-13T00:00:00.000Z
 permalink: /media-centre/videos/kisah-orang-kita-encik-isman/
-breadcrumb: Kisah Orang Kita - Encik Isman
+breadcrumb: 'Kisah Orang Kita - Encik Isman'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SJagd_xEv2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
