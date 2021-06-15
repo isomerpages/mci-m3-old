@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Lawyers@M³
 permalink: /useful-links/lawyers-m3/
 breadcrumb: Lawyers@M³
-collection_name: useful-links
+
 ---
+
 
 ![Lawyers@M³](/images/Lawyers-at-m3.jpg)
 
