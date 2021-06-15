@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Mohamad Mazlan Bin Md Abdollah, 29, Technical Officer  
-permalink: /inspirasisg/stories/mohamad-mazlan-bin-md-abdollah/ 
-breadcrumb: Mohamad Mazlan Bin Md Abdollah
-collection_name: inspirasisg
+title: 'Mohamad Mazlan Bin Md Abdollah, 29, Technical Officer'
+permalink: /inspirasisg/stories/mohamad-mazlan-bin-md-abdollah/
+breadcrumb: 'Mohamad Mazlan Bin Md Abdollah'
+
 ---
+
 
 ### **Secondary school dropout awaits entry to university**
 
