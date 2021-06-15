@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Adik Tanya Episode 1 (with Assoc Prof Dr Faishal Ibrahim)"
-date:   2019-10-31
+title: 'Adik Tanya Episode 1 (with Assoc Prof Dr Faishal Ibrahim)'
+date: 2019-10-31T00:00:00.000Z
 permalink: /media-centre/videos/adik-tanya-ep-1/
-breadcrumb: "Adik Tanya Episode 1 (with Assoc Prof Dr Faishal Ibrahim)"
+breadcrumb: 'Adik Tanya Episode 1 (with Assoc Prof Dr Faishal Ibrahim)'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCHefvTXvQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
