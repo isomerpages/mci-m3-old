@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: M³@Nee Soon
+title: 'M³@Nee Soon'
 permalink: /m3-towns/nee-soon/
-breadcrumb: M<sup>3</sup>@Nee Soon
-collection_name: m3-towns
+breadcrumb: 'M<sup>3</sup>@Nee Soon'
+
 ---
+
 
 M³@Nee Soon was launched in March 2019 and aims to build stronger family ties, including helping parents to forge stronger bonds with their children.
 
