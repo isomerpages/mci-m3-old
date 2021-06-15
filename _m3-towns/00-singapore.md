@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: M³@Towns
 permalink: /m3-towns/singapore/
 breadcrumb: Singapore
-collection_name: m3-towns
+
 ---
+
 
 ![Image of Singapore Map and legends of M3@Towns](/images/m3towns-map.jpeg)
 
