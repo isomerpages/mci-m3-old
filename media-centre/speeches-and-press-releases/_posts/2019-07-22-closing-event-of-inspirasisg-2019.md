@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Speech by Minister for the Environment and Water Resources and Minister-In-Charge of Muslim Affairs, Mr Masagos Zulkifli at the closing event of #InspirasiSG on 21 July 2019"
-date:   2019-07-22
+title: 'Speech by Minister for the Environment and Water Resources and Minister-In-Charge of Muslim Affairs, Mr Masagos Zulkifli at the closing event of #InspirasiSG on 21 July 2019'
+date: 2019-07-22T00:00:00.000Z
 permalink: /media-centre/speeches-and-press-releases/closing-event-of-inspirasisg-2019/
+
 ---
+
 
 SPEECH BY MINISTER FOR THE ENVIRONMENT AND WATER RESOURCES AND MINISTER- IN-CHARGE OF MUSLIM AFFAIRS, MASAGOS ZULKIFLI AT THE CLOSING EVENT OF #INSPIRASISG, SUNDAY, 21 JULY 2019
 
