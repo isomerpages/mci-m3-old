@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Jom Singgah: M³@Chua Chu Kang"
-date:   2021-06-02
+title: 'Jom Singgah: M³@Chua Chu Kang'
+date: 2021-06-02T00:00:00.000Z
 permalink: /media-centre/videos/jom-singgah-m3-cck/
-breadcrumb: "Jom Singgah: M³@Chua Chu Kang"
+breadcrumb: 'Jom Singgah: M³@Chua Chu Kang'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ecalubvmFmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
