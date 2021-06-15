@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: MESRA
 permalink: /useful-links/mesra/
 breadcrumb: MESRA
-collection_name: useful-links
+
 ---
+
 
 ![MESRA](/images/mesra_visual.jpeg)
 
