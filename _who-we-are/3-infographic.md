@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Infographic
 permalink: /who-we-are/infographic/
 breadcrumb: Infographic
-collection_name: who-we-are
+
 ---
+
 
 ### **English Infographic**
 <a href="/images/PDF/INFOG_HR_KEYNOTE_SPEECH_ENG_2MB.pdf" class="project-link no-pdf-icon" target="_blank">
