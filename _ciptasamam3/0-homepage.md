@@ -1,10 +1,10 @@
 ---
-layout: simple-page
 title: CiptaSama@M³
 permalink: /ciptasamam3/
 breadcrumb: CiptaSama@M³
-collection_name: ciptasamam3
+
 ---
+
 
 ![Ciptasama header](/images/Ciptasama-website-header.jpeg)
 
