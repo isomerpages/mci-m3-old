@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: "#InspirasiSG"
+title: '#InspirasiSG'
 permalink: /inspirasisg/
-breadcrumb: "#InspirasiSG"
-collection_name: inspirasisg
+breadcrumb: '#InspirasiSG'
+
 ---
+
 
 ![InspirasiSG Logo](/images/inspirasisg-banner.png)
 
