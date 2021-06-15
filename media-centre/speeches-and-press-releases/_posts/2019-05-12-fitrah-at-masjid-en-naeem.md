@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  FITRAH @ Masjid En-Naeem
-date:   2019-05-12
+title: 'FITRAH @ Masjid En-Naeem'
+date: 2019-05-12T00:00:00.000Z
 permalink: /media-centre/speeches-and-press-releases/fitrah-at-masjid-en-naeem
+
 ---
+
 
 ### **Family and Inmates Through-care Assistance Haven (FITRAH) @ Masjid En-Naeem**
 
