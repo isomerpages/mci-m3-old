@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Muhammad Khairul Anwar Bin Abdul Hadi, 34, founder of Bakes by NY 
-permalink: /inspirasisg/stories/muhammad-khairul-anwar-bin-abdul-hadi/ 
-breadcrumb: Muhammad Khairul Anwar Bin Abdul Hadi
-collection_name: inspirasisg
+title: 'Muhammad Khairul Anwar Bin Abdul Hadi, 34, founder of Bakes by NY'
+permalink: /inspirasisg/stories/muhammad-khairul-anwar-bin-abdul-hadi/
+breadcrumb: 'Muhammad Khairul Anwar Bin Abdul Hadi'
+
 ---
+
 
 ### **From ex-convict to the founder of a bakery**
 
