@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Jumaat Bin Soori, 68, Cleaner for Nee Soon Town Council
-permalink: /inspirasisg/stories/jumaat-bin-soori/ 
-breadcrumb: Jumaat Bin Soori
-collection_name: inspirasisg
+title: 'Jumaat Bin Soori, 68, Cleaner for Nee Soon Town Council'
+permalink: /inspirasisg/stories/jumaat-bin-soori/
+breadcrumb: 'Jumaat Bin Soori'
+
 ---
+
 
 ### **Leading the way by showing love, despite many struggles**
 
