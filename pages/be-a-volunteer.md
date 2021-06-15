@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Be A Volunteer
+title: 'Be A Volunteer'
 permalink: /be-a-volunteer/
-breadcrumb: Be A Volunteer
+breadcrumb: 'Be A Volunteer'
+
 ---
+
 
 ![Be A Volunteer](/images/be-volunteer.jpg)
 
