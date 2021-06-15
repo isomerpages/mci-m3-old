@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Malay-nials @ work - Encik Nadjmi
-date:   2021-02-19
+title: 'Malay-nials @ work - Encik Nadjmi'
+date: 2021-02-19T00:00:00.000Z
 permalink: /media-centre/videos/malaynials-at-work-encik-nadjmi/
-breadcrumb: Malay-nials @ work - Encik Nadjmi
+breadcrumb: 'Malay-nials @ work - Encik Nadjmi'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/irTl9ITRl34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
