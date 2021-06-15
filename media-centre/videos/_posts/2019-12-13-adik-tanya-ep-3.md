@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Adik Tanya Episode 3 (with SPS Amrin Amin)"
-date:   2019-12-13
+title: 'Adik Tanya Episode 3 (with SPS Amrin Amin)'
+date: 2019-12-13T00:00:00.000Z
 permalink: /media-centre/videos/adik-tanya-ep-3/
-breadcrumb: "Adik Tanya Episode 3 (with SPS Amrin Amin)"
+breadcrumb: 'Adik Tanya Episode 3 (with SPS Amrin Amin)'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kXtW9gN9SK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
