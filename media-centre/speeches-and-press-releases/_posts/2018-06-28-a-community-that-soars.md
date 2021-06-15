@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Speech by Mr Masagos Zulkifli, Minister-in-charge of Muslim Affairs at Minister’s Hari Raya Get-Together on 28 June 2018
-date:   2018-06-28
+title: 'Speech by Mr Masagos Zulkifli, Minister-in-charge of Muslim Affairs at Minister’s Hari Raya Get-Together on 28 June 2018'
+date: 2018-06-28T00:00:00.000Z
 permalink: /media-centre/speeches-and-press-releases/a-community-that-soars
+
 ---
+
 
 ### **A community that soars**
 
