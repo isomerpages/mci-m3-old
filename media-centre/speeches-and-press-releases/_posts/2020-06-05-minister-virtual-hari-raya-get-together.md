@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Minister's Virtual Hari Raya Get-Together Speech By Minister For The Environment And Water Resources and Minister-In-Charge Of Muslim Affairs Mr Masagos Zulkifli On 5 June 2020
-date:   2020-06-05
+title: 'Minister''s Virtual Hari Raya Get-Together Speech By Minister For The Environment And Water Resources and Minister-In-Charge Of Muslim Affairs Mr Masagos Zulkifli On 5 June 2020'
+date: 2020-06-05T00:00:00.000Z
 permalink: /media-centre/speeches-and-press-releases/virtual-hari-raya-get-together-2020
+
 ---
+
 
 ### Building our Future Together as a Community of Success
 
