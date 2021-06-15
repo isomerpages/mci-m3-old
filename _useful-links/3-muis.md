@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Muis
 permalink: /useful-links/muis/
 breadcrumb: Muis
-collection_name: useful-links
+
 ---
+
 
 ![Muis](/images/muis.jpg)
 <span class="caption">Image Source: Islamic Religious Council Singapore (Muis) Facebook Page</span>
