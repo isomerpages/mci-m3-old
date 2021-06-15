@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: M³@Marsiling-Yew Tee
+title: 'M³@Marsiling-Yew Tee'
 permalink: /m3-towns/marsiling-yew-tee/
-breadcrumb: M<sup>3</sup>@Marsiling-Yew Tee
-collection_name: m3-towns
+breadcrumb: 'M<sup>3</sup>@Marsiling-Yew Tee'
+
 ---
+
 
 Recently launched in July 2019 by Advisers to Marsiling-Yew Tee GRC, M³@Marsiling-Yew Tee will focus on strengthening outreach to individuals and families, particularly in the areas of Marriage, Parenthood & Early Childhood as well as Empowering & Mentoring our Youth.
 
