@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: M³ Focus Areas
+title: 'M³ Focus Areas'
 permalink: /focus-areas/all/
-breadcrumb: M<sup>3</sup> Focus Areas
-collection_name: focus-areas
+breadcrumb: 'M<sup>3</sup> Focus Areas'
+
 ---
+
 
 ### **M<sup>3</sup> Focus Areas**
 <div class="focus-list row is-multiline">
