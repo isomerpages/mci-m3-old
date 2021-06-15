@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "M³: Together, building a brighter tomorrow for everyone"
-date:   2019-01-23
+title: 'M³: Together, building a brighter tomorrow for everyone'
+date: 2019-01-23T00:00:00.000Z
 permalink: /media-centre/videos/m3-together-building-a-brighter-tomorrow-for-everyone/
-breadcrumb: "M³: Together, building a brighter tomorrow for everyone"
+breadcrumb: 'M³: Together, building a brighter tomorrow for everyone'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdBFmJVD_0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
