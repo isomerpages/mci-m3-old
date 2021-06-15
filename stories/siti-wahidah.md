@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Siti Wahidah, 47, MAEC Volunteer 
-permalink: /inspirasisg/stories/siti-wahidah/ 
-breadcrumb: Siti Wahidah
-collection_name: inspirasisg
+title: 'Siti Wahidah, 47, MAEC Volunteer'
+permalink: /inspirasisg/stories/siti-wahidah/
+breadcrumb: 'Siti Wahidah'
+
 ---
+
 
 ### **A selfless individual who prioritises the community around her**
 
