@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: M³@Woodlands
 permalink: /m3-towns/woodlands/
 breadcrumb: M<sup>3</sup>@Woodlands
-collection_name: m3-towns
+
 ---
+
 
 M³@Woodlands was launched by Grassroots Adviser Mr Amrin Amin on 21 July 2019. M³@Woodlands aims to reach out to the Malay Community in Sembawang GRC to build strong family and community, increase health literacy and improve financial wisdom.
 
