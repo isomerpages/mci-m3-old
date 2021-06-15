@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Empowering and Mentoring Our Youths
+title: 'Empowering and Mentoring Our Youths'
 permalink: /focus-areas/empowering-and-mentoring-our-youths/
-breadcrumb: Empowering and Mentoring Our Youths
-collection_name: focus-areas
+breadcrumb: 'Empowering and Mentoring Our Youths'
+
 ---
+
 
 ![Empowering and Mentoring Our Youths](/images/focus-area-empowering.jpg)
 
