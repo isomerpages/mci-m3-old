@@ -1,15 +1,56 @@
 logo: /images/m3-logo-horizontal.svg
 links:
-    - title: 'Who We Are'
+    - title: Who We Are
       collection: who-we-are
-    - title: 'Focus Areas'
-      collection: focus-areas
+    - title: Focus Areas
+      url: /focus-areas/all/
+      sublinks:
+      - title: Marriage, Parenthood and Early Childhood
+        url: /focus-areas/marriage-parenthood-and-early-childhood/
+      - title: Vulnerable Individuals and Families
+        url: /focus-areas/vulnerable-individuals-and-families/
+      - title: Empowering and Mentoring Our Youths
+        url: /focus-areas/empowering-and-mentoring-our-youths/
+      - title: Employment and Employability
+        url: /focus-areas/employment-and-employability/
     - title: M<sup><sup>3</sup></sup>@Towns
-      collection: msupsup3supsuptowns
-    - title: 'Media Centre'
+      url: /m3-towns/singapore/
+      sublinks:
+      - title: M<sup><sup>3</sup></sup>@Tampines
+        url: /m3-towns/tampines/
+      - title: M<sup><sup>3</sup></sup>@Pasir Ris-Punggol
+        url: /m3-towns/pasir-ris-punggol/
+      - title: M<sup><sup>3</sup></sup>@Bedok
+        url: /m3-towns/bedok/  
+      - title: M<sup><sup>3</sup></sup>@Chua Chu Kang
+        url: /m3-towns/chua-chu-kang/   
+      - title: M<sup><sup>3</sup></sup>@Jurong
+        url: /m3-towns/jurong/
+      - title: M<sup><sup>3</sup></sup>@Marsiling-Yew Tee
+        url: /m3-towns/marsiling-yew-tee/    
+      - title: M<sup><sup>3</sup></sup>@Nee Soon
+        url: /m3-towns/nee-soon/
+      - title: M<sup><sup>3</sup></sup>@Woodlands
+        url: /m3-towns/woodlands/
+      - title: M<sup><sup>3</sup></sup>@Geylang Serai
+        url: /m3-towns/geylang-serai/
+      - title: M<sup><sup>3</sup></sup>@Jalan Besar
+        url: /m3-towns/jalan-besar/
+      - title: M<sup><sup>3</sup></sup>@Toa Payoh
+        url: /m3-towns/toa-payoh/
+    - title: Media Centre
       url: /media-centre/
-    - title: 'Our Community'
-      collection: our-community
+    - title: Our Community
+      url: /be-a-volunteer/
+      sub-links:
+      - title: Be a Volunteer
+        url: /be-a-volunteer/
+      - title: "#InspirasiSG"
+        url: /inspirasisg/
+      - title: "SGTeguhBersatu"
+        url: /sgteguhbersatu/
+      - title: "CiptaSama@M³"
+        url: /ciptasamam3/
     - title: 'Useful Links'
       collection: useful-links
     - title: 'Contact Us'
