@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Mas’ Amah Binte Ruah, 65, Full-Time Volunteer Trainer and Adviser for Girl Guides Singapore
-permalink: /inspirasisg/stories/mas-amah-binte-ruah/ 
-breadcrumb: Mas’ Amah Binte Ruah
-collection_name: inspirasisg
+title: 'Mas’ Amah Binte Ruah, 65, Full-Time Volunteer Trainer and Adviser for Girl Guides Singapore'
+permalink: /inspirasisg/stories/mas-amah-binte-ruah/
+breadcrumb: 'Mas’ Amah Binte Ruah'
+
 ---
+
 
 ### **An exemplary leader who strives to nurture and instil noble values in our young girls**
 
