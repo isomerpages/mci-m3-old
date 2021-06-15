@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Abdul Hamed (posthumous) 
-permalink: /inspirasisg/stories/abdul-hamed/ 
-breadcrumb: Abdul Hamed
-collection_name: inspirasisg
+title: 'Abdul Hamed (posthumous)'
+permalink: /inspirasisg/stories/abdul-hamed/
+breadcrumb: 'Abdul Hamed'
+
 ---
+
 
 ### **Always a crew member of the community, never a passenger**
 
