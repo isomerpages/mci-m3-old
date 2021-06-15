@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: M³@Pasir Ris-Punggol
+title: 'M³@Pasir Ris-Punggol'
 permalink: /m3-towns/pasir-ris-punggol/
-breadcrumb: M<sup>3</sup>@Pasir Ris-Punggol
-collection_name: m3-towns
+breadcrumb: 'M<sup>3</sup>@Pasir Ris-Punggol'
+
 ---
+
 
 Launched in October 2018, M³@Pasir Ris-Punggol aims to coordinate the work of Malay Activity Executive Committees (MAEC) and Malay/Muslim organisations to reach out to the Malay/Muslim community and deliver services that meet their needs. M³@Pasir Ris-Punggol’s strategic focus will be on education and strengthening family and community ties.
 
