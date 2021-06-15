@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Celebrating #InspirasiSG"
-date:   2019-08-07
+title: 'Celebrating #InspirasiSG'
+date: 2019-08-07T00:00:00.000Z
 permalink: /media-centre/videos/celebrating-inspirasisg
-breadcrumb: "Celebrating #InspirasiSG"
+breadcrumb: 'Celebrating #InspirasiSG'
+
 ---
+
 
 <div class="bp-youtube">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/DX-ZSPZsRKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
