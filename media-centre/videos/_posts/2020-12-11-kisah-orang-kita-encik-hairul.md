@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Kisah Orang Kita - Encik Hairul
-date:   2020-12-11
+title: 'Kisah Orang Kita - Encik Hairul'
+date: 2020-12-11T00:00:00.000Z
 permalink: /media-centre/videos/kisah-orang-kita-encik-hairul/
-breadcrumb: Kisah Orang Kita - Encik Hairul
+breadcrumb: 'Kisah Orang Kita - Encik Hairul'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qd__MDmIzMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
