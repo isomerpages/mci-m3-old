@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vulnerable Individuals and Families
+title: 'Vulnerable Individuals and Families'
 permalink: /focus-areas/vulnerable-individuals-and-families/
-breadcrumb: Vulnerable Individuals and Families
-collection_name: focus-areas
+breadcrumb: 'Vulnerable Individuals and Families'
+
 ---
+
 
 ![Vulnerable Individuals and Families](/images/focus-area-vulnerable.jpg)
 
