@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Jom Singgah: M³@Tampines"
-date:   2021-05-10
+title: 'Jom Singgah: M³@Tampines'
+date: 2021-05-10T00:00:00.000Z
 permalink: /media-centre/videos/jom-singgah-m3-tampines/
-breadcrumb: "Jom Singgah: M³@Tampines"
+breadcrumb: 'Jom Singgah: M³@Tampines'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PwK6ctOReCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
