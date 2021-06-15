@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: M³@Bedok
 permalink: /m3-towns/bedok/
 breadcrumb: M<sup>3</sup>@Bedok
-collection_name: m3-towns
+
 ---
+
 
 Launched in April 2019, M³@Bedok aims to uplift the lives of the Malay/Muslim community in Bedok Town. M³@Bedok has three strategic focus - Health, Education and Future-Readiness for the community. 
 
