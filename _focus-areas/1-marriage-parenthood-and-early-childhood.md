@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Marriage, Parenthood and Early Childhood
+title: 'Marriage, Parenthood and Early Childhood'
 permalink: /focus-areas/marriage-parenthood-and-early-childhood/
-breadcrumb: Marriage, Parenthood and Early Childhood
-collection_name: focus-areas
+breadcrumb: 'Marriage, Parenthood and Early Childhood'
+
 ---
+
 
 ![Marriage Parenthood And Early Childhood](/images/focus-area-marriage.jpg)
 
