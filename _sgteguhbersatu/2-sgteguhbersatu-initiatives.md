@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: SGTeguhBersatu Initiatives
+title: 'SGTeguhBersatu Initiatives'
 permalink: /sgteguhbersatu/initiatives
-breadcrumb: SGTeguhBersatu Initiatives
-collection_name: sgteguhbersatu
+breadcrumb: 'SGTeguhBersatu Initiatives'
+
 ---
+
 
 ### **SGTeguhBersatu Initiatives**
 
