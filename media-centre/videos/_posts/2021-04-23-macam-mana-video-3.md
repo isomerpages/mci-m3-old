@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Macam Mana Kalau Tak Mampu Nak Cari Lawyer? 
-date:   2021-04-23
+title: 'Macam Mana Kalau Tak Mampu Nak Cari Lawyer?'
+date: 2021-04-23T00:00:00.000Z
 permalink: /media-centre/videos/macam-mana-kalau-tak-mampu-nak-cari-lawyer/
-breadcrumb: Macam Mana Kalau Tak Mampu Nak Cari Lawyer?
+breadcrumb: 'Macam Mana Kalau Tak Mampu Nak Cari Lawyer?'
 
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bJ2ttpn30qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
