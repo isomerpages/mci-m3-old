@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Vision and Mission
+title: 'Vision and Mission'
 permalink: /who-we-are/vision-and-mission/
-breadcrumb: Vision and Mission
-collection_name: who-we-are
+breadcrumb: 'Vision and Mission'
+
 ---
+
 
 ![M3 Vision](/images/vision.jpg)
 ### **Vision**
