@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Malay-nials @ work - Puan Qhuraishah
-date:   2021-02-26
+title: 'Malay-nials @ work - Puan Qhuraishah'
+date: 2021-02-26T00:00:00.000Z
 permalink: /media-centre/videos/malaynials-at-work-puan-qhuraishah/
-breadcrumb: Malay-nials @ work - Puan Qhuraishah
+breadcrumb: 'Malay-nials @ work - Puan Qhuraishah'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cVax3YXPGzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
