@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Malay-nials @ work - Puan Baizura
-date:   2021-03-05
+title: 'Malay-nials @ work - Puan Baizura'
+date: 2021-03-05T00:00:00.000Z
 permalink: /media-centre/videos/malaynials-at-work-puan-baizura/
-breadcrumb: Malay-nials @ work - Baizura
+breadcrumb: 'Malay-nials @ work - Baizura'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XfxwNS3WvQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
