@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Employment and Employability
+title: 'Employment and Employability'
 permalink: /focus-areas/employment-and-employability/
-breadcrumb: Employment and Employability
-collection_name: focus-areas
+breadcrumb: 'Employment and Employability'
+
 ---
+
 
 ![Employment and Employability](/images/focus-area-employment.jpg)
 
