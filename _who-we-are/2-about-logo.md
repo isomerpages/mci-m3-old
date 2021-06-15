@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About M³ Logo
+title: 'About M³ Logo'
 permalink: /who-we-are/about-logo/
-breadcrumb: About M³ Logo
-collection_name: who-we-are
+breadcrumb: 'About M³ Logo'
+
 ---
+
 
 ![M3 Vertical Logos with Tagline in English and Malay](/images/m3-logo-vert.png)
 
