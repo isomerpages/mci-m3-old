@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Ibrahim Fergo Junaidi, 34, Business Developer
-permalink: /inspirasisg/stories/ibrahim-fergo-junaidi/ 
-breadcrumb: Ibrahim Fergo Junaidi
-collection_name: inspirasisg
+title: 'Ibrahim Fergo Junaidi, 34, Business Developer'
+permalink: /inspirasisg/stories/ibrahim-fergo-junaidi/
+breadcrumb: 'Ibrahim Fergo Junaidi'
+
 ---
+
 
 ### **Tech whiz who puts others before himself**
 
