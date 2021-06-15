@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About M³
+title: 'About M³'
 permalink: /who-we-are/about-m3/
-breadcrumb: About M<sup><sup>3</sup></sup>
-collection_name: who-we-are
+breadcrumb: 'About M<sup><sup>3</sup></sup>'
+
 ---
+
 
 ![M3 Vision](/images/aboutm3-v1.jpg)
 ### **About M<sup>3</sup>**
