@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Shahirah Shajahan, 26, Captain, Carousel at Royal Plaza on Scotts 
-permalink: /inspirasisg/stories/shahirah-shajahan/ 
-breadcrumb: Shahirah Shajahan
-collection_name: inspirasisg
+title: 'Shahirah Shajahan, 26, Captain, Carousel at Royal Plaza on Scotts'
+permalink: /inspirasisg/stories/shahirah-shajahan/
+breadcrumb: 'Shahirah Shajahan'
+
 ---
+
 
 ### **A true leader who is constantly in pursuit of excellence**
 
