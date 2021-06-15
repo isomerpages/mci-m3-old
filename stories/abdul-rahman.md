@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Abdul Rahman Bin Ahmad, 28, Civil Servant
-permalink: /inspirasisg/stories/abdul-rahman-bin-ahmad/ 
-breadcrumb: Abdul Rahman Bin Ahmad
-collection_name: inspirasisg
+title: 'Abdul Rahman Bin Ahmad, 28, Civil Servant'
+permalink: /inspirasisg/stories/abdul-rahman-bin-ahmad/
+breadcrumb: 'Abdul Rahman Bin Ahmad'
+
 ---
+
 
 ### **Imparting coding and tinkering skills to underprivileged Malay children**
 
