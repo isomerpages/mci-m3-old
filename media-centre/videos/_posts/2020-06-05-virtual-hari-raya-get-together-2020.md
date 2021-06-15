@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Hari Raya Get-Together 2020
-date:   2020-06-05
+title: 'Hari Raya Get-Together 2020'
+date: 2020-06-05T00:00:00.000Z
 permalink: /media-centre/videos/virtual-hari-raya-get-together-2020/
-breadcrumb: Hari Raya Get-Together 2020
+breadcrumb: 'Hari Raya Get-Together 2020'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QydmycvfFow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
