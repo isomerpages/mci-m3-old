@@ -1,64 +1,54 @@
 title: M³
 title-abbreviated: M³
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: Description
+url: ""
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 is_government: true
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_programmes: true
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/#!/5d14249c45677e0011c24454"
-
-# FAQ URL
-
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  who-we-are:
-    output: true
-  focus-areas:
-    output: true
-  m3-towns:
-    output: true
-  useful-links:
-    output: true
-  inspirasisg:
-    output: true
-  sgteguhbersatu:
-    output: true  
-  ciptasamam3:
-    output: true
+    who-we-are:
+        output: true
+    focus-areas:
+        output: true
+    m3-towns:
+        output: true
+    useful-links:
+        output: true
+    inspirasisg:
+        output: true
+    sgteguhbersatu:
+        output: true
+    ciptasamam3:
+        output: true
 resources_name: media-centre
-
 no_contact: false
-
+favicon: /images/favicon-m3.ico
+google_analytics: UA-141688776-1
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
