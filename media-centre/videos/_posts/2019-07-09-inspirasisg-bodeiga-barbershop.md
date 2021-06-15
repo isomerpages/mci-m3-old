@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "#InspirasiSG - Bodeiga Barbershop"
-date:   2019-07-09
+title: '#InspirasiSG - Bodeiga Barbershop'
+date: 2019-07-09T00:00:00.000Z
 permalink: /media-centre/videos/inspirasisg-bodeiga-barbershop/
-breadcrumb: "#InspirasiSG - Bodeiga Barbershop"
+breadcrumb: '#InspirasiSG - Bodeiga Barbershop'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ykrz0ICy8jQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
