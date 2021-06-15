@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: M³@WGS
 permalink: /useful-links/m3-at-wgs/
 breadcrumb: M<sup>3</sup>@WGS
-collection_name: useful-links
+
 ---
+
 
 ![M3@WGS](/images/m3-wgs.jpg)
 <span class="caption">Image Source: Islamic Religious Council Singapore (Muis) Facebook Page</span>
