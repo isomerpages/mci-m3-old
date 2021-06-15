@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: MENDAKI
 permalink: /useful-links/mendaki/
 breadcrumb: MENDAKI
-collection_name: useful-links
+
 ---
+
 
 ![MENDAKI](/images/mendaki.jpg)
 <span class="caption">Image Source: MENDAKI Singapore Facebook Page</span>
