@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Kisah Orang Kita - Encik Yusof & Isteri
-date:   2020-11-27
+title: 'Kisah Orang Kita - Encik Yusof & Isteri'
+date: 2020-11-27T00:00:00.000Z
 permalink: /media-centre/videos/kisah-orang-kita-encik-yusof/
-breadcrumb: Kisah Orang Kita - Encik Yusof & Isteri
+breadcrumb: 'Kisah Orang Kita - Encik Yusof & Isteri'
+
 ---
+
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ehE5PMu29rE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
