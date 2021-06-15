@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Minister's Hari Raya Get-together speech by Minister for the Environment and Water Resources and Minister-In-Charge of Muslim Affairs, Mr Masagos Zulkifli on 14 June 2019
-date:   2019-06-14
+title: 'Minister''s Hari Raya Get-together speech by Minister for the Environment and Water Resources and Minister-In-Charge of Muslim Affairs, Mr Masagos Zulkifli on 14 June 2019'
+date: 2019-06-14T00:00:00.000Z
 permalink: /media-centre/speeches-and-press-releases/hari-raya-get-together-2019
+
 ---
+
 
 ### Towards a Community of Success
 
