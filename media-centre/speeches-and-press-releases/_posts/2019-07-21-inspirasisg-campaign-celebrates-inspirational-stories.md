@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "#InspirasiSG Campaign Celebrates Inspirational Stories of the Singapore Malay/Muslims Community"
-date:   2019-07-21
+title: '#InspirasiSG Campaign Celebrates Inspirational Stories of the Singapore Malay/Muslims Community'
+date: 2019-07-21T00:00:00.000Z
 permalink: /media-centre/speeches-and-press-releases/inspirasisg-campaign-celebrates-inspirational-stories/
+
 ---
+
 
 MEDIA FACTSHEET 
 
