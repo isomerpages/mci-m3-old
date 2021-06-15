@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Journey of #InspirasiSG"
-date:   2019-08-22
+title: 'Journey of #InspirasiSG'
+date: 2019-08-22T00:00:00.000Z
 permalink: /media-centre/videos/journey-of-inspirasisg
-breadcrumb: "Journey of #InspirasiSG"
+breadcrumb: 'Journey of #InspirasiSG'
+
 ---
+
 
 <div class="bp-youtube">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/SKLDLNlYg8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
