@@ -10,7 +10,7 @@ collection_name: ciptasamam3
 
 As part of Singapore Together Emerging Stronger Conversations, CiptaSama@M³ provides a platform for the Malay/Muslim community to come together, reflect on what we have learnt from our COVID-19 experience, and chart the way forward as we progress together with the rest of Singapore. This is an important part of our endeavour to build up our Community of Success.
 
-In January 2021, two Singapore Together Emerging Stronger Conversations x CiptaSama@M³ sessions were held in Malay and English, involving more than 100 Singaporeans:
+In January 2021, two Singapore Together Emerging Stronger Conversations x CiptaSama@M³ sessions were held in Malay and English, involving more than 100 Singaporeans.
 
 On 7 Jan 2021, we discussed the topic of “Seizing Opportunities in the Age of Digital Transformation” with Minister Maliki Osman and Senior Minister of State Zaqy Mohamad.
 
@@ -24,4 +24,9 @@ On 12 Jan 2021, we discussed the topic of “Strengthening Malay/Muslim Families
 
 ![Ciptasama Photo 4](/images/thank-you-2.jpg)
 
+Watch the highlights of the sessions [here](https://www.youtube.com/watch?v=78tzB2lFKB8).
+
 Following these CiptaSama@M³ sessions, we took back the ideas and suggestions, are studying them, and will build a network of community partners who will co-create a better tomorrow for Singapore through the Singapore Together Alliances for Action (AfA).
+
+Read the report from the ESCs <a href="/images/PDF/Ciptasama_ESC_Report_6.3MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a>.
+
