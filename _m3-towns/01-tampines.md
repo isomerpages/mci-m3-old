@@ -91,9 +91,6 @@ Follow M³@Tampines on [Facebook](https://www.facebook.com/M3atTampines/)!
  <li>Jasawirda Bin Wahid</li>
  <li>Muhammad Izzuddeen Bin Ismail</li>
  <li>Muhammad Syakir Bin Zainal</li>
-
-
-      
 </ul>
     </td>
   </tr>  
