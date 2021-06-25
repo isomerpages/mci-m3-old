@@ -60,7 +60,7 @@ Follow M³@Tampines on [Facebook](https://www.facebook.com/M3atTampines/)!
  <li>Mohamad Rashid Bin Talib</li>
  <li>Abdul Rashid Bin Ibrahim, PBM</li>
  <li>Abu Bakar Abu Bakar Bin Mohamad Din</li>
- <li>Salamah Bte Abdoll, PBM</li></li>
+ <li>Salamah Bte Abdoll, PBM</li>
  <li>Abdollah Bin Ibrahim, PBM</li>
  <li>Azman Bin Sulaiman, PBM</li>
  <li>Aziz Bin Hassan, BBM</li>
