@@ -41,6 +41,6 @@ Under Project SOAR, M³@Towns will reach out to neighbourhood schools and full-t
 
 The Empowerment Programme @ ITE aims to bridge ITE students to opportunities to help maximise their potential and provide good role models through mentoring. Mentors were trained in Gift Centred Mentoring approach to help them nurture the strengths of mentees and guide them to achieve their education and career aspirations.
  
-Find out more details about the programme through the Empowerment Programme <a href="/images/PDF/Future_Ready_Toolkit_4.6MB.pdf" class="no-pdf-icon" style="margin-left:0;">Infokit for Mentors</a> and watch the Empowerment Programme video [here](https://www.youtube.com/watch?v=5P5CLRez9eA).
+Find out more details about the programme through the Empowerment Programme <a href="/images/PDF/Empowerment_Programme_Infokit_for_Mentors_1.9MB.pdf" class="no-pdf-icon" style="margin-left:0;">Infokit for Mentors</a> and watch the Empowerment Programme video [here](https://www.youtube.com/watch?v=5P5CLRez9eA).
 
 
