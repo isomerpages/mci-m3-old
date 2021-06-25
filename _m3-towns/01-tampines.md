@@ -20,46 +20,79 @@ Follow M³@Tampines on [Facebook](https://www.facebook.com/M3atTampines/)!
   <td>
     <ul>
       <li>Chairperson: Abu Bakar Mohd Nor, PBM</li>
-      <li>Adam Haji Hamzah</li>
-<li>Umar Masagos</li>
-<li>Jamaludin Saad</li>
-<li>Zizie Zuzantie Mohamed Said</li>
-<li>Siti Rohana Hamson</li>
-<li>Zuraimi Jumaat</li>
-<li>Hayati Rahim, PBM</li>
-<li>Hanafi Idrus</li>
-<li>Ramlah Rimon, PBM</li>
-<li>Norhaya Isnain</li>
-<li>Mohamed Azahari Bin Mohamed Said, PBM</li>
-<li>Salamah Abdoll, PBM</li>
-<li>Dr Ismail Haniff</li>
-<li>Marini Musa</li>
-<li>Mohd Jamalludin Mohd Affandi</li>
-<li>Muhammad Luqman Mohd Shapie</li>
-<li>Nur Adibah Mazeli</li>
-<li>Khalid Bin Ahmed</li>
-<li>Kelane bin Mohamad Amin</li>
-<li>Nawawi B Asmawi</li>
-<li>Ridzuan Ismail</li>
-<li>Halmie Bin Hussein Mattar</li>
-<li>Sahari Ani</li>
-<li>Diyana Ramlan</li>
-<li>Dr Elmi Zulkarnain Osman</li>
-<li>Raizan Abdul Razak</li>
-<li>Dr Fadzil Mohamed Hamzah</li>
-<li>Dr Nur Farhan Alami</li>
-<li>Hannah Alysha Ashiq</li>
-<li>Shabana Binte Mahmoodul Hasan</li>
-<li>Malique Hassan</li>
-<li>Attiytah Ashraf Ali</li>
-<li>Sheik Abdul Hafidz Bin Sheik A Hamid</li>
-<li>Wan Muhammad Fazlan Nordin</li>
-<li>Ahmad Khushairi Bin Abidin</li>
-<li>Muhammad Faisal Bin Ghulam Hussin</li>
-<li>Muhammad Faizal Abdollah</li>
-<li>Fakhrudin Amin</li>
-  <li>Sazali Zainal</li>
-<li>LTC Mohamad Rashid Bin Talib</li>
+      <li>Ustaz Jamaluddin Bin Abdul Wahab</li>
+ <li>Liyana Abdul Rahaim</li>
+ <li>Mohamed Azahari Bin Mohamed Said, PBM</li>
+ <li>Hayati Rahim, PBM</li>
+ <li>Norhaya Binte Isnain</li>
+ <li>Ramlah Binte Rimon, PBM</li>
+ <li>Hanafi Bin Idrus</li>
+ <li>Adam Haji Hamzah, PBM</li>
+ <li>Dr Fadzil Bin Mohamed Hamzah</li>
+ <li>Marini Musa</li>
+ <li>Mohd Jamalludin Mohd Affandi</li>
+ <li>Dr Ismail Hanif</li>
+ <li>Umar Masagos</li>
+ <li>Attiya Ashraf</li>
+ <li>Sheikh Abdul Hafidz</li>
+ <li>Nur Adibah Binte Mazeli</li>
+ <li>Wan Muhammad Fazlan Nordin</li>
+ <li>Ahmad Khushairi Bin Abidin</li>
+ <li>Jamaludin Saad</li>
+ <li>Nur Hidayah Azman</li>
+ <li>Kelane bin Mohamad Amin</li>
+ <li>Ridzuan Bin Ismail</li>
+ <li>Khalid Bin Ahmed</li>
+ <li>Nawawi B Asmawi</li>
+ <li>Halmie Bin Hussein Mattar</li>
+ <li>Muhammad Faisal Bin Ghulam Hussin</li>
+ <li>Ustaz Fakhrudin Amin</li>
+ <li>Muhammad Faizal Bin Abdollah</li>
+ <li>Zizie Zuzantie Mohamed Said</li>
+ <li>Siti Rohana Hamson</li>
+ <li>Sahari Ani</li>
+ <li>Diyana Ramlan</li>
+ <li>Dr Elmi Zulkarnain Bin Osman</li>
+ <li>Raizan Abdul Razak</li>
+ <li>Hannah Alysha Ashiq</li>
+ <li>Dr Nur Farhan Alami</li>
+ <li>Zuraimi Jummat</li>
+ <li>Mohamad Rashid Bin Talib</li>
+ <li>Abdul Rashid Bin Ibrahim, PBM</li>
+ <li>Abu Bakar Abu Bakar Bin Mohamad Din</li>
+ <li>Salamah Bte Abdoll, PBM</li></li>
+ <li>Abdollah Bin Ibrahim, PBM</li>
+ <li>Azman Bin Sulaiman, PBM</li>
+ <li>Aziz Bin Hassan, BBM</li>
+ <li>Rodiah Bte Hashim</li>
+ <li>Suriyani Bte Pani</li>
+ <li>Shabana M Hassan</li>
+ <li>Sazali Bin Zainal</li>
+ <li>Nur Fadilah Adnan</li>
+ <li>Ahmad Razali Bin Saini</li>
+ <li>Mohamed Fayeruz Surahman</li>
+ <li>Mohamad Ridwan Othman</li>
+ <li>Zulkifli Mohamad</li>
+ <li>Dr Malik Hassan</li>
+ <li>Muhammad Luqman Bin Mohd Shapie</li>
+ <li>Azlan Sidek</li>
+ <li>Mohamed Firdaus Anwar</li>
+ <li>Mohd Irfaan Bin Mohd Ariffin</li>
+ <li>Muhammad Azmi Bin Zainal</li>
+ <li>Siti Hawa Binti Abu Bakar</li>
+ <li>Junisha binte Jumala</li>
+ <li>Salwa Hashim</li>
+ <li>Ustaz Ahamad Nafis</li>
+ <li>Muhammad Ashraf Bin Abdul Rahman
+ <li>Aida Bte Adnan</li>
+ <li>Thanikodi Siva Guru</li>
+ <li>Shaakira Binte Kamaludin</li>
+ <li>Norsharifah Binte Omar</li>
+ <li>Jasawirda Bin Wahid</li>
+ <li>Muhammad Izzuddeen Bin Ismail</li>
+ <li>Muhammad Syakir Bin Zainal</li>
+
+
       
 </ul>
     </td>
