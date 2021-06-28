@@ -48,7 +48,7 @@ Our Singapore Muslim community comprises 15 per cent of the Singapore citizen po
 
 As the community became more affluent, other organisations were established. One of the most significant is the Rahmatan – lil – Alamin Foundation (RLAF). It was founded to get the community to contribute beyond our community and to help humanitarian causes across the globe. Just last month, RLAF galvanized the community’s spirit of giving to raise over $4 million towards humanitarian aid for the people of Gaza, in a space of 10 days. Other communities joined us and contributors came from all walks of life.
 
-We want to walk the talk. The Singapore Muslim Community is one minority Muslim community which models itself to be a Community of Success. We want to make meaningful contributions to the wider society as dignified citizens. We have made the 3 C’s the beacons of our community values. As a Muslim Community, we embody good character, demonstrate active citizenry and contribute as a competent workforce. You will hear many more examples from our scholars during the seminar.
+We want to walk the talk. The Singapore Muslim Community is one minority Muslim community which models itself to be a Community of Success. We want to make meaningful contributions to the wider society as dignified citizens. We have made the 3 C’s the beacons of our community values. As a Muslim Community, we embody good *character*, demonstrate active *citizenry* and contribute as a *competent* workforce. You will hear many more examples from our scholars during the seminar.
 
 ### **International Conference on Communities of Success**
 
