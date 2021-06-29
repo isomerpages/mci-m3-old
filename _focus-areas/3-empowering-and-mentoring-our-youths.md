@@ -35,3 +35,12 @@ Project SOAR is a key initiative under M³ Focus Area 3 (Empowering & Mentoring 
 Spearheaded by M³@Towns, Project SOAR is a nine-month community-led mentoring programme which will see mentees (youths aged 14 to 16 years old) matched to older youth mentors (youths aged 17 to 35 years old) and undergo a multitude of engagement activities including those related to career, community service and culture. Mentors will journey with their mentees by connecting them to opportunities, services and positive role models during their engagement sessions. Mentees will also have the opportunity to participate in activities organised by the Community Clubs Youth Executive Committees (YECs) within each M³@Towns.
 
 Under Project SOAR, M³@Towns will reach out to neighbourhood schools and full-time Madrasahs to encourage students to sign up as mentees under the programme. Concurrently, M³@Towns also reach out to youths from institutes of higher learning (i.e. Universities, Polytechnics, ITEs, JCs), mosques and young professionals to sign up as mentors, and undergo basic mentoring training conducted by Mendaki.
+
+### **Empowerment Programme @ ITE**
+
+
+The Empowerment Programme @ ITE aims to bridge ITE students to opportunities to help maximise their potential and provide good role models through mentoring. Mentors were trained in Gift Centred Mentoring approach to help them nurture the strengths of mentees and guide them to achieve their education and career aspirations.
+ 
+Find out more details about the programme through the Empowerment Programme <a href="/images/PDF/Empowerment_Programme_Infokit_for_Mentors_1.9MB.pdf" class="no-pdf-icon" style="margin-left:0;">Infokit for Mentors</a> and watch the Empowerment Programme video [here](https://www.youtube.com/watch?v=5P5CLRez9eA).
+
+

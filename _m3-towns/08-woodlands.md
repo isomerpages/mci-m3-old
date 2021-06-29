@@ -22,22 +22,26 @@ Follow M³@Woodlands on [Facebook](https://www.facebook.com/M3atWoodlands)!
   <td>
     <ul>
       <li>Chairperson: Dr Noorul Fatha As’art</li>
-      <li>Edwan Nizar Bin Ahadan</li>
-<li>Muhammad Harmizan Bin Abdul Hamid</li>
-<li>Edwin Ignatious M</li>
-<li>Saiful Saroni</li>
-<li>Dr Rufaihah Abdul Jalil</li>
+      <li>Deputy Chairperson: Edwan Nizar Bin Ahadan</li>
+<li>Deputy Chairperson: Muhammad Harmizan Bin Abdul Hamid</li>
 <li>Mohamed Shahril Bin Jaffar</li>
 <li>Raja Hamzah Bin Raja Zulkifli, PBM</li>
 <li>Mohamad Saddiq Mohammad Sa’id</li>
 <li>Muhamad Faiz Bin Kamari</li>
+<li>Siti Rasyidah Sheihk Abdul Hakim</li>
+<li>Muhammad Imran Abdul Rahim</li>      
+<li>Shahrudin B Salleh</li>     
+<li>Nurul Nadiah Bte Mohd Hashim</li>
+<li>Edwin Ignatious M</li>
+<li>Saiful Saroni</li>
+<li>Dr Rufaihah Abdul Jalil</li>
 <li>Aina Bte Ibrahim</li>
 <li>Nurul Asy'qah Bte Roslan</li>
 <li>Nurul Aszrifah Bte Roslan</li>
+<li>Fathiah Najwa</li>
 <li>Izuan M Rais</li>
 <li>Abdul Fattah Abdussamad</li>
 <li>Muhd Alawi Ahmad Shamsuddin</li>
-<li>Siti Rasyidah Sheihk Abdul Hakim</li>
 <li>Farah Nadia Bte Jamalludin</li>
 <li>Hazrul Azhar Bin Jamari</li>
 <li>Tengku Nur Nabilah Binte Tengku Ibrahim</li>
@@ -45,19 +49,20 @@ Follow M³@Woodlands on [Facebook](https://www.facebook.com/M3atWoodlands)!
 <li>Lydia Salim</li>
 <li>Nur Fitria Rozlan</li>
 <li>Mazlan Boyamin</li>
-<li>Iliyana Sarib</li>
-<li>Munaya Mahirah Md Tahar</li>
-<li>Muhammad Alfian Aman</li>
-<li>Mohamad Ridhwan Bin Abdul Lazim</li>
+<li>Mohamad Ridhwan Bin Abdul Lazim</li>   
 <li>Shabirin Bin Ariffin</li>
 <li>Md Nurizham Shah Bin Abdullah</li>
 <li>Abdul Samad Bin Abdul Wahab</li>
 <li>Abdul Rahman Bin Abdul Basir</li>
-<li>Euan Ismail</li>
-<li>Nur Fitria Rozlan</li>
-<li>Nurul Nadiah Bte Mohd Hashim</li>
+<li>Euan Seloterio Ismail</li>
 <li>Mohamad Nur Iqmal bin Mohamed Rozaini</li>
 <li>Muhammad Daniyal Bin Mohammad Johan</li>
+<li>Khairul Ashraf Bin Khairul Anwar</li>
+<li>Zarina Yusof</li>
+<li>Ghazali Bin Ramdan</li>
+
+
+
  </ul>
     </td>
      </tr>
