@@ -5,6 +5,11 @@ date:   2020-06-24
 permalink: /media-centre/infographics/post-cos-english
 ---
 
+<a href="/images/PDF/INFOG_HR_KEYNOTE_SPEECH_ENG_2MB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/INFOG_HR_KEYNOTE_SPEECH_ENG_3.2MB_THUMB.jpg" alt="M3 Infographic in English">Hari Raya Keynote Speech by Minister Masagos (English Infographic)
+</a>
+
+
 <a href="/images/PDF/Post_COS_Infographic_English_643KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/Post_COS_Infographic_English_643KB_THUMB.jpg" alt="M3 Infographic in English">643kb
 </a>
@@ -27,9 +32,4 @@ permalink: /media-centre/infographics/post-cos-english
 
 <a href="/images/PDF/COS_ENG04_295KB.pdf" class="project-link no-pdf-icon" target="_blank">
   <img src="/images/COS_ENG04_295KB_THUMB.jpg" alt="M3 Infographic in English">295kb
-</a>
-
-
-<a href="/images/PDF/M³_English_Infographic_347KB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/m3-infographic-eng-thumb.jpg" alt="M3 Infographic in English">347kb
 </a>
