@@ -6,6 +6,8 @@ breadcrumb: M<sup>3</sup>@Woodlands
 collection_name: m3-towns
 ---
 
+![M³@Woodlands](/images/m3-woodlands.jpeg)
+
 M³@Woodlands was launched by Grassroots Adviser Mr Amrin Amin on 21 July 2019. M³@Woodlands aims to reach out to the Malay Community in Sembawang GRC to build strong family and community, increase health literacy and improve financial wisdom.
 
 One of its programmes is KelasMateMatika (KMM)@ Admiralty, Sembawang and Woodlands which aims to strengthen the academic readiness of families with pre-school children. Canberra and Gambas will also organise similar KMM@CC programmes to benefit more families and young children.
