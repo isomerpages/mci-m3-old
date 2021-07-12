@@ -6,6 +6,8 @@ breadcrumb: M<sup>3</sup>@Tampines
 collection_name: m3-towns
 ---
 
+![M³@Tampines](/images/m3-tampines.jpeg)
+
 M³@Tampines was formed in August 2018 to streamline the efforts of the five Malay Activity Executive Committees (MAEC) in Tampines in meeting the needs of the Malay/Muslim community in Tampines. Together with representatives from MUIS and MENDAKI, M³@Tampines works with the Malay/Muslim professionals to be a one-stop centre for local programmes dedicated in meeting the residents’ ever-changing needs.
  
 M³@Tampines’ areas of focus include Marriage, Parenthood and Early Childhood. It aims to scale up KelasMateMatika (KMM)@ Tampines West Community Club to benefit more families and young children.  M³@Tampines actively works with a network of partners and volunteers to support vulnerable individuals as well as empower and mentor youths. 
