@@ -10,9 +10,7 @@ One of the youngest towns at present, M³@Toa Payoh was launched in April 2021 t
 
 In particular, this town hopes to enhance residents’ financial literacy and economic resilience as well as to engage vulnerable residents, especially those who reside in rental blocks to understand their needs and aspirations. With that mission in mind, M³@Toa Payoh has appointed 10 Success Agents (“Ejen Kejayaan”) whose goal is to curate programmes and workshops in line with their focus, such as financial literacy and home-based business workshops trialed when the town was launched.
 
-Follow M³@Toa Payoh on Facebook and Instagram! <br>
-[Facebook](https://www.facebook.com/M3ToaPayoh) <br>
-[Instagram](https://www.instagram.com/M3ToaPayoh)
+Follow M³@Toa Payoh on [Facebook](https://www.facebook.com/M3ToaPayoh) and [Instagram](https://www.instagram.com/M3ToaPayoh)!
 
 <table class="table-h">
   <tr>
