@@ -10,9 +10,9 @@ Established in January 2021, M³@Geylang Serai prides itself in reigniting the p
 
 Since its launch, the volunteers in this town have conducted M3 Household Surveys (MHS) to understand the needs and concerns of the Malay Muslim community and to link the families up with the relevant agencies for assistance. 
 
-Follow M³@Geylang Serai on Facebook, Instagram and Telegram!
-[Facebook](https://facebook.com/M3atGeylangSerai)
-[Instagram](@m3atgeylangserai) 
+Follow M³@Geylang Serai on Facebook, Instagram and Telegram! <br>
+[Facebook](https://facebook.com/M3atGeylangSerai) <br>
+[Instagram](@m3atgeylangserai) <br>
 [Telegram](https://t.me/M3atGeylangSerai)!
 
 <table class="table-h">
