@@ -6,6 +6,8 @@ breadcrumb: M<sup>3</sup>@Nee Soon
 collection_name: m3-towns
 ---
 
+![M³@Nee Soon](/images/m3-nee-soon.jpeg)
+
 M³@Nee Soon was launched in March 2019 and aims to build stronger family ties, including helping parents to forge stronger bonds with their children.
 
 In addition to a 10-week KelasMateMatika@Community Club (KMM@CC) programme to strengthen the child’s basic numeracy skills and encourage family bonding, M³@Nee Soon also organises Marital First Responder (MFR) training, a capability-building programme that equips community volunteers with knowledge and skills to provide basic marriage advice to couples.
