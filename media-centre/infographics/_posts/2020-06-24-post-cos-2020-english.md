@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  COS 2020 English
+title:  Hari Raya Keynote Speech 2020 English
 date:   2020-06-24
 permalink: /media-centre/infographics/post-cos-english
 ---
