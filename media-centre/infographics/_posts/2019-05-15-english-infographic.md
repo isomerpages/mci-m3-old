@@ -5,7 +5,7 @@ date:   2019-05-15
 permalink: /media-centre/infographics/english
 ---
 
-<a href="/images/PDF/INFOG_HR_KEYNOTE_SPEECH_ENG_2MB.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/INFOG_HR_KEYNOTE_SPEECH_ENG_3.2MB_THUMB.jpg" alt="M3 Infographic in English">Hari Raya Keynote Speech by Minister Masagos (English Infographic)
+<a href="/images/PDF/M³_English_Infographic_347KB.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/m3-infographic-eng-thumb.jpg" alt="M3 Infographic in English">347kb
 </a>
 
