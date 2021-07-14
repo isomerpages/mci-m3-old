@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Maju Bersama M3
+title:  Maju Bersama M³
 date:   2019-05-15
 permalink: /media-centre/infographics/maju-bersama-m3
 ---
