@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Progressing with M3
+title:  Progressing with M³
 date:   2019-05-15
 permalink: /media-centre/infographics/progressing-with-m3
 ---
