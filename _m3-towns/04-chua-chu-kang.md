@@ -6,7 +6,7 @@ breadcrumb: M<sup>3</sup>@Chua Chu Kang
 collection_name: m3-towns
 ---
 
-![M³@Chua Chu Kang](/images/m3-cck.JPG)
+![M³@Chua Chu Kang](/images/m3-cck-2.jpeg)
 
 Launched in May 2019, M³@Chua Chu Kang taps on the strengths of resident volunteers and community leaders to serve the needs of the Malay/Muslim individuals residing within the Chua Chu Kang GRC. It is guided by the values of the GRC's one B.I.G. family — "Beautiful”, “Inclusive” and “Gracious”. It aims to support young couples, families with children, vulnerable individuals and youth of the Malay/Muslim community in Chua Chu Kang. 
 
