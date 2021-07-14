@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Malay Infographics
+title:  Maju Bersama M3
 date:   2019-05-15
-permalink: /media-centre/infographics/malay
+permalink: /media-centre/infographics/maju-bersama-m3
 ---
 
 <a href="/images/PDF/M³_Malay_Infographic_346KB.pdf" class="project-link no-pdf-icon" target="_blank">
