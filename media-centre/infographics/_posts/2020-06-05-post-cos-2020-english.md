@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Hari Raya Get-Together Keynote Speech 2020 (English)
-date:   2020-06-24
+date:   2020-06-05
 permalink: /media-centre/infographics/keynote-speech-2020-english
 ---
 
