@@ -38,9 +38,14 @@ Under Project SOAR, M³@Towns will reach out to neighbourhood schools and full-t
 
 ### **Empowerment Programme @ ITE**
 
-
 The Empowerment Programme @ ITE aims to bridge ITE students to opportunities to help maximise their potential and provide good role models through mentoring. Mentors were trained in Gift Centred Mentoring approach to help them nurture the strengths of mentees and guide them to achieve their education and career aspirations.
  
 Find out more details about the programme through the Empowerment Programme <a href="/images/PDF/Empowerment_Programme_Infokit_for_Mentors_1.9MB.pdf" class="no-pdf-icon" style="margin-left:0;">Infokit for Mentors</a> and watch the Empowerment Programme video [here](https://www.youtube.com/watch?v=5P5CLRez9eA).
 
+
+### **Youth Mentor Manual**
+
+A comprehensive manual produced by the Youth Mentoring Office (YMO) to guide mentors in their mentoring journey. Titled ‘The Gift of Mentoring: A Guide for Mentors’, it complements the Gift-Centred Mentoring (GCM) training that mentors undergo before deployment. It aims to aid mentors to better understand the GCM philosophy through exciting infographics and videos. The manual supports mentors in rapport building by engaging mentees in fun activities that can help both to open up and deepen conversations, and it shares available resources that mentors can tap on to better guide and support their mentees.
+
+Click <a href="/images/PDF/Mendaki_Digital_v09_10_Oct_3.4MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the mentor manual.
 
