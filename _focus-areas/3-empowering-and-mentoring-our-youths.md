@@ -45,7 +45,7 @@ Find out more details about the programme through the Empowerment Programme <a h
 
 ### **Youth Mentor Manual**
 
-A comprehensive manual produced by Youth Mentoring Office to guide mentors in their mentoring journey. Titled ‘The Gift of Mentoring: A Guide for Mentors’, it complements the Gift-Centred Mentoring (GCM) training that mentors undergo before deployment. It aims to aid mentors to better understand the GCM philosophy through exciting infographics and videos. Support mentors in rapport building by engaging mentees in fun activities that can help both to open up and deepen conversations, and it shares available resources that mentors can tap on to better guide and support their mentees.
+A comprehensive manual produced by the Youth Mentoring Office (YMO) to guide mentors in their mentoring journey. Titled ‘The Gift of Mentoring: A Guide for Mentors’, it complements the Gift-Centred Mentoring (GCM) training that mentors undergo before deployment. It aims to aid mentors to better understand the GCM philosophy through exciting infographics and videos. The manual supports mentors in rapport building by engaging mentees in fun activities that can help both to open up and deepen conversations, and it shares available resources that mentors can tap on to better guide and support their mentees.
 
 Click <a href="/images/PDF/Mendaki_Digital_v09_10_Oct_3.4MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the mentor manual.
 
