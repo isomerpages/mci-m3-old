@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jom Singgah: M³@Nee Soon"
-date:   2021-06-02
+date:   2021-10-08
 permalink: /media-centre/videos/jom-singgah-m3-nee-soon/
 breadcrumb: "Jom Singgah: M³@Nee Soon"
 ---
@@ -17,4 +17,4 @@ Huda Ali meets Madam Zarina and Mr Djohan Abdul Rahman to learn more about M3 at
 
 To find out more on:
 - M³@Nee Soon, follow them on [Facebook](https://bit.ly/m3atneesoon)
-- Becoming an M³@Town volunteer, visit: https://www.m3.gov.sg/be-a-volunteer
+- Becoming an M³@Town volunteer, visit [here](https://www.m3.gov.sg/be-a-volunteer)
