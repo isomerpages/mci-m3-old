@@ -17,5 +17,5 @@ Who gets to inherit the family wealth? Is it legal for your employer to let you 
 Huda Ali meets Amirul Hairi, a lawyer and an M³@Marsiling-Yew Tee volunteer to find out the support available here for the residents.
 
 To find out more on:
-- M³@Marsiling-Yew Tee, follow then on [Facebook](https://www.facebook.com/M3atMarsilingYewTee)
+- M³@Marsiling-Yew Tee, follow them on [Facebook](https://www.facebook.com/M3atMarsilingYewTee)
 - Becoming an M³@Town volunteer, visit [here](https://www.m3.gov.sg/be-a-volunteer)
