@@ -13,4 +13,5 @@ breadcrumb: "Jom Singgah: M³@Jalan Besar"
 #JomSinggah
 
 Huda Ali visits the heart of Jalan Besar to meet Yanti, a volunteer who has been dedicating her time and energy to residents for years. Having once lost the roof over her head, Yanti can personally relate to residents and knows how valuable community support can be. This is why she strives to help others in need.
-To volunteer and be part of Project Kukoh at M³@Jalan Besar, visit: www.m3.gov.sg/be-a-volunteer
+
+To volunteer and be part of Project Kukoh at M³@Jalan Besar, visit: https://www.m3.gov.sg/be-a-volunteer
