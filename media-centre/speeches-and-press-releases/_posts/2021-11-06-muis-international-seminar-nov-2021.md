@@ -7,6 +7,8 @@ permalink: /media-centre/speeches-and-press-releases/muis-international-seminar-
 
 Assalamualaikum Warahmatullahi Wabarakatuh.
 
+### **Introduction**
+
 A very warm welcome to today’s seminar organised by the Islamic Religious Council of Singapore (MUIS). 
 
 I am glad that we can gather virtually, from all around the world, representing our respective Muslim communities, to share and learn from one another.
@@ -30,9 +32,9 @@ To this end, **I would like to offer Singapore as a case study.** Singapore is o
 As Ministers, we pledged to carry out our duties to achieve these goals. We also made an Affirmation of Allegiance to preserve, protect and defend the Constitution of the Republic of Singapore. 
 
 Singapore’s Constitution is our secular covenant and forms the foundation to build the three pillars of our social compact: <br>
-A. Justice and equality. <br>
-B. Self-reliance. <br>
-C. A cohesive and harmonious multi-religious and multi-racial society. <br>
+a. Justice and equality. <br>
+b. Self-reliance. <br>
+c. A cohesive and harmonious multi-religious and multi-racial society. <br>
 
 The first pillar, **Justice and equality**, guarantees that the Government will be impartial to all, and allocates public goods and develops policies based on meritocracy. The Government enables individuals through the building of strong families and creates a society of opportunities through access to affordable and quality education, housing and healthcare. 
 
@@ -50,71 +52,71 @@ Singapore’s founding fathers established multi-culturalism as the foundation o
 
 **This marked the start of our quest for social cohesion.** This was not easy. The Singapore Government had to forge solidarity carefully and gradually. It was a fine and fragile balance. Achieved through the formulation of public policies, introduction of laws, and support for ground-up initiatives. Often, requiring a great deal of courage. To allow various religious communities to practise their traditions, while expanding the common space. 
 
-A. We shaped our public housing, schools, workplaces, parks and playgrounds to become common places. Creating opportunities for everyone to interact and to form close bonds with one another. Our children attend the same public schools together during their formative years, where they mix and interact. Most importantly, they recite the national pledge daily – “to build a democratic society, regardless of race, language or religion”; like what we see onscreen – both past and current generations. A vision that continues to bind them together throughout their lives.
+a. We shaped our public housing, schools, workplaces, parks and playgrounds to become common places. Creating opportunities for everyone to interact and to form close bonds with one another. Our children attend the same public schools together during their formative years, where they mix and interact. Most importantly, they recite the national pledge daily – “to build a democratic society, regardless of race, language or religion”; like what we see onscreen – both past and current generations. A vision that continues to bind them together throughout their lives.
 
-B. To facilitate this interaction, the Ethnic Integration Policy (EIP) was introduced in 1989 to ensure a better-balanced mix of ethnic groups in public housing, where 80% of Singaporeans live. Otherwise, we will live with racial enclaves, like what happens in most countries.
+b. To facilitate this interaction, the Ethnic Integration Policy (EIP) was introduced in 1989 to ensure a better-balanced mix of ethnic groups in public housing, where 80% of Singaporeans live. Otherwise, we will live with racial enclaves, like what happens in most countries.
 
-C. English became our working language, not Chinese, Malay or Tamil – even though the Chinese were the majority! No one group was privileged over another. 
+c. English became our working language, not Chinese, Malay or Tamil – even though the Chinese were the majority! No one group was privileged over another. 
 
-D. The two-year National Service for every male citizen and Permanent Resident, which is necessary to protect Singapore, helps to integrate males from different communities. 
+d. The two-year National Service for every male citizen and Permanent Resident, which is necessary to protect Singapore, helps to integrate males from different communities. 
 
-E. There are also safeguards to protect minorities, such as the Presidential Council of Minority Rights.
+e. There are also safeguards to protect minorities, such as the Presidential Council of Minority Rights.
 
 We are fortunate to have harmonious race and religious relations in Singapore. Race or religious-based riots have not occurred for decades. However, **racial and religious harmony is neither a given nor permanent.** The harmony we enjoy today did not happen overnight. It required the persistent commitment of all groups in our society, to work towards this common vision. 
 
-A. In the past, our focus was directed internally, about how we accommodate another, and not overly pushing for our own rights and respecting each other. 
+a. In the past, our focus was directed internally, about how we accommodate another, and not overly pushing for our own rights and respecting each other. 
 
-B. **Today, our operating environment is different.** External events influence how we relate to one another, and shape our racial and religious relations. We are more exposed to information shared on social media. Especially our youth. These transcend all physical boundaries, challenge the transmission of values, and widen fractures in societies. Be it the “Black Lives Matter” movement or the Israeli-Palestinian conflict, though far away, shape our views and could affect our relations with others as a multi-ethnic and multi-religious community. If we do not address this early, and effectively, it will slowly and silently erode the trust built over many generations. This is why religious harmony and social cohesion must be continuously strengthened and never taken for granted. 
+b. **Today, our operating environment is different.** External events influence how we relate to one another, and shape our racial and religious relations. We are more exposed to information shared on social media. Especially our youth. These transcend all physical boundaries, challenge the transmission of values, and widen fractures in societies. Be it the “Black Lives Matter” movement or the Israeli-Palestinian conflict, though far away, shape our views and could affect our relations with others as a multi-ethnic and multi-religious community. If we do not address this early, and effectively, it will slowly and silently erode the trust built over many generations. This is why religious harmony and social cohesion must be continuously strengthened and never taken for granted. 
 
 ### **Muslim Communities of Success in a Secular Society**
 
 In Singapore, a key factor that has guided our Muslim community to adapt and thrive in a modern, cosmopolitan society, is the **presence of credible and dynamic religious institutions.**
 
-A. We have steadily developed a pool of religious scholars, with more than 2,500 university graduates from Islamic universities. They are well trained in religious traditions, and sensitised to the needs of the Singapore Muslim community and the local context. They are our precious assets. 
+a. We have steadily developed a pool of religious scholars, with more than 2,500 university graduates from Islamic universities. They are well trained in religious traditions, and sensitised to the needs of the Singapore Muslim community and the local context. They are our precious assets. 
 
-B. Muslims administer their own family and estate management (*faraid* and *waqaf*) laws based on Islamic principles through legislation that is equivalent to the national statutes. The Administration of Muslim Law Act also established the Islamic Religious Council of Singapore (MUIS) as the apex religious leadership that is responsible for our religious institutions like mosques and madrasahs. This Council has been essential in providing guidance and supporting the socio-religious needs of the Muslim community across a broad range of issues.
+b. Muslims administer their own family and estate management (*faraid* and *waqaf*) laws based on Islamic principles through legislation that is equivalent to the national statutes. The Administration of Muslim Law Act also established the Islamic Religious Council of Singapore (MUIS) as the apex religious leadership that is responsible for our religious institutions like mosques and madrasahs. This Council has been essential in providing guidance and supporting the socio-religious needs of the Muslim community across a broad range of issues.
 
-C. With a spirit of mutual understanding among the different communities, our mosques in Singapore manage the volume of the *azan* and in return, Mosques, like other places of worship, are built within our multi-racial housing estates. Different places of worship have co-existed next to each other for a long time. If you walk down Telok Ayer Street in Singapore, you will find a mosque, an Indian Muslim Shrine, a Chinese Temple and a Church, all along the same road. This is how they looked about one hundred years ago, and remain there today. 
+c. With a spirit of mutual understanding among the different communities, our mosques in Singapore manage the volume of the *azan* and in return, Mosques, like other places of worship, are built within our multi-racial housing estates. Different places of worship have co-existed next to each other for a long time. If you walk down Telok Ayer Street in Singapore, you will find a mosque, an Indian Muslim Shrine, a Chinese Temple and a Church, all along the same road. This is how they looked about one hundred years ago, and remain there today. 
 
-D. **Together, these have yielded a long period of peace and harmony,** which has enabled everyone, including our Muslim community, to benefit and progress in terms of education. Many Muslims have succeeded and improved their socio-economic status. 
+d. **Together, these have yielded a long period of peace and harmony,** which has enabled everyone, including our Muslim community, to benefit and progress in terms of education. Many Muslims have succeeded and improved their socio-economic status. 
 
 From time to time, our Government makes adjustments to respond to the evolving needs of various communities, while also preserving the peace and good-will between them. For example, while Muslim women can wear the tudung (or hijab) at most workplaces, they are unable to do so for some occupations with prescribed uniforms.  Most recently, the Government allowed Muslim healthcare workers in the public sector to don the tudung or hijab with their uniform, if they wish to do so. Our religious institutions and leaders had been patiently engaging the Government on the issue, and understood the need for the Government to prepare the ground to accept this change graciously. Muis strengthened the process with a fatwa on the wearing of tudung in uniformed work, empowering Muslim women in Singapore to make informed decisions and provide reassurances to those who may be facing their unique personal circumstances. **This could only take place because of the many decades of inter-faith dialogues to foster trust and cohesion.** Not only between our apex religious leaders, but amongst our citizens. We didn’t let the pandemic hinder our efforts too, moving them virtually!
 
 I hope that our approach can provide useful learning points for other Muslim minority communities, which make up one-fifth of the world’s Muslim population. Similar to Singapore, 
 
-A. Many of these Muslim minority communities live in open, modern and diverse societies in secular states. 
+a. Many of these Muslim minority communities live in open, modern and diverse societies in secular states. 
 
-B. Emerging uncertainties and challenges of the contemporary world usually impact these Muslim communities first. Often, there is no precedence in Islamic history and traditions to guide them. Their experience will be distinctly different from societies where Muslims are the majority. 
+b. Emerging uncertainties and challenges of the contemporary world usually impact these Muslim communities first. Often, there is no precedence in Islamic history and traditions to guide them. Their experience will be distinctly different from societies where Muslims are the majority. 
 
-C. These Muslim minority communities must have the ability to contribute to nation building while being able to live out their faith, like Muslims do in Singapore. 
+c. These Muslim minority communities must have the ability to contribute to nation building while being able to live out their faith, like Muslims do in Singapore. 
 
 One example is the response of the Singapore Muslim community to the pandemic.  
 
-A. In Singapore, MUIS and its religious leadership made swift and necessary adjustments to our religious practices to protect our community from COVID-19. 
+a. In Singapore, MUIS and its religious leadership made swift and necessary adjustments to our religious practices to protect our community from COVID-19. 
 
-B. We temporarily closed mosques, postponed Haj pilgrimage and exercised social distancing during Hari Raya festivities. At that time, we did not have any other jurisdiction to learn from or benchmark against. We had to adapt solutions based on our own situation. Our religious leaders stepped forward to explain and assuage concerns on the ground. *Alhamdulillah,* with the leadership and efforts of the religious and community leaders, these difficult measures were accepted by the community, and there have been no significant mosque clusters since the pandemic began.
+b. We temporarily closed mosques, postponed Haj pilgrimage and exercised social distancing during Hari Raya festivities. At that time, we did not have any other jurisdiction to learn from or benchmark against. We had to adapt solutions based on our own situation. Our religious leaders stepped forward to explain and assuage concerns on the ground. *Alhamdulillah,* with the leadership and efforts of the religious and community leaders, these difficult measures were accepted by the community, and there have been no significant mosque clusters since the pandemic began.
 
-C. These efforts and sacrifices not only saved our Muslim community from harm, but also earned the respect of other communities. 
+c. These efforts and sacrifices not only saved our Muslim community from harm, but also earned the respect of other communities. 
 
 **What role does the religious leadership play in such situations when business is not as usual?** They need to help their communities find conviction and comfort, as they practise their religion in an evolving environment. Their religious guidance cannot solely be on the basis of “*darurat*” or temporary exigencies of circumstances, nor on the need to impose our beliefs and practices on others. It must also forge peaceful and successful co-existence with the majority as fellow citizens. **Only then can we, as Muslim minorities, demonstrate citizenry with conviction.**
 
 We applaud Muslim individuals from minority communities, who participate in leadership roles in their nations. 
 
-A. These are Muslims who have been elected as political office holders in many western democracies. This is not an easy responsibility. Upholding the values of a secular political system, may mean performing duties that some segments of their own religious community may not agree with. Some notable examples include President Halimah Yaacob, the late Dr Surin Pitsuwan, Mayor Ahmed Aboutaleb, and Baroness Sayeeda Warsi.
+a. These are Muslims who have been elected as political office holders in many western democracies. This is not an easy responsibility. Upholding the values of a secular political system, may mean performing duties that some segments of their own religious community may not agree with. Some notable examples include President Halimah Yaacob, the late Dr Surin Pitsuwan, Mayor Ahmed Aboutaleb, and Baroness Sayeeda Warsi.
 
-B. Muslim leaders in secular societies also have to be prepared to address inconvenient issues. For example, in my previous role overseeing Singapore’s food security, I had to ensure the flow of food supplies to meet the diverse needs of our people – even those that Muslims do not consume, such as pork and alcohol. This is because, as a Minister, as you may recall my affirmation, I must faithfully discharge my duties according to the law, and to the best of my knowledge and ability, without fear or favour.
+b. Muslim leaders in secular societies also have to be prepared to address inconvenient issues. For example, in my previous role overseeing Singapore’s food security, I had to ensure the flow of food supplies to meet the diverse needs of our people – even those that Muslims do not consume, such as pork and alcohol. This is because, as a Minister, as you may recall my affirmation, I must faithfully discharge my duties according to the law, and to the best of my knowledge and ability, without fear or favour.
 
-C. It would benefit members of our community if there are clear guidance from our religious leaders on sensitive matters such as this. 
+c. It would benefit members of our community if there are clear guidance from our religious leaders on sensitive matters such as this. 
 
 While intuitively, we believe our Muslim communities can adjust and thrive in any context and circumstance, it is **imperative that we develop a body of knowledge for Muslim minority communities within multi-cultural and secular societies.** This body of knowledge will provide the guiding framework and lay the foundations for communities to thrive and succeed in their respective contexts.
 
 With this in mind, I would like to offer some pertinent questions for us to explore in this seminar and beyond: 
 
-A. How can Muslims strive to integrate meaningfully in the larger society of such countries while keeping to our faith? 
+a. How can Muslims strive to integrate meaningfully in the larger society of such countries while keeping to our faith? 
 
-B. How do we agree on and preserve the common spaces where we interact with others in our multi-cultural societies?  
+b. How do we agree on and preserve the common spaces where we interact with others in our multi-cultural societies?  
 
-C. How do we, as a Muslim community, benefit others in our modern and open society as *Rahmatan Lil Alamin* or blessings to all? 
+c. How do we, as a Muslim community, benefit others in our modern and open society as *Rahmatan Lil Alamin* or blessings to all? 
 
 Before I end, let me say a few words in Malay:
 
@@ -123,6 +125,8 @@ Before I end, let me say a few words in Malay:
 Dari semasa ke semasa, Pemerintah Singapura membuat penyesuaian untuk memenuhi keperluan pelbagai kaum. Terkini, Pemerintah membenarkan pemakaian tudung bagi pekerja sektor kesihatan awam, jika mereka mahu. Ini adalah perubahan dasar besar yang mendapat sokongan kaum lain wujudnya  kepercayaan dan perpaduan antara kaum. Muis juga mengeluarkan Fatwa supaya mereka yang terlibat merasa tenang dan membuat keputusan dengan yakin.
 
 Inilah model pendekatan unik bagi Muslim Singapura. Kami tidak punya banyak bahan rujukan dalam tradisi keagamaan untuk dijadikan panduan. Justeru, kami sering menjadi penggerak utama apabila terjadi perubahan dasar, dan terus berperanan dalam pembangunan negara tanpa menjejas prinsip, nilai-nilai dan amalan keagamaan kami.
+
+### **Conclusion**
 
 In closing, I believe that the success of Muslim communities within multi-cultural and secular states will require a continual pursuit of the common good together as a society. 
 
