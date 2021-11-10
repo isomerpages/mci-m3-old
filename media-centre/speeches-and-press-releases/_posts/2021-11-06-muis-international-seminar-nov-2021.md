@@ -29,10 +29,10 @@ To this end, **I would like to offer Singapore as a case study.** Singapore is o
 
 As Ministers, we pledged to carry out our duties to achieve these goals. We also made an Affirmation of Allegiance to preserve, protect and defend the Constitution of the Republic of Singapore. 
 
-Singapore’s Constitution is our secular covenant and forms the foundation to build the three pillars of our social compact:
-A. Justice and equality. 
-B. Self-reliance.
-C. A cohesive and harmonious multi-religious and multi-racial society.
+Singapore’s Constitution is our secular covenant and forms the foundation to build the three pillars of our social compact: <br>
+A. Justice and equality. <br>
+B. Self-reliance. <br>
+C. A cohesive and harmonious multi-religious and multi-racial society. <br>
 
 The first pillar, **Justice and equality**, guarantees that the Government will be impartial to all, and allocates public goods and develops policies based on meritocracy. The Government enables individuals through the building of strong families and creates a society of opportunities through access to affordable and quality education, housing and healthcare. 
 
