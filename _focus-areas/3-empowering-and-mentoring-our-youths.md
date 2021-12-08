@@ -8,13 +8,87 @@ collection_name: focus-areas
 
 ![Empowering and Mentoring Our Youths](/images/focus-area-empowering.jpg)
 
-Our youths play a key part in the future of Singapore and our Malay/Muslim community. We support our youths and develop their strengths and capabilities through empowerment programmes that aim to open up opportunities for them to embark on various education and career pathways.
+Our youth play a key part in the future of Singapore, and in our Malay/Muslim community. We therefore endeavour to prepare our youth for what lies ahead, developing their strengths and capabilities through empowerment programmes that widen opportunities for various education and career pathways.
 
-Mentoring is also an important component of youths development. Connecting youths with mentors and role-models in the community, while bridging them to resources, schemes and training programmes, helps guide and inspire them to realise their potential.
+Apart from providing our youth with resources, schemes and training programmes, mentoring is an equally important component of their development. Connecting our youth with mentors and role models in the community helps guide and inspire them to realise their potential.
 
-All our empowerment programmes are based on a mentoring-centric model, where the youths can interact and learn from mentors and young professionals. Through this, we aim to develop a vibrant Malay/Muslim youths core, inspiring each youth to continue to pay it forward and give back to the community.
+All our empowerment programmes are thus designed based on a mentoring-centric model, where our youth can interact and learn from experienced mentors and young professionals. Through this, we aim to develop a vibrant Malay/Muslim youth core, who are motivated to pay it forward and give back to the community.
 
-For more information on how to become a Youth Mentor, click [here](https://www.volunteer.gov.sg/volunteer/agencies/agency_details?code=MENDAKI&ltclid=0717b4d0-c5d3-418c-9560-0c28215dc10c).
+For more information on how to become a Youth Mentor, click [here](https://www.tinyurl.com/volunteerMENDAKI2021).
+
+### **Youth Mentoring Office (YMO)** 
+
+The Youth Mentoring Office (YMO) was set up within MENDAKI in August 2019, to spearhead mentoring efforts in the Malay/Muslim community. It aims to build a strong mentoring culture and ecosystem, where youth are connected and actively contributing to the aspiration of a Community of Success. This is achieved by adopting and contextualizing the Gift-Centred Mentoring (GCM) philosophy, a trademarked and evidence-based mentoring model from the Youth Mentoring Connection (YMC) based in Los Angeles, USA, to enhance and build the competency of the community.
+
+For any questions seeking enquiries to the Youth Mentoring Office, please email ymo@mendaki.org.sg 
+
+### **Gift-Centred Mentor Training** 
+
+In driving the mentoring ecosystem, the YMO aims to build mentoring capabilities in both volunteer mentors and programme managers, based on the GCM approach. 
+
+YMO builds capabilities of mentors through GCM Training that equips mentors with skills on building a successful relationship with their mentees. The GCM mentor training spreads across 3 modules that covers:
+
+Module 1: Foundations of Mentoring (Mandatory e-learning) 
+Module 2: Five pillars of GCM (Mandatory) 
+Module 3: Practices in GCM (Optional)
+
+Over 1,100 mentors have been trained and deployed to mentor 3,655 mentees across the six mentoring programmes which the YMO oversees. 
+
+To ensure continued support beyond the above training, mentors also have access to the mentor manual and monthly Community of Practice (COP) sessions that encourage deep learning and exchange of best practices amongst seasoned and new mentors. COP targets specific mentor challenges such as rapport building, goal setting, and working well with different personalities amongst other topics. Click [here](https://www.youtube.com/channel/UCIEd7EWcu1apONGn-nsVbnQ) to watch past COP sessions.  
+
+![FA3_GCM_1](/images/FA3_GCM_1.jpg)
+![FA3_GCM_2](/images/FA3_GCM_2.JPG)
+![FA3_GCM_3](/images/FA3_GCM_3.png)
+
+### **Mentor Manual**
+
+A comprehensive manual produced by the Youth Mentoring Office (YMO) to guide mentors in their mentoring journey. Titled ‘The Gift of Mentoring: A Guide for Mentors’, it complements the Gift-Centred Mentoring (GCM) training that mentors undergo before deployment. It aims to aid mentors to better understand the GCM philosophy through exciting infographics and videos. The manual supports mentors in rapport building by engaging mentees in fun activities that can help both to open up and deepen conversations, and it shares available resources that mentors can tap on to better guide and support their mentees.
+
+Click <a href="/images/PDF/Mendaki_Digital_v10_24nov_4.2MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the mentor manual.
+
+### **#AmPowered@ITE** 
+
+This 9-month programme targets full-time Muslim students across the three ITE colleges. Through mentoring and community-building initiatives such as teambuilding, motivational talks, sharing sessions and developmental workshops, the programme motivates students to stay in school and graduate with at least a NITEC qualification. Click [here](https://youtu.be/5P5CLRez9eA) to find out more about #AmPowered@ITE.
+
+To register as a mentor for #AmPowered@ITE, click [here](https://www.tinyurl.com/volunteerMENDAKI2021)
+
+![FA3_ITE](/images/FA3_ITE.jpg)
+
+### **#AmPowered@MTS** 
+
+This programme caters to Secondary 3 and 4 students in the Normal stream, who are enrolled in the MENDAKI Tuition Scheme (MTS). As part of the programme, students benefit from community-building activities (e.g. team bonding, motivational talks, sharing sessions) and are  linked up with professionals to help them envision their post-secondary pathways. Those in the Normal Technical stream will also be bridged to MENDAKI’s YouthSpaces @ ITE for ongoing support, should they choose to progress to the ITE after their ‘N’ Levels. 
+
+To register as a mentor for #AmPowered@MTS, click [here](https://www.tinyurl.com/volunteerMENDAKI2021)
+
+![FA3_MTS](/images/FA3_MTS.jpeg)
+
+### **#AmPowered@M3Towns** 
+
+Similar to #AmPowered@MTS, the programme targets secondary school students at the various M3@Towns. Mentoring serves as the first level of intervention to identify students’ needs. Following which, students and their families are bridged to community resources and support network to attend to their last mile service delivery needs, and to equip them with self-reliance. Students will also be connected to national initiatives to enhance  their portfolios and future ready skills. 
+
+![FA3_M3Towns](/images/FA3_M3Towns.jpg)
+
+### **PEER Community Programme** 
+
+Led by MENDAKI Club, PEER (Positive Experiences, Engaging Relationships) Community Programme targets secondary school students from M3@Tampines and M3@Woodlands. The 6-month mentoring programme incorporates elements of experiential learning and developmental relationships, facilitated by mentors. 
+
+To find out more about PEER Community Programme, click [here](https://www.ymcpeer.com/).
+
+![FA3_Peer](/images/FA3_PEER.png)
+
+### **MARA Mentoring** 
+
+Led by MENDAKI Club, MARA Mentoring is catered for undergraduates who are keen to join a community of professionals, building connections with those in the finance and consulting, marketing, technology, sales and operations industries, among others.
+
+To find out more about MARA Mentoring, click [here](https://www.maramentoring.com/)
+
+![FA3_Mara](/images/FA3_MARA.png)
+
+### **Project Pathfinder** 
+
+A ground-up volunteer-led initiative targeting students from ITE College East, students are paired with mentors who will inculcate positive values such as discipline and resilience. Students will also participate in group mentoring and community building initiatives that aim to promote team bonding and instill leadership qualities.
+
+![FA3_Pathfinder](/images/FA3_Pathfinder.JPG)
 
 ### **M<sup>3</sup> Resource Directory** 
 
@@ -27,25 +101,4 @@ Click <a href="/images/PDF/M³_Youth_Resource_Directory_123KB.pdf" class="no-pdf
 How can our youth better adapt and thrive in the age of opportunity amidst disruptive developments? The Future Ready Toolkit by MENDAKI, "**Log In To The Future**", is a one-stop information repository on the values and competencies youth need to navigate and succeed in the future economy.
 
 Click <a href="/images/PDF/Future_Ready_Toolkit_4.6MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the Future Ready Toolkit.
-
-### **Project SOAR (under M³@CCK)**
-
-Project SOAR is a key initiative under M³ Focus Area 3 (Empowering & Mentoring For Youth) to develop youth with character, competence and a strong spirit of active citizenry. The programme was piloted in Chua Chu Kang and Jurong in 2020. 
-
-Spearheaded by M³@Towns, Project SOAR is a nine-month community-led mentoring programme which will see mentees (youths aged 14 to 16 years old) matched to older youth mentors (youths aged 17 to 35 years old) and undergo a multitude of engagement activities including those related to career, community service and culture. Mentors will journey with their mentees by connecting them to opportunities, services and positive role models during their engagement sessions. Mentees will also have the opportunity to participate in activities organised by the Community Clubs Youth Executive Committees (YECs) within each M³@Towns.
-
-Under Project SOAR, M³@Towns will reach out to neighbourhood schools and full-time Madrasahs to encourage students to sign up as mentees under the programme. Concurrently, M³@Towns also reach out to youths from institutes of higher learning (i.e. Universities, Polytechnics, ITEs, JCs), mosques and young professionals to sign up as mentors, and undergo basic mentoring training conducted by Mendaki.
-
-### **Empowerment Programme @ ITE**
-
-The Empowerment Programme @ ITE aims to bridge ITE students to opportunities to help maximise their potential and provide good role models through mentoring. Mentors were trained in Gift Centred Mentoring approach to help them nurture the strengths of mentees and guide them to achieve their education and career aspirations.
- 
-Find out more details about the programme through the Empowerment Programme <a href="/images/PDF/Empowerment_Programme_Infokit_for_Mentors_1.9MB.pdf" class="no-pdf-icon" style="margin-left:0;">Infokit for Mentors</a> and watch the Empowerment Programme video [here](https://www.youtube.com/watch?v=5P5CLRez9eA).
-
-
-### **Mentor Manual**
-
-A comprehensive manual produced by the Youth Mentoring Office (YMO) to guide mentors in their mentoring journey. Titled ‘The Gift of Mentoring: A Guide for Mentors’, it complements the Gift-Centred Mentoring (GCM) training that mentors undergo before deployment. It aims to aid mentors to better understand the GCM philosophy through exciting infographics and videos. The manual supports mentors in rapport building by engaging mentees in fun activities that can help both to open up and deepen conversations, and it shares available resources that mentors can tap on to better guide and support their mentees.
-
-Click <a href="/images/PDF/Mendaki_Digital_v10_24nov_4.2MB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the mentor manual.
 
