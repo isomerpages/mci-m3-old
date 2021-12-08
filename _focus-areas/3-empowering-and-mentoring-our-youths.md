@@ -24,6 +24,8 @@ For any questions seeking enquiries to the Youth Mentoring Office, please email 
 
 ### **Gift-Centred Mentor Training** 
 
+![FA3_GCM_1](/images/FA3_GCM_1_2.JPEG)
+
 In driving the mentoring ecosystem, the YMO aims to build mentoring capabilities in both volunteer mentors and programme managers, based on the GCM approach. 
 
 YMO builds capabilities of mentors through GCM Training that equips mentors with skills on building a successful relationship with their mentees. The GCM mentor training spreads across 3 modules that covers:
@@ -32,13 +34,11 @@ Module 1: Foundations of Mentoring (Mandatory e-learning) <br>
 Module 2: Five pillars of GCM (Mandatory) <br>
 Module 3: Practices in GCM (Optional) <br>
 
+![FA3_GCM_3](/images/FA3_GCM_3.png)
+
 Over 1,100 mentors have been trained and deployed to mentor 3,655 mentees across the six mentoring programmes which the YMO oversees. 
 
 To ensure continued support beyond the above training, mentors also have access to the mentor manual and monthly Community of Practice (COP) sessions that encourage deep learning and exchange of best practices amongst seasoned and new mentors. COP targets specific mentor challenges such as rapport building, goal setting, and working well with different personalities amongst other topics. Click [here](https://www.youtube.com/channel/UCIEd7EWcu1apONGn-nsVbnQ) to watch past COP sessions.  
-
-![FA3_GCM_1](/images/FA3_GCM_1.jpg)
-![FA3_GCM_2](/images/FA3_GCM_2.JPG)
-![FA3_GCM_3](/images/FA3_GCM_3.png)
 
 ### **Mentor Manual**
 
@@ -48,49 +48,49 @@ Click <a href="/images/PDF/Mendaki_Digital_v10_24nov_4.2MB.pdf" class="no-pdf-ic
 
 ### **#AmPowered@ITE** 
 
+![FA3_ITE](/images/FA3_ITE.jpg)
+
 This 9-month programme targets full-time Muslim students across the three ITE colleges. Through mentoring and community-building initiatives such as teambuilding, motivational talks, sharing sessions and developmental workshops, the programme motivates students to stay in school and graduate with at least a NITEC qualification. Click [here](https://youtu.be/5P5CLRez9eA) to find out more about #AmPowered@ITE.
 
 To register as a mentor for #AmPowered@ITE, click [here](https://www.tinyurl.com/volunteerMENDAKI2021)
 
-![FA3_ITE](/images/FA3_ITE.jpg)
-
 ### **#AmPowered@MTS** 
+
+![FA3_MTS](/images/FA3_MTS.jpeg)
 
 This programme caters to Secondary 3 and 4 students in the Normal stream, who are enrolled in the MENDAKI Tuition Scheme (MTS). As part of the programme, students benefit from community-building activities (e.g. team bonding, motivational talks, sharing sessions) and are  linked up with professionals to help them envision their post-secondary pathways. Those in the Normal Technical stream will also be bridged to MENDAKI’s YouthSpaces @ ITE for ongoing support, should they choose to progress to the ITE after their ‘N’ Levels. 
 
 To register as a mentor for #AmPowered@MTS, click [here](https://www.tinyurl.com/volunteerMENDAKI2021)
 
-![FA3_MTS](/images/FA3_MTS.jpeg)
-
-### **#AmPowered@M3Towns** 
-
-Similar to #AmPowered@MTS, the programme targets secondary school students at the various M3@Towns. Mentoring serves as the first level of intervention to identify students’ needs. Following which, students and their families are bridged to community resources and support network to attend to their last mile service delivery needs, and to equip them with self-reliance. Students will also be connected to national initiatives to enhance  their portfolios and future ready skills. 
+### **#AmPowered@M³Towns** 
 
 ![FA3_M3Towns](/images/FA3_M3Towns.jpg)
 
+Similar to #AmPowered@MTS, the programme targets secondary school students at the various M³@Towns. Mentoring serves as the first level of intervention to identify students’ needs. Following which, students and their families are bridged to community resources and support network to attend to their last mile service delivery needs, and to equip them with self-reliance. Students will also be connected to national initiatives to enhance  their portfolios and future ready skills. 
+
 ### **PEER Community Programme** 
-
-Led by MENDAKI Club, PEER (Positive Experiences, Engaging Relationships) Community Programme targets secondary school students from M3@Tampines and M3@Woodlands. The 6-month mentoring programme incorporates elements of experiential learning and developmental relationships, facilitated by mentors. 
-
-To find out more about PEER Community Programme, click [here](https://www.ymcpeer.com/).
 
 ![FA3_Peer](/images/FA3_PEER.png)
 
+Led by MENDAKI Club, PEER (Positive Experiences, Engaging Relationships) Community Programme targets secondary school students from M³@Tampines and M³@Woodlands. The 6-month mentoring programme incorporates elements of experiential learning and developmental relationships, facilitated by mentors. 
+
+To find out more about PEER Community Programme, click [here](https://www.ymcpeer.com/).
+
 ### **MARA Mentoring** 
+
+![FA3_Mara](/images/FA3_MARA.png)
 
 Led by MENDAKI Club, MARA Mentoring is catered for undergraduates who are keen to join a community of professionals, building connections with those in the finance and consulting, marketing, technology, sales and operations industries, among others.
 
 To find out more about MARA Mentoring, click [here](https://www.maramentoring.com/)
 
-![FA3_Mara](/images/FA3_MARA.png)
-
 ### **Project Pathfinder** 
-
-A ground-up volunteer-led initiative targeting students from ITE College East, students are paired with mentors who will inculcate positive values such as discipline and resilience. Students will also participate in group mentoring and community building initiatives that aim to promote team bonding and instill leadership qualities.
 
 ![FA3_Pathfinder](/images/FA3_Pathfinder.JPG)
 
-### **M<sup>3</sup> Resource Directory** 
+A ground-up volunteer-led initiative targeting students from ITE College East, students are paired with mentors who will inculcate positive values such as discipline and resilience. Students will also participate in group mentoring and community building initiatives that aim to promote team bonding and instill leadership qualities.
+
+### **M³ Resource Directory** 
 
 Mentoring opportunities, youth services and programmes as well as resources such as toolkits and grants. Locate these and more available resource for youths and youth-related organisations in our Resource Directory.
 
