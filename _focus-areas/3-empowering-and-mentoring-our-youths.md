@@ -52,7 +52,7 @@ Click <a href="/images/PDF/Mendaki_Digital_v10_24nov_4.2MB.pdf" class="no-pdf-ic
 
 This 9-month programme targets full-time Muslim students across the three ITE colleges. Through mentoring and community-building initiatives such as teambuilding, motivational talks, sharing sessions and developmental workshops, the programme motivates students to stay in school and graduate with at least a NITEC qualification. Click [here](https://youtu.be/5P5CLRez9eA) to find out more about #AmPowered@ITE.
 
-To register as a mentor for #AmPowered@ITE, click [here](https://www.tinyurl.com/volunteerMENDAKI2021)
+To register as a mentor for #AmPowered@ITE, click [here](https://www.tinyurl.com/volunteerMENDAKI2021).
 
 ### **#AmPowered@MTS** 
 
@@ -60,7 +60,7 @@ To register as a mentor for #AmPowered@ITE, click [here](https://www.tinyurl.com
 
 This programme caters to Secondary 3 and 4 students in the Normal stream, who are enrolled in the MENDAKI Tuition Scheme (MTS). As part of the programme, students benefit from community-building activities (e.g. team bonding, motivational talks, sharing sessions) and are  linked up with professionals to help them envision their post-secondary pathways. Those in the Normal Technical stream will also be bridged to MENDAKI’s YouthSpaces @ ITE for ongoing support, should they choose to progress to the ITE after their ‘N’ Levels. 
 
-To register as a mentor for #AmPowered@MTS, click [here](https://www.tinyurl.com/volunteerMENDAKI2021)
+To register as a mentor for #AmPowered@MTS, click [here](https://www.tinyurl.com/volunteerMENDAKI2021).
 
 ### **#AmPowered@M³Towns** 
 
@@ -82,7 +82,7 @@ To find out more about PEER Community Programme, click [here](https://www.ymcpee
 
 Led by MENDAKI Club, MARA Mentoring is catered for undergraduates who are keen to join a community of professionals, building connections with those in the finance and consulting, marketing, technology, sales and operations industries, among others.
 
-To find out more about MARA Mentoring, click [here](https://www.maramentoring.com/)
+To find out more about MARA Mentoring, click [here](https://www.maramentoring.com/).
 
 ### **Project Pathfinder** 
 
