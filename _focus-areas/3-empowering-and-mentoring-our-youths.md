@@ -28,9 +28,9 @@ In driving the mentoring ecosystem, the YMO aims to build mentoring capabilities
 
 YMO builds capabilities of mentors through GCM Training that equips mentors with skills on building a successful relationship with their mentees. The GCM mentor training spreads across 3 modules that covers:
 
-Module 1: Foundations of Mentoring (Mandatory e-learning) 
-Module 2: Five pillars of GCM (Mandatory) 
-Module 3: Practices in GCM (Optional)
+Module 1: Foundations of Mentoring (Mandatory e-learning) <br>
+Module 2: Five pillars of GCM (Mandatory) <br>
+Module 3: Practices in GCM (Optional) <br>
 
 Over 1,100 mentors have been trained and deployed to mentor 3,655 mentees across the six mentoring programmes which the YMO oversees. 
 
