@@ -13,12 +13,11 @@ locations:
   # Contact Us
   # For line: If you have an email, put "(email)" after the actual email
 column:
-  - title: Share with us your M³ experience. Submit your questions and thoughts through our Online Feedback Form below.
+  - title: For more information on M³ and our different programmes, you may reach out to
     content:
+    - line: [MUIS](https://www.facebook.com/MUIS.SG/)
+    - line: 
+    - line: 
     - line: 
  
- column:
-  - title: For more information on M³ and our different programmes, you may reach out to:
-    content: MUIS: https://www.facebook.com/MUIS.SG/
-    - line: 
     
