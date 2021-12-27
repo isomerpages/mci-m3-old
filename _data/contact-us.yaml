@@ -14,10 +14,7 @@ locations:
   # For line: If you have an email, put "(email)" after the actual email
 column:
   - title: For more information on M³ and our different programmes, you may reach out to
-    content:
+    content: [MUIS](https://www.facebook.com/MUIS.SG/)
     - line: [MUIS](https://www.facebook.com/MUIS.SG/)
-    - line: 
-    - line: 
-    - line: 
  
     
