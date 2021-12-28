@@ -14,7 +14,7 @@ locations:
   # For line: If you have an email, put "(email)" after the actual email
 column:
   - title: For more information on M³ and our different programmes, you may reach out to MUIS, MENDAKI, MESRA or Lawyers@M³.
-    content: 
+    address: https://www.facebook.com/MUIS.SG
     line: MUIS
     line: https://www.facebook.com/MUIS.SG
   
