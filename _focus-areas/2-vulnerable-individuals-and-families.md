@@ -55,7 +55,7 @@ MESRA also offers SHIOK Series courses to ex-offenders and their family members,
 
 For more information, click [here](https://msha.ke/fitrahsg).
 
-“You can also click <a href="/images/PDF/MMO_Network_Directory_of_Programmes_and Services_840KB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to find out more on other programmes and services offered in assisting ex-offenders and their families”
+You can also click <a href="/images/PDF/MMO_Network_Directory_of_Programmes_and Services_840KB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to find out more on other programmes and services offered in assisting ex-offenders and their families.
 
 <hr>
 
