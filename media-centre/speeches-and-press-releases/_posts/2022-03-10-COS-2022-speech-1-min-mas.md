@@ -17,9 +17,9 @@ Banci Penduduk 2020 telah menunjukkan kemajuan yang sangat ketara dalam tahap pe
 
 Pada tahun-tahun yang lalu,  saya teleh membentangkan tiga ciri yang membentuk jati diri sebuah Masyarakat Gemilang, iaitu keperibadian, kemahiran dan kewarganegaraan. Tahun ini, saya akan menekankan pula langkah-langkah untuk mempertingkatkan kemahiran masyarakat kita, sambil melayari arus kemajuan yang telah diraih, untuk terus berjaya. Ini akan dilakukan melalui tiga strategi: 
  
-a.	Pertama, mengukuhkan rangkaian sokongan untuk mendampingi masyarakat melalui M³; 
-b.	Kedua, membangunkan sebuah tenaga kerja yang berkemahiran menerusi kerjasama dengan masyarakat dan industri; dan 
-c.	Ketiga, membentuk sektor keagamaan yang berwibawa. 
+a.	Pertama, mengukuhkan rangkaian sokongan untuk mendampingi masyarakat melalui M³; <br>
+b.	Kedua, membangunkan sebuah tenaga kerja yang berkemahiran menerusi kerjasama dengan masyarakat dan industri; dan <br>
+c.	Ketiga, membentuk sektor keagamaan yang berwibawa. <br>
 
 ### **Mengukuhkan Rangkaian Sokongan untuk Mendampingi Masyarakat melalui M³**
 
@@ -33,9 +33,9 @@ Tahun ini, Yayasan MENDAKI menyambut ulang tahun ke-40. Mungkin ada di antara ki
 
 Saya gembira kerana MENDAKI telah menerapkan pesanan beliau sepanjang 40 tahun yang lalu. Dengan kerjasama kerabatnya, MENDAKI telah menyumbang kepada kemajuan masyarakat Melayu/Islam yang begitu memberangsangkan. 
 
-a.	Dalam tempoh 4 dekad sahaja, kadar siswazah Melayu berlipat ganda – daripada hanya 4 siswazah pada 1980 kepada hampir 110 siswazah pada 2020, bagi setiap 1,000 orang Melayu. 
+a.	Dalam tempoh 4 dekad sahaja, kadar siswazah Melayu berlipat ganda – daripada hanya 4 siswazah pada 1980 kepada hampir 110 siswazah pada 2020, bagi setiap 1,000 orang Melayu. <br>
 
-b.	Kemajuan dalam pendidikan pula telah membuka peluang-peluang kerjaya yang lebih baik. Peratusan pekerja PMET Melayu bertambah, daripada 7.2% pada 1980 kepada 39% pada 2020. Ini lebih 5 kali ganda! Syabas!
+b.	Kemajuan dalam pendidikan pula telah membuka peluang-peluang kerjaya yang lebih baik. Peratusan pekerja PMET Melayu bertambah, daripada 7.2% pada 1980 kepada 39% pada 2020. Ini lebih 5 kali ganda! Syabas! <br>
 
 Namun, kita tidak boleh berpuas hati dan berhenti setakat ini, lagi-lagi dalam menghadapi persaingan global yang lebih sengit dan perubahan teknologi yang lebih pesat. SMS Zaqy akan menjelaskan usaha-usaha MENDAKI dalam memberikan sokongan yang menjangkaui bilik darjah, untuk menyediakan pelbagai program yang lebih strategik, demi memenuhi keperluan masyarakat kita sesuai dengan peredaran masa. Usaha-usaha ini akan menitikberatkan budaya pembelajaran sepanjang hayat dalam jiwa masyarakat kita, terutama sekali dengan mempertingkat kemahiran, agar masyarakat kita terus relevan dalam ekonomi baru. 
 
@@ -57,9 +57,9 @@ Census of Population 2020 has shown significant progress in education and househ
 
 In the past few years, we talked about the three ‘C’s that make us a Community of Success – character, competence, and citizenry. This year, we will focus on the development of our competencies, even as we build on our achievements to propel the community towards success. This will be done through three key strategies:
  
-a.	Reinforcing the Network of Care through M³; 
-b.	Partnering the community and industry in building a competent workforce; and 
-c.	Shaping a competent Religious Sector. 
+a.	Reinforcing the Network of Care through M³; <br>
+b.	Partnering the community and industry in building a competent workforce; and <br>
+c.	Shaping a competent Religious Sector. <br>
 
 ### *Reinforcing the Network of Care through M³*
 
@@ -73,9 +73,9 @@ This year, MENDAKI is celebrating its 40th anniversary. Some of us would have re
 
 I am pleased that MENDAKI had applied his advice over the past 40 years. In working closely with its partners, MENDAKI had contributed to the very encouraging progress shown by our community.
 
-a. Over the past 4 decades, the proportion of university graduates within the Malay community increased multiple times – from only 4 graduates in 1980 to almost 110 graduates in 2020, for every 1,000 Malays. 
+a. Over the past 4 decades, the proportion of university graduates within the Malay community increased multiple times – from only 4 graduates in 1980 to almost 110 graduates in 2020, for every 1,000 Malays. <br>
 
-b.	Better education outcomes had also led to better career opportunies. The proportion of Malay PMETs has increased, from 7.2% in 1980 to 39% in 2020. This is more than 5 times! Congratulations!
+b.	Better education outcomes had also led to better career opportunies. The proportion of Malay PMETs has increased, from 7.2% in 1980 to 39% in 2020. This is more than 5 times! Congratulations! <br>
 
 But we cannot be satisfied now and end our journey here, especially when we are faced with stiffer global competition and deep technological changes. SMS Zaqy will elaborate on MENDAKI’s efforts to expand support beyond the classroom to offer more strategic programmes, in fulfilling the evolving needs of our community. These efforts stress the need to imbue a culture of lifelong learning in our community, especially through upskilling, so that we remain relevant in the new economy. 
 
