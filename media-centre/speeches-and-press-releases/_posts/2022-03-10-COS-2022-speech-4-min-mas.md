@@ -35,7 +35,6 @@ Encik Abdul Samad bertanya tentang usaha membantu siswazah pengajian Islam menye
 
 Menjawab pertanyaan Dr Shahira mengenai sokongan yang diberikan siswazah Pengajian Islam yang pulang ke Singapura, fokus utama kami adalah untuk memastikan golongan ini menyumbang kembali kepada sektor keagamaan di Singapura. PCICS melengkapkan kemahiran mereka dalam menyampaikan bimbingan agama yang progresif, sambil mendedahkan mereka kepada kemahiran dan kecekapan kritikal, yang boleh turut diterapkan pada sektor-sektor relevan di luar bidang keagamaan.   
 
-
 Muis bakal menganjurkan Persidangan Antarabangsa Masyarakat Gemilang pada lewat tahun ini. Cik Rahayu Mahzam telah bertanya tentang tujuan utama bagi persidangan ini, dan bagaimana ia akan memberi manfaat kepada masyarakat Islam Singapura. Membina daripada dua seminar yang diadakan tahun lalu, persidangan ini akan menghimpunkan para cendekiawan agama untuk membangunkan gedung-gedung ilmu kritikal yang dapat membantu masyarakat Islam-minoriti hidup dalam masyarakat majmuk. Bertemakan ‘Warganegara Penyumbang, Institusi Dinamik’, ia akan fokus kepada bagaimana nasihat agama yang berhikmah dan bersesuaian dengan konteks, digandingkan pula dengan sokongan institusi, dapat memperkasa masyarakat Islam untuk hidup sebagai warganegara yang dihormati, dan menyumbang kepada pembangunan negara. Peserta daripada pelbagai negara akan diundang untuk bertukar-tukar fikiran antara satu sama lain.
 
 ### **Mempertingkat Laluan Kerjaya bagi Sektor Keagamaan**
@@ -75,9 +74,9 @@ Initiatives such as the RLTD, PCICS and the International Conference on Communit
 
 Chairman, my colleagues and I have spoken on three strategies to strengthen our competencies as a Community of Success. Underpinning these strategies are strong and resilient families, who provide a conducive environment for children to grow and achieve their fullest potential. Here, our community partners and institutions play an important role. Our Naib Kadis, for example, are key partners in supporting the work of building strong and resilient Muslim families, especially through the Bersamamu programme. In this regard, the M³ agencies will also partner MSF to commemorate the Year of Celebrating SG Families this year. 
 
-21.	Through these efforts, we will keep social mobility alive in Singapore, so that every Singaporean has a fair chance to succeed in life, and contribute back to the society. In this regard, we will journey with our community every step of the way to propel them towards success.   
+Through these efforts, we will keep social mobility alive in Singapore, so that every Singaporean has a fair chance to succeed in life, and contribute back to the society. In this regard, we will journey with our community every step of the way to propel them towards success.   
 
-22.	Thank you.
+Thank you.
 
 English Translation <br>
 
@@ -97,7 +96,7 @@ b.	Second, we will enhance the career pathways for the religious sector, to ensu
 
 c.	Third, we want to mobilise community resources to sustain the development of our religious sector. 
 
-Developing critical bodies of knowledge for the Muslim community
+## **Developing critical bodies of knowledge for the Muslim community**
 
 The COVID-19 pandemic has illustrated the need for our asatizah to be prepared to confront complex issues in a contemporary society and unprecedented global challenges, like the COVID-19 pandemic. In addition to acquiring deep knowledge of our religious traditions and having a strong character, our asatizah must possess the competency to contextualise the religious teachings to Singapore. This requires the asatizah to form a strong connection with our multicultural community, in order to better understand our experiences living in a diverse country. This is especially so as our experience as a Muslim-minority community is different from those of Muslim-majority societies. 
 
@@ -107,10 +106,9 @@ Mr Abdul Samad asked about efforts to help returning Islamic Studies graduates c
 
 To address Dr Shahira’s query on support given to returning students with Islamic Studies degrees, our key focus is to ensure that our returning graduates contribute back to the Muslim religious sector in Singapore. The PCICS equips them with the knowledge to provide progressive religious guidance, while exposing them to critical skills and competencies that can also be applied in relevant non-religious sectors.   
 
-
 Muis will be organising the International Conference on Communities of Success later this year. Mdm Rahayu Mahzam asked about the key objectives of this conference, and how it will benefit the Singapore Muslim community. Building on the two pre-conference seminars held last year, the upcoming conference will bring together religious scholars to develop critical bodies of knowledge that can guide Muslim-minority communities in multicultural societies. With the theme ‘Contributing Citizens, Dynamic Institutions’, it will focus on how enlightened and contextualised religious guidance, coupled with institutional support, can empower Muslims to live as dignified and contributing citizens. Delegates from various nations will be invited to share and learn from one another.
 
-Enhancing the career pathways for the religious sector
+## **Enhancing the career pathways for the religious sector**
 
 For those who have done well in the madrasahs, I hope more of you will go into the religious sector, and see the asatizah profession not merely as an employment opportunity, but as a meaningful and attractive calling. This is my hope for students who had done well in the ‘A’ Levels, the IB Diploma, as well as the Aliyah programmes. They are excellent candidates for the next generation of our future asatizah. We will continue to support these students in the education, including providing prestigious scholarships for talented ones to further their studies. This is how we can ensure a strong leadership renewal in our religious institutions. 
 
