@@ -7,14 +7,15 @@ permalink: /media-centre/speeches-and-press-releases/cos-2022-speeech-3
 
 ### **Partnering the Community and Industry in Building a Competent Workforce**
 
-Introduction
+## **Introduction**
+
 Mr Chairman, Singapore’s progress is built upon a shared purpose and a sense of togetherness. The Malay/Muslim community aspires to be a Community of Success - to contribute to the growth of our nation, and create opportunities to uplift our families and those around us.
 
 Skilling, reskilling and upskilling are vital to succeed in the future, especially in this economy as we look beyond COVID-19. The Government, in partnership with the industry and community, is ramping up its efforts to better position our Malay/Muslim community for employment in growth sectors while inculcating life-long learning into our DNA. 
 
-a.	We will focus on upstream support by strengthening mentoring and early career guidance for youth in schools. This year, we have several new initiatives for our students in the ITE.
+a.	We will focus on upstream support by strengthening mentoring and early career guidance for youth in schools. This year, we have several new initiatives for our students in the ITE. <br>
 
-b.	We will also enhance scholarship opportunities and financial support to help students pursue their aspirations.
+b.	We will also enhance scholarship opportunities and financial support to help students pursue their aspirations. <br>
 
 c.	For those that have entered the workforce, we will partner with industries to provide upskilling and direct emplacement opportunities for workers especially in growth sectors.
 
@@ -95,7 +96,7 @@ i.	Thus, to complement the mentoring programmes, MENDAKI will deploy Care Adviso
 
 ii.	Care Advisors can also be found at MENDAKI’s satellite centres to serve the Malay/Muslim community at large. 
 
-Enhancing scholarship opportunities and financial support for students
+## **Enhancing scholarship opportunities and financial support for students**
 
 Mr Chairman, over the years, MENDAKI has provided bursaries, study loans and subsidies so that financial circumstances do not impede our students from achieving success. 
 
@@ -130,15 +131,15 @@ c.	I hope this targeted approach will be the way forward for MENDAKI to better s
 
 ### **Upskilling and direct emplacement opportunities for workers**
 
-12.	I have explained how we intend to prepare our youth for the future. Now, let me elaborate on our plans to provide more direct and targeted support to emplace our Malay/Muslim workers into growth industries.
+I have explained how we intend to prepare our youth for the future. Now, let me elaborate on our plans to provide more direct and targeted support to emplace our Malay/Muslim workers into growth industries.
 
-13.	Mr Chairman, in Malay, please. 
+Mr Chairman, in Malay, please. 
 
-14.	Tuan pengerusi, saya telah membentangkan bagaimana kami akan mengukuhkan sokongan pementoran dan bimbingan kerjaya dari awal untuk membantu golongan belia kita mencapai cita-cita mereka. 
+Tuan pengerusi, saya telah membentangkan bagaimana kami akan mengukuhkan sokongan pementoran dan bimbingan kerjaya dari awal untuk membantu golongan belia kita mencapai cita-cita mereka. 
 
 a.	MENDAKI juga akan menyediakan lebih banyak sokongan kewangan dan biasiswa supaya para pelajar dapat meraih peluang untuk terus berjaya. 
 
-15.	Untuk para pekerja pula, kami akan membina kemahiran mereka supaya mereka kekal relevan untuk berkhidmat di dalam industri baru atau yang sedang berkembang. 
+Untuk para pekerja pula, kami akan membina kemahiran mereka supaya mereka kekal relevan untuk berkhidmat di dalam industri baru atau yang sedang berkembang. 
 
 a.	Tahun lalu, MENDAKI mengadakan 15 pameran kerjaya dengan penyertaan lebih 700 peserta. Dari jumlah ini, lebih 300 berjaya mendapat pekerjaan. 
 
