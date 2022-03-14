@@ -61,13 +61,13 @@ a.	Reinforcing the Network of Care through M³; <br>
 b.	Partnering the community and industry in building a competent workforce; and <br>
 c.	Shaping a competent Religious Sector. <br>
 
-### *Reinforcing the Network of Care through M³*
+### **Reinforcing the Network of Care through M³**
 
 While our economic progress has benefited many Singaporeans, it has also given rise to new challenges, particularly towards the vulnerable. Rising social inequality has become a common concern for many advanced economies. Such situations make it easy for new fault-lines to emerge between different segments of society, and threaten our social cohesion. In Singapore, we can avoid such situation if we continue to ensure that social mobility remains alive.  
 
 Therefore, for the vulnerable segments of our community, the Government and the community must continue to work hand-in-hand to ensure that they are well-supported through the different life milestones. For example, the Government has rolled out several initiatives, such as support measures for early childhood education to better prepare our young for the future – this is the best way to ensure social mobility. For our community, these have been further amplified with community initiatives by the M³ agencies – namely Muis, MENDAKI and MESRA – as well as those undertaken by other Malay/Muslim organisations, to further amplify support those in need. Minister Maliki will share our plans on how M³ reinforces our network of care for our community and families, as we empower this segment of our community to achieve their aspirations. 
 
-### *Strengthening our Workforce Competencies*
+### **Strengthening our Workforce Competencies**
 
 This year, MENDAKI is celebrating its 40th anniversary. Some of us would have remembered then-PM Lee Kuan Yew’s speech at the opening of the Mendaki Congress at the Singapore Conference Hall in 1982, where he called for MENDAKI to raise the educational levels and thus the living standards of the community. 
 
