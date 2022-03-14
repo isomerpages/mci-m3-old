@@ -79,7 +79,7 @@ Chairman, my colleagues and I have spoken on three strategies to strengthen our 
 
 22.	Thank you.
 
-English Translation
+English Translation <br>
 
 ### **Introduction**
 
