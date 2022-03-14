@@ -184,8 +184,8 @@ c.	Let us work together as one - keeping the community at the heart of what we a
 
 d.	This continuous cycle of support would go a long way in strengthening the competencies of our Community of Success.
 
-e.	Thank you. <br>
- 
+e.	Thank you.
+<br> 
 English Translation
 
 I have explained how we intend to strengthen upstream mentoring and career guidance efforts to help our youth achieve their dreams. 
