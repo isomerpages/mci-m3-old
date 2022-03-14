@@ -17,7 +17,7 @@ Banci Penduduk 2020 telah menunjukkan kemajuan yang sangat ketara dalam tahap pe
 
 Pada tahun-tahun yang lalu,  saya teleh membentangkan tiga ciri yang membentuk jati diri sebuah Masyarakat Gemilang, iaitu keperibadian, kemahiran dan kewarganegaraan. Tahun ini, saya akan menekankan pula langkah-langkah untuk mempertingkatkan kemahiran masyarakat kita, sambil melayari arus kemajuan yang telah diraih, untuk terus berjaya. Ini akan dilakukan melalui tiga strategi: 
  
-a.	Pertama, mengukuhkan rangkaian sokongan untuk mendampingi masyarakat melalui M3; 
+a.	Pertama, mengukuhkan rangkaian sokongan untuk mendampingi masyarakat melalui M³; 
 b.	Kedua, membangunkan sebuah tenaga kerja yang berkemahiran menerusi kerjasama dengan masyarakat dan industri; dan 
 c.	Ketiga, membentuk sektor keagamaan yang berwibawa. 
 
@@ -57,7 +57,7 @@ Census of Population 2020 has shown significant progress in education and househ
 
 In the past few years, we talked about the three ‘C’s that make us a Community of Success – character, competence, and citizenry. This year, we will focus on the development of our competencies, even as we build on our achievements to propel the community towards success. This will be done through three key strategies:
  
-a.	Reinforcing the Network of Care through M3; 
+a.	Reinforcing the Network of Care through M³; 
 b.	Partnering the community and industry in building a competent workforce; and 
 c.	Shaping a competent Religious Sector. 
 
