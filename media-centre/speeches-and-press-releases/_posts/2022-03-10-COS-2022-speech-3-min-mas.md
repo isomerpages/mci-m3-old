@@ -7,7 +7,7 @@ permalink: /media-centre/speeches-and-press-releases/cos-2022-speeech-3
 
 ### **Partnering the Community and Industry in Building a Competent Workforce**
 
-## **Introduction**
+### **Introduction**
 
 Mr Chairman, Singapore’s progress is built upon a shared purpose and a sense of togetherness. The Malay/Muslim community aspires to be a Community of Success - to contribute to the growth of our nation, and create opportunities to uplift our families and those around us.
 
@@ -96,7 +96,7 @@ i.	Thus, to complement the mentoring programmes, MENDAKI will deploy Care Adviso
 
 ii.	Care Advisors can also be found at MENDAKI’s satellite centres to serve the Malay/Muslim community at large. 
 
-## **Enhancing scholarship opportunities and financial support for students**
+### **Enhancing scholarship opportunities and financial support for students**
 
 Mr Chairman, over the years, MENDAKI has provided bursaries, study loans and subsidies so that financial circumstances do not impede our students from achieving success. 
 
