@@ -96,7 +96,7 @@ b.	Second, we will enhance the career pathways for the religious sector, to ensu
 
 c.	Third, we want to mobilise community resources to sustain the development of our religious sector. 
 
-## **Developing critical bodies of knowledge for the Muslim community**
+### **Developing critical bodies of knowledge for the Muslim community**
 
 The COVID-19 pandemic has illustrated the need for our asatizah to be prepared to confront complex issues in a contemporary society and unprecedented global challenges, like the COVID-19 pandemic. In addition to acquiring deep knowledge of our religious traditions and having a strong character, our asatizah must possess the competency to contextualise the religious teachings to Singapore. This requires the asatizah to form a strong connection with our multicultural community, in order to better understand our experiences living in a diverse country. This is especially so as our experience as a Muslim-minority community is different from those of Muslim-majority societies. 
 
@@ -108,7 +108,7 @@ To address Dr Shahira’s query on support given to returning students with Isla
 
 Muis will be organising the International Conference on Communities of Success later this year. Mdm Rahayu Mahzam asked about the key objectives of this conference, and how it will benefit the Singapore Muslim community. Building on the two pre-conference seminars held last year, the upcoming conference will bring together religious scholars to develop critical bodies of knowledge that can guide Muslim-minority communities in multicultural societies. With the theme ‘Contributing Citizens, Dynamic Institutions’, it will focus on how enlightened and contextualised religious guidance, coupled with institutional support, can empower Muslims to live as dignified and contributing citizens. Delegates from various nations will be invited to share and learn from one another.
 
-## **Enhancing the career pathways for the religious sector**
+### **Enhancing the career pathways for the religious sector**
 
 For those who have done well in the madrasahs, I hope more of you will go into the religious sector, and see the asatizah profession not merely as an employment opportunity, but as a meaningful and attractive calling. This is my hope for students who had done well in the ‘A’ Levels, the IB Diploma, as well as the Aliyah programmes. They are excellent candidates for the next generation of our future asatizah. We will continue to support these students in the education, including providing prestigious scholarships for talented ones to further their studies. This is how we can ensure a strong leadership renewal in our religious institutions. 
 
