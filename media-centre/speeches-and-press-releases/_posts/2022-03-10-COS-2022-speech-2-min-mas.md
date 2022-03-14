@@ -17,9 +17,9 @@ The Census 2020 found that home ownership in the Malay community remained high a
 
 As a community, we are determined to uplift the vulnerable families, especially those with young children, to secure a brighter future. We set up the Project Dian@M³ last year to support families in public rental flats to achieve greater social mobility. We will reinforce our network of care for the community through M³ in three ways: 
 
-a.	First, upstream – we intend and will invest in our children’s early education early for a strong foundation in life for them; 
-b.	Second, we will provide comprehensive support - we empower families to achieve their aspirations to be home owners; and
-c.	Third, we will galvanize resources - we enhance community capabilities to strengthen support for families.
+a.	First, upstream – we intend and will invest in our children’s early education early for a strong foundation in life for them; <br>
+b.	Second, we will provide comprehensive support - we empower families to achieve their aspirations to be home owners; and <br>
+c.	Third, we will galvanize resources - we enhance community capabilities to strengthen support for families. <br>
 
 Mr Chairman, in Malay please. 
 
@@ -27,11 +27,11 @@ Mr Chairman, in Malay please.
 
 Tuan Pengerusi, izinkan saya berkongsi beberapa cabaran yang dihadapi keluarga yang menetap di flat-flat sewa kita. Baru-baru ini, saya bertemu dengan Ahmad, bukan namanya , bersama dengan isterinya. Mereka tinggal di flat sewa dua bilik. Mereka berumur 26 tahun dan ada 3 anak kecil berumur antara 2 dan 6 tahun. Ahmad bekerja sebagai penghantar makanan. Isterinya tidak bekerja. Keluarga muda ini dihimpit masalah kewangan dan cabaran kehidupan. Mereka membesar tanpa persekitaran keluarga yang stabil dan tiada bimbingan daripada ahli keluarga mereka yang lain. Ibu bapa Ahmad dan adik-beradiknya dibelenggu perceraian. Mereka juga tinggal di flat-flat sewa. Isteri Ahmad pula kehilangan ibunya apabila beliau berusia dua tahun, sementara bapanya kurang peduli tentang dirinya. Dalam usia muda ini, mereka terpaksa membesarkan 3 orang anak, tanpa bimbingan orang tua mereka. 
 
-Kisah Ahmad sekeluarga adalah cerminan kisah keluarga-keluarga muda di flat sewa kita. Mereka digelar ‘first timer households’ – atau keluarga yang belum pernah membeli atau memiliki flat sendiri. Tetapi mereka berpotensi untuk berbuat demikian dan pastinya, berpotensi berjaya dalam kehidupan. Mereka berasa tertekan dengan kehidupan kerana kurang kemahiran dan rangkaian sosial yang menyokong mereka. Kita boleh memperkukuhkan rangkaian sokongan untuk keluarga-keluarga ini dan merujuk mereka kepada sumber-sumberdan bantuan-bantuan yang sedia ada.
+Kisah Ahmad sekeluarga adalah cerminan kisah keluarga-keluarga muda di flat sewa kita. Mereka digelar *‘first timer households’* – atau keluarga yang belum pernah membeli atau memiliki flat sendiri. Tetapi mereka berpotensi untuk berbuat demikian dan pastinya, berpotensi berjaya dalam kehidupan. Mereka berasa tertekan dengan kehidupan kerana kurang kemahiran dan rangkaian sosial yang menyokong mereka. Kita boleh memperkukuhkan rangkaian sokongan untuk keluarga-keluarga ini dan merujuk mereka kepada sumber-sumberdan bantuan-bantuan yang sedia ada.
 
 Golongan inilah yang akan menjadi tumpuan kami. Kami akan mengambil pendekatan “upstream” dalam sokongan kami kepada golongan ini. Pertama, kita perlu menstabilkan dan meningkatkan pendapatan mereka. Kini, di dalam kalangan keluarga kali pertama atau first timers households, di flat sewa yang mempunyai anak kecil, lebih 90 peratus mempunyai seorang saja pencari nafkah atau tiada langsung. Sekitar satu per tiga merupakan keluarga ibu-bapa tunggal, manakala yang lain adalah pasangan suami isteri. Kami akan membantu mereka mengatasi apa jua hambatan yang mereka hadapi – termasuk membantu mereka mempertingkatkan kemahiran melalui latihan dan menaikkan taraf, serta menangani isu penjagaan anak-anak mereka. 
 
-Menerusi pendekatan upstream ini, kami akan menumpukan perhatian kepada anak-anak mereka. Terdapat sekitar 2,300 keluarga first timers Melayu di flat sewa dengan sekurang-kurangnya seorang anak yang berusia 6 tahun ke bawah. Kesemuanya, terdapat 3,800 kanak-kanak yang berusia 6 tahun ke bawah di kalangan keluarga-keluarga ini. Perangkaan menunjukan 60 peratus diantara keluarga ini mempunyai anak berusia 3 tahun ke bawah. 
+Menerusi pendekatan *upstream* ini, kami akan menumpukan perhatian kepada anak-anak mereka. Terdapat sekitar 2,300 keluarga first timers Melayu di flat sewa dengan sekurang-kurangnya seorang anak yang berusia 6 tahun ke bawah. Kesemuanya, terdapat 3,800 kanak-kanak yang berusia 6 tahun ke bawah di kalangan keluarga-keluarga ini. Perangkaan menunjukan 60 peratus diantara keluarga ini mempunyai anak berusia 3 tahun ke bawah. 
 
 Peringkat awal kanak-kanak amatlah penting demi membina asas yang kukuh. Bukan setakat persiapan akademik, malah juga perkembangan fizikal, mental, dan sosial. Bak kata pepatah, hendak melentur buluh biar dari rebungnya. Dulu, kebanyakan kanak-kanak mula bersekolah dari darjah satu, kerana prasekolah tidak dianggap suatu yang serius. Malah digelar “sekolah makan” dan tidak dihadiri ramai. Kini, hampir 9 daripada 10 kanak-kanak di Singapura sudahpun masuk prasekolah apabila mereka berusia 4 tahun. 
 
@@ -48,7 +48,7 @@ Encik Zhulkarnain bertanya tentang keberkesanan KMM dan KSS. KMM telah berjaya m
 MENDAKI juga akan mengambil langkah untuk mengukuhkan sokongan bagi pelajar dalam mata pelajaran Matematik di peringkat awal sekolah rendah, dan bukan hanya di peringkat darjah enam sahaja yang berlaku ketika ini. Bagi kanak-kanak dari darjah satu sehingga darjah tiga yang dikenalpasti memerlukan sokongan tambahan, MENDAKI akan mengerahkan pembimbing ke rumah mereka untuk mengajar Matematik kepada mereka secara satu demi satu. . Ini bermakna pendekatan yang lebih intensif and memerlukan sumber yang lebih tinggi. Kami bersedia untuk mengagihkan sumber yang diperlukan. Kami ingin para pembimbing memberi sokongan khusus kepada kanak-kanak ini mengikuti rentak pembelajaran mereka; kami akur bahawa setiap insan mempunyai kekuatan masing-masing. Kami yakin, kehadiran pembimbing ini akan memberi inspirasi dan memperkasa ibu bapa juga supaya lebih prihatin dengan pendidikan anak-anak. 
 
 
-Langkah-langkah upstream ini, mungkin kecil tetapi amat penting bagi membangunkan kemahiran anak-anak di peringkat awal dan meningkatkan keyakinan diri serta daya tahan mereka. Pada jangka masa panjang, usaha-usaha dalam pendidikan awal anak-anak akan mempertingkatkan mobiliti sosial bagi keluarga-keluarga ini, generasi demi generasi.  
+Langkah-langkah *upstream* ini, mungkin kecil tetapi amat penting bagi membangunkan kemahiran anak-anak di peringkat awal dan meningkatkan keyakinan diri serta daya tahan mereka. Pada jangka masa panjang, usaha-usaha dalam pendidikan awal anak-anak akan mempertingkatkan mobiliti sosial bagi keluarga-keluarga ini, generasi demi generasi.  
 
 ### **Memperkasa Keluarga untuk Mencapai Impian Mereka**
 
