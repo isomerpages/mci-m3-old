@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Committee Of Supply Debates 2022 Speeech By Senior Minister Of State For Manpower And Defencee Zaqy Mohamad On 10 March 2022
+title:  Committee Of Supply Debates 2022 Speech By Senior Minister Of State For Manpower And Defencee Zaqy Mohamad On 10 March 2022
 date:   2022-03-10
 permalink: /media-centre/speeches-and-press-releases/cos-2022-speeech-3
 ---
