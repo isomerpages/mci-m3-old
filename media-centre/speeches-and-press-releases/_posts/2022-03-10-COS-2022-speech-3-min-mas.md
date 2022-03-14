@@ -184,7 +184,7 @@ c.	Let us work together as one - keeping the community at the heart of what we a
 
 d.	This continuous cycle of support would go a long way in strengthening the competencies of our Community of Success.
 
-e.	Thank you.
+e.	Thank you. <br>
  
 English Translation
 
