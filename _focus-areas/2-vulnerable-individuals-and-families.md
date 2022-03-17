@@ -55,6 +55,8 @@ MESRA also offers SHIOK Series courses to ex-offenders and their family members,
 
 For more information, click [here](https://msha.ke/fitrahsg).
 
+You can also click <a href="/images/PDF/MMO_Network_Directory_of_Programmes_and Services_840KB.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to find out more on other programmes and services offered in assisting ex-offenders and their families.
+
 <hr>
 
 ###### *<sup>1</sup>The word “fitrah” in Arabic and Malay refers to a state of purity and innocence, the original form of all human beings.*
