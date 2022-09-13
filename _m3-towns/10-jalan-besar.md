@@ -6,7 +6,7 @@ breadcrumb: M³@Jalan Besar
 collection_name: m3-towns
 ---
 
-![M³@Jalan Besar](/images/m3-jalan-besar.png)
+![M³@Jalan Besar](/images/PHOTO-2022-09-05-16-11-53.jpg)
 
 M³@Jalan Besar believes that the community needs to be progressive as they confront the challenges, changes, and diversity in our society. This will ensure a resilient and adaptive attitude towards their goals in life. It is important to inculcate an inclusive and contributive mindset in order to be a significant part of our social ethos and identity in Singapore.
 
