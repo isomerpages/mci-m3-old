@@ -14,6 +14,8 @@ M³@Jurong’s hashtag #kitadisini reminds the community that it is here to assi
 
 Its vibrant lineup of programmes includes the KelasMateMatika (KMM)@Taman Jurong to strengthen the academic readiness of families with pre-school children. The success of this project, which was first piloted at Taman Jurong, has since been replicated at other M³@Towns. 
 
+M³@Jurong aims to build a strong network of partners and outreach programmes to empower and uplift youth, engage vulnerable and low income families and create opportunities for employment and employability for the Malay/Muslim community in Jurong. With those goals in mind, M³@Jurong works closely with PA MESRA, MUIS, MENDAKI, community leaders, and volunteers to create programmes, workshops and activities that we hope will benefit these residents.
+
 Follow M³@Jurong on [Facebook](https://www.facebook.com/m3atjurong/) , [Instagram](https://www.instagram.com/m3atjurong/) and [Telegram](https://t.me/m3atjurong) !
 
 <table class="table-h">
@@ -44,6 +46,7 @@ Follow M³@Jurong on [Facebook](https://www.facebook.com/m3atjurong/) , [Instagr
 <li>Baharudin Bin Said</li>
 <li>Elna Binte Hussin</li>
 <li>Zailani Bin Asral Mohamed</li>
+ <li>Dr Faizah Zakariah</li>
     </ul>
     </td>
   </tr>
