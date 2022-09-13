@@ -21,41 +21,24 @@ Together with representatives from MUIS and MENDAKI, M³@Jalan Besar strives to 
   <tr>
   <td>
     <ul>
-      <li>Chairperson: Mohamed Shah Reza</li>
-      <li>Johari B Mustafa</li>
+      <li>Chairperson: Didicazli Bin Cindy Ismail </li>
 <li>Adnan Bin Esa</li>
-<li>Zainudeen B Dalip</li>
-<li>Ma'il Bin Kanchil, PBM</li>
-<li>Redzuan Bin Ismail</li>
-<li>Juwanda Bin Muhd Rohani</li>
-<li>Mohamed Tarmizy Bin Sa'aban</li>
-<li>Hj Abdul Salim Ahmed Ibrahim </li>
-<li>Haji M.Y. Mohamed Rafeeq</li>
-<li>Haji Paiman Supangat</li>
-<li>Haji Johari Bin Samsudin</li>
-<li>Dr Thowfique Ibrahim</li>
-<li>Saifulbahri Rasno</li>
-<li>Ustaz Abdul Salam</li>
-<li>Aydarus Alhabshi</li>
-<li>Abdul Jalil Bin Anwari</li>
-<li>Moez Nomanbhoy</li>
-<li>Khairul Anwar Bin Mohamed Aznan</li>
-<li>Liyana Rosli Asmara</li>
-<li>Gary Haris</li>
-<li>Zulazmie Ahmad Salleh</li>
-<li>Nazhath Faheema</li>
-<li>Nursyazwani Binte Muhammad Ya’kob</li>
-<li>Muhd Khairul Anwar Bin Khalil</li>
-<li>Farehan Hussein</li>
-<li>Suriane Mustajab</li>
-<li>Didicazli Bin Cindy Ismail</li>
-<li>Husainah Abdul Rahman</li>
-<li>Faris Alfiq</li>
-<li>Muhammad Fauzy Ramli</li>
-<li>Mohamed Nurhazwan Bin Mohamed Tahir</li>
-<li>Nor Lastrina Hamid</li>
-<li>Khairilanwar Baharudin</li>
 <li>Faisal Bin Mustaffa</li>
-<li>Mohamed Taufiq Bin Razali</li>
+<li>Farehan Hussein</li>
+<li>Faris Alfiq</li>
+<li>Gary Haris</li>
+<li>Ismie Eideal Shastrie</li>
 <li>Khairiana Zainal Abidin</li>
-      
+<li>Khairul Anwar Bin Khalil</li>
+<li> Liyana Rosli Asmara</li>
+ <li>Ma’il Bin Kanchil, PBM</li>
+<li> Mohamed Nurhazwan Bin Mohamed Tahir</li>
+<li> Mohamed Tarmizy Bin Sa’aban</li>
+<li> Mohamed Taufiq Bin Razali</li>
+<li> Nazhath Faheema</li>
+<li> Nor Lastrina Hamid </li>
+<li> Nursyazwani Binte Muhammad Ya’kob</li>
+<li> Redzuan Bin Ismail </li>
+<li>Suriane Mustajab</li>
+<li> Zainudeen Bin Dalip</li>
+ <li>Zulazmie Ahmad Salleh</li>
