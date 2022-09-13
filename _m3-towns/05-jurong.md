@@ -14,7 +14,7 @@ M³@Jurong’s hashtag #kitadisini reminds the community that it is here to assi
 
 Its vibrant lineup of programmes includes the KelasMateMatika (KMM)@Taman Jurong to strengthen the academic readiness of families with pre-school children. The success of this project, which was first piloted at Taman Jurong, has since been replicated at other M³@Towns. 
 
-Follow M³@Jurong on [Facebook](https://www.facebook.com/m3atjurong/) and [Instagram](https://www.instagram.com/m3atjurong/)!
+Follow M³@Jurong on [Facebook](https://www.facebook.com/m3atjurong/) , [Instagram](https://www.instagram.com/m3atjurong/) and [Telegram](https://t.me/m3atjurong) !
 
 <table class="table-h">
   <tr>
@@ -24,24 +24,26 @@ Follow M³@Jurong on [Facebook](https://www.facebook.com/m3atjurong/) and [Insta
   <td>
     <ul>
       <li>Chairperson: Muhd Faizal Othman, PBM</li>
-      <li>Sujimy Mohamad</li>
-<li>Haryati Surana</li>
-<li>Hariff Hambali, PBM</li>
-<li>Shahrin Bin Abdol Salam, PBM</li>
-<li>Mohamed Fazal Bin Abdul Hamid</li>
-<li>Murshidah Hassan</li>
-<li>Muhd Danial Hakim Rosli</li>
-<li>Dr Muhd Rahizan Zainuldin</li>
-<li>Abdul Karim s/o Shahul Hameed</li>
-<li>Dr Muhd Iqbal Abdullah</li>
-<li>Haron Sumon</li>
-<li>Muhd Razali Puasa</li>
-<li>Asyifah Rashid</li>
-<li>Iskandar Shah Abu Bakar</li>
-<li>Ratinah Rawi, PBM</li>
+      <li>Vice-Chairperson: Hariff Hambali, PBM</li>
+<li>Vice-Chairperson: Haryati Surana</li>
+<li>Vice-Chairperson: Syahrizan Mansor</li>
+<li>Dr Asyifah Rashid</li>
+<li>Abdul Karim Shahul Hameed, PBM</li>
+<li>Ratinah Rawi Rawi, PBM</li>
 <li>Zulkifli Shualman</li>
-<li>Syahrizan Mansor</li>
-<li>Dr Shamsuri Juhari</li>
+<li>Nur Azarudin Putra Mohamed Jufri</li>
+<li>Iskandar Shah Bin Abu Bakar</li>
+<li>Dr Muhd Rahizan Zainuldin</li>
+<li>Dr Mohamad Shamsuri Juhari</li>
+<li>Haron Sumon</li>
+<li>Shahrin bin Abdol Salam, PBM</li>
+<li>Mohamed Fazal Bin Abd Hamid</li>
+<li>Murshidah Binte Hassan</li>
+<li>Husen Bin Arshad</li>
+<li>Widawati Binte Natarawy</li>
+<li>Baharudin Bin Said</li>
+<li>Elna Binte Hussin</li>
+<li>Zailani Bin Asral Mohamed</li>
     </ul>
     </td>
   </tr>
