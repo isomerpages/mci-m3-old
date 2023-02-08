@@ -32,3 +32,6 @@ collection_name: focus-areas
 </a>
 </div>
 
+  <a href="/images/PDF/Media Factsheet-M³YEI22asof13 Jan.pdf" class="project-link no-pdf-icon" target="_blank">
+  <img src="/images/m3-infographic-eng-thumb.jpg" alt="M3 Infographic in English">M³ Factsheet
+</a>
