@@ -52,6 +52,9 @@
     
 - title: Media Centre
   url: /media-centre/
+  sub-links:
+  - title: Speeches and Press Releases
+    url: /speeches-and-press-releases/
 - title: Our Community
   url: /be-a-volunteer/
   sub-links:
