@@ -2,7 +2,7 @@
 layout: post
 title:  Speech by Mr Masagos Zulkifli, Minister-in-charge of Muslim Affairs & Minister for the Environment and Water Resources at the Committee of Supply Debate on 08 March 2019
 date:   2019-03-08
-permalink: /media-centre/speeches-and-press-releases/circles-of-excellence-for-community-success
+permalink: /media-centre/speeches-and-press-releases/circles-of-excellence-for-community-success/
 ---
 
 ### **Circles of excellence for a community of success**

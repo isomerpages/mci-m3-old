@@ -2,7 +2,7 @@
 layout: post
 title:  Speech By Minister For Social And Family Development, Second Minister For Health And Minister-In-Charge Of Muslim Affairs Masagos Zulkifli For MUIS’ Online International Seminar On Muslim Communities Of Success In The Context Of Secular Societies On Saturday, 6 November 2021
 date:   2021-11-06
-permalink: /media-centre/speeches-and-press-releases/muis-international-seminar-nov-2021
+permalink: /media-centre/speeches-and-press-releases/muis-international-seminar-nov-2021/
 ---
 
 Assalamualaikum Warahmatullahi Wabarakatuh.

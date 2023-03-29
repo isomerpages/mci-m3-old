@@ -2,7 +2,7 @@
 layout: post
 title: "Journey of #InspirasiSG"
 date:   2019-08-22
-permalink: /media-centre/videos/journey-of-inspirasisg
+permalink: /media-centre/videos/journey-of-inspirasisg/
 breadcrumb: "Journey of #InspirasiSG"
 ---
 
