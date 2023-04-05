@@ -2,7 +2,7 @@
 layout: post
 title:  Minister's Virtual Hari Raya Get-Together Speech By Minister For Social And Family Development, Second Minister for Health and Minister-In-Charge Of Muslim Affairs Mr Masagos Zulkifli On 21 May 2021
 date:   2021-05-21
-permalink: /media-centre/speeches-and-press-releases/virtual-hari-raya-get-together-2021
+permalink: /media-centre/speeches-and-press-releases/virtual-hari-raya-get-together-2021/
 ---
 
 ### **Raikan Kejayaan, Kukuhkan Perpaduan (Celebrating Success, Strengthening Unity)**

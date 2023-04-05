@@ -2,7 +2,7 @@
 layout: post
 title:  Marriage Counselling Programme for Malay/Muslim Inmates and Their Families
 date:   2019-06-21
-permalink: /media-centre/speeches-and-press-releases/marriage-counselling-for-malay-muslim-inmates-and-families
+permalink: /media-centre/speeches-and-press-releases/marriage-counselling-for-malay-muslim-inmates-and-families/
 ---
 
 MEDIA FACTSHEET <br> 

@@ -9,7 +9,7 @@ collection_name: useful-links
 ![M3@WGS](/images/m3-wgs.jpg)
 <span class="caption">Image Source: Islamic Religious Council Singapore (Muis) Facebook Page</span>
 
-Located at Wisma Geylang Serai (Level 2), M<sup>3</sup>@WGS is a one-stop centre for integrated last-mile service delivery. Here, members of the Malay/Muslim community can get information on national support programmes and services provided by the three agencies – Muis, MENDAKI and MESRA.
+Located at Wisma Geylang Serai (Level 3), M<sup>3</sup>@WGS is a one-stop centre for integrated last-mile service delivery. Here, members of the Malay/Muslim community can get information on national support programmes and services provided by the three agencies – Muis, MENDAKI and MESRA.
 
 Beyond M<sup>3</sup> agencies, the centre works with Kurnia@WGS, to enhance existing cooperation between Malay/ Muslim Organisations through regular engagements.
 

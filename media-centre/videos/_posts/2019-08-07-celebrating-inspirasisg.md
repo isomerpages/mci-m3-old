@@ -2,7 +2,7 @@
 layout: post
 title: "Celebrating #InspirasiSG"
 date:   2019-08-07
-permalink: /media-centre/videos/celebrating-inspirasisg
+permalink: /media-centre/videos/celebrating-inspirasisg/
 breadcrumb: "Celebrating #InspirasiSG"
 ---
 

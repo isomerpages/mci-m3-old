@@ -2,7 +2,7 @@
 layout: post
 title:  Committee Of Supply Debates 2022 Speech By Minister-In-Charge Of Muslim Affairs, Minister For Social And Family Development, Second Minister For Health Masagos Zulkifli On 10 March 2022
 date:   2022-03-10
-permalink: /media-centre/speeches-and-press-releases/cos-2022-speech-1
+permalink: /media-centre/speeches-and-press-releases/cos-2022-speech-1/
 ---
 
 ### **Propelling Our Community Towards Success**

@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: SGTeguhBersatu Initiatives
-permalink: /sgteguhbersatu/initiatives
+permalink: /sgteguhbersatu/initiatives/
 breadcrumb: SGTeguhBersatu Initiatives
 collection_name: sgteguhbersatu
 ---
