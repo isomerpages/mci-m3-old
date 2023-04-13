@@ -68,7 +68,7 @@ To register as a mentor for #amPowered@MTS, click [here](https://www.tinyurl.com
 
 Similar to #amPowered@MTS, the programme targets secondary school students at the various M³@Towns. Mentoring serves as the first level of intervention to identify students’ needs. Following which, students and their families are bridged to community resources and support network to attend to their last mile service delivery needs, and to equip them with self-reliance. Students will also be connected to national initiatives to enhance  their portfolios and future ready skills.
 
-If you are keen to partner the M³Towns to kickstart a mentoring programme, you may click <a href="/ images/PDF/amPowered_M3Towns Playbook_compressed.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the Playbook and reach out to us at ymo@mendaki.org.sg
+If you are keen to partner the M³Towns to kickstart a mentoring programme, you may click <a href="/images/PDF/amPowered_M3TownsPlaybook_compressed.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the Playbook and reach out to us at ymo@mendaki.org.sg
 
 ### **PEER Community Programme** 
 
