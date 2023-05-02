@@ -1,6 +1,7 @@
 ---
 layout: post
-title: SPEECH BY MINISTER MASAGOS ZULKIFLI 2023 DEBATE ON THE MOTION ON THE ADDRESS OF THANKS FOR THE SPEECH OF THE PRESIDENT  
+title: Speech By Minister Masagos Zulkifli 2023 Debate On The Motion On The Address Of Thanks For The Speech Of The President
+ 
 date:   2023-04-18
 permalink: /media-centre/speeches-and-press-releases/mm-speech-2023-Debate-on-the-Motion-of-the-Address-of-Thanks/
 ---
