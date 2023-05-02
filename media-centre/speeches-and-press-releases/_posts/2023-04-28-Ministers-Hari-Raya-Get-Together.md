@@ -26,11 +26,11 @@ Ladies and gentlemen,<br>
 
 4.	In past speeches, I spoke about the Character and Competency aspects of our community. Tonight, let me share three areas where we can play a role as active citizens, making a positive difference to the lives of those around us. 
 
-a.	First, as individuals, what we should do for ourselves; 
+  a.	First, as individuals, what we should do for ourselves; 
 
-b.	Second, as a community, what we can do to uplift, not just our present generation but also future generations; and
+  b.	Second, as a community, what we can do to uplift, not just our present generation but also future generations; and
 
-c.	Third, through active citizenry, what we can do to contribute meaningfully to build a stronger nation. 
+  c.	Third, through active citizenry, what we can do to contribute meaningfully to build a stronger nation. 
 
 Allow me to continue in Malay. 
 
