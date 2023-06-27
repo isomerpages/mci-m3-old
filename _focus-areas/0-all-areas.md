@@ -1,4 +1,4 @@
----
+ty---
 layout: leftnav-page-content
 title: M³ Focus Areas
 permalink: /focus-areas/all/
@@ -29,6 +29,12 @@ collection_name: focus-areas
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/employment-and-employability/" class="project-link no-pdf-icon">
   <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Employment and Employability
+</a>
+</div>
+
+<div class="focus col is-one-third-desktop is-one-third-tablet">
+<a href="/focus-areas/a-healthy-community-for-all/" class="project-link no-pdf-icon">
+  <img src="/images/NNM(295).JPG" alt="A Healthy Community for all">A Health Community for all
 </a>
 </div>
 
