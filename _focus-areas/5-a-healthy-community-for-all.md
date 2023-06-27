@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: A Healthy Community for all
+title: A Healthy Community for All
 permalink: /focus-areas/a-healthy-community-for-all/
-breadcrumb: A Healthy Community for all
+breadcrumb: A Healthy Community for All
 collection_name: focus-areas
 ---
 
