@@ -34,7 +34,7 @@ collection_name: focus-areas
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/a-healthy-community-for-all/" class="project-link no-pdf-icon">
-  <img src="/images/NNM(295).JPG" alt="A Healthy Community for all">A Healthy Community for all
+  <img src="/images/NNM(295)1.jpg" alt="A Healthy Community for all">A Healthy Community for all
 </a>
 </div>
 
