@@ -1,4 +1,4 @@
-ty---
+---
 layout: leftnav-page-content
 title: M³ Focus Areas
 permalink: /focus-areas/all/
