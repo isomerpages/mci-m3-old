@@ -24,8 +24,7 @@ Follow M³@Woodlands on [Facebook](https://www.facebook.com/M3atWoodlands)!
   <td>
     <ul>
       <li>Chairperson: Dr Noorul Fatha As’art</li>
-      <li>Deputy Chairperson: Edwan Nizar Bin Ahadan</li>
-<li>Deputy Chairperson: Muhammad Harmizan Bin Abdul Hamid</li>
+     <li>Deputy Chairperson: Muhammad Harmizan Bin Abdul Hamid</li>
 <li>Mohamed Shahril Bin Jaffar</li>
 <li>Raja Hamzah Bin Raja Zulkifli, PBM</li>
 <li>Mohamad Saddiq Mohammad Sa’id</li>
@@ -37,13 +36,11 @@ Follow M³@Woodlands on [Facebook](https://www.facebook.com/M3atWoodlands)!
 <li>Edwin Ignatious M</li>
 <li>Saiful Saroni</li>
 <li>Dr Rufaihah Abdul Jalil</li>
-<li>Aina Bte Ibrahim</li>
 <li>Nurul Asy'qah Bte Roslan</li>
 <li>Nurul Aszrifah Bte Roslan</li>
 <li>Fathiah Najwa</li>
 <li>Izuan M Rais</li>
 <li>Abdul Fattah Abdussamad</li>
-<li>Muhd Alawi Ahmad Shamsuddin</li>
 <li>Farah Nadia Bte Jamalludin</li>
 <li>Hazrul Azhar Bin Jamari</li>
 <li>Tengku Nur Nabilah Binte Tengku Ibrahim</li>
@@ -51,8 +48,7 @@ Follow M³@Woodlands on [Facebook](https://www.facebook.com/M3atWoodlands)!
 <li>Lydia Salim</li>
 <li>Nur Fitria Rozlan</li>
 <li>Mazlan Boyamin</li>
-<li>Mohamad Ridhwan Bin Abdul Lazim</li>   
-<li>Shabirin Bin Ariffin</li>
+<li>Mohamad Ridhwan Bin Abdul Lazim</li> 
 <li>Md Nurizham Shah Bin Abdullah</li>
 <li>Abdul Samad Bin Abdul Wahab</li>
 <li>Abdul Rahman Bin Abdul Basir</li>
@@ -62,9 +58,24 @@ Follow M³@Woodlands on [Facebook](https://www.facebook.com/M3atWoodlands)!
 <li>Khairul Ashraf Bin Khairul Anwar</li>
 <li>Zarina Yusof</li>
 <li>Ghazali Bin Ramdan</li>
-
-
-
+<li>Ismawati Binte Khamis</li>
+<li>Deanna Binte Shaharuddin</li>
+<li>Anisah Bte Shafii</li>
+<li>Isman Abdul Rahman </li>
+<li>Khaini Fadhila Binti Mohamed</li>
+<li>Khairon Seow</li>
+<li>Mohammad Fandi Bin Adam</li>
+<li>Mohamed Ismail Abu Bakar</li>
+<li>Mohammed Nizam Bin Ibrahim</li>
+<li>Muhammad Nauwfhal Bin Mazlan</li>
+<li>Muhammad Syahmi</li>
+<li>Nur Hazwani Binte Mohamad Azih</li>
+<li>Shazwani Jumat</li>
+<li>Siti Zubaidah Sain</li>
+<li>Nur Khalisa Binte Mohamed Sani</li>
+<li>Raudhah Nafisah Binte Hakim</li>
+<li>Muhamad Shahril Bin Samri</li>
+      
  </ul>
     </td>
      </tr>
