@@ -36,9 +36,9 @@ Module 3: Practices in GCM (Optional) <br>
 
 ![FA3_GCM_3](/images/FA3_GCM_3.png)
 
-Over 1,100 mentors have been trained and deployed to mentor 3,655 mentees across the six mentoring programmes which the YMO oversees. 
+YMO provides continued support to trained mentors through sharing of resources and Community of Practice (COP) sessions.
 
-To ensure continued support beyond the above training, mentors also have access to the mentor manual and monthly Community of Practice (COP) sessions that encourage deep learning and exchange of best practices amongst seasoned and new mentors. COP targets specific mentor challenges such as rapport building, goal setting, and working well with different personalities amongst other topics. Click [here](https://www.youtube.com/channel/UCIEd7EWcu1apONGn-nsVbnQ) to watch past COP sessions.  
+COP encourages deep learning and exchange of best practices amongst seasoned and new mentors. It also focuses on specific mentor challenges such as rapport building, goal setting, and working well with different personalities amongst other topics. Click [here](https://www.youtube.com/channel/UCIEd7EWcu1apONGn-nsVbnQ) to view past COP sessions.  
 
 ### **Mentor Manual**
 
@@ -66,9 +66,11 @@ To register as a mentor for #amPowered@MTS, click [here](https://www.tinyurl.com
 
 ![FA3_M3Towns](/images/FA3_M3Towns.jpg)
 
-Similar to #amPowered@MTS, the programme targets secondary school students at the various M³@Towns. Mentoring serves as the first level of intervention to identify students’ needs. Following which, students and their families are bridged to community resources and support network to attend to their last mile service delivery needs, and to equip them with self-reliance. Students will also be connected to national initiatives to enhance  their portfolios and future ready skills.
+In collaboration with People's Association (PA), the programme targets higher secondary school students at the various M³@Towns as part of our effort to make mentoring accessible to more youth.
 
-If you are keen to partner the M³Towns to kickstart a mentoring programme, you may click <a href="/images/PDF/amPowered_M3TownsPlaybook_compressed.pdf" class="no-pdf-icon" style="margin-left:0;">here</a> to download the Playbook and reach out to us at ymo@mendaki.org.sg
+In addition to community-building activities, students will participate in community work and learning journey to companies to help them envision their post-secondary pathways. Students will also be exposed to national initiatives to enhance their portfolios and future ready skills.
+
+Drop us an email at ymo@mendaki.org.sg if you have further enquiries or are keen to partner the M³Towns to kickstart a mentoring programme.
 
 ### **PEER Community Programme** 
 
