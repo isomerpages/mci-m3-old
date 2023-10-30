@@ -1,0 +1,89 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/about-m3/
+  sub-links:
+  - title: About M<sup><sup>3</sup></sup>
+    url: /who-we-are/about-m3/
+  - title: Vision and Mission
+    url: /who-we-are/vision-and-mission/
+  - title: About M³ Logo
+    url: /who-we-are/about-logo/
+- title: Focus Areas
+  url: /focus-areas/all/
+  sub-links:
+  - title: Marriage, Parenthood and Early Childhood
+    url: /focus-areas/marriage-parenthood-and-early-childhood/
+  - title: Vulnerable Individuals and Families
+    url: /focus-areas/vulnerable-individuals-and-families/
+  - title: Empowering and Mentoring Our Youths
+    url: /focus-areas/empowering-and-mentoring-our-youths/
+  - title: Employment and Employability
+    url: /focus-areas/employment-and-employability/
+  - title: A Healthy Community for All
+    url: /focus-areas/a-healthy-community-for-all
+- title: M<sup><sup>3</sup></sup>@Towns
+  url: /m3-towns/singapore/
+  sub-links:
+  - title: M<sup><sup>3</sup></sup>@Tampines
+    url: /m3-towns/tampines/
+  - title: M<sup><sup>3</sup></sup>@Pasir Ris-Punggol
+    url: /m3-towns/pasir-ris-punggol/
+  - title: M<sup><sup>3</sup></sup>@Bedok
+    url: /m3-towns/bedok/  
+  - title: M<sup><sup>3</sup></sup>@Chua Chu Kang
+    url: /m3-towns/chua-chu-kang/   
+  - title: M<sup><sup>3</sup></sup>@Jurong
+    url: /m3-towns/jurong/
+  - title: M<sup><sup>3</sup></sup>@Marsiling-Yew Tee
+    url: /m3-towns/marsiling-yew-tee/    
+  - title: M<sup><sup>3</sup></sup>@Nee Soon
+    url: /m3-towns/nee-soon/
+  - title: M<sup><sup>3</sup></sup>@Woodlands
+    url: /m3-towns/woodlands/
+  - title: M<sup><sup>3</sup></sup>@Geylang Serai
+    url: /m3-towns/geylang-serai/
+  - title: M<sup><sup>3</sup></sup>@Jalan Besar
+    url: /m3-towns/jalan-besar/
+  - title: M<sup><sup>3</sup></sup>@Toa Payoh
+    url: /m3-towns/toa-payoh/
+    
+- title: Media Centre
+  url: /media-centre/
+  sub-links:
+  - title: Speeches and Press Releases
+    url: /media-centre/speeches-and-press-releases/
+- title: Our Community
+  url: /be-a-volunteer/
+  sub-links:
+  - title: Be a Volunteer
+    url: /be-a-volunteer/
+  - title: "#InspirasiSG"
+    url: /inspirasisg/
+  - title: "SGTeguhBersatu"
+    url: /sgteguhbersatu/
+  - title: "CiptaSama@M³"
+    url: /ciptasamam3/  
+- title: Useful Links
+  url: /useful-links/m3-at-wgs/
+  sub-links:
+  - title: M<sup><sup>3</sup></sup>@WGS
+    url: /useful-links/m3-at-wgs/
+  - title: Wisma Geylang Serai
+    url: /useful-links/wgs/
+  - title: Kurnia@WGS
+    url: /useful-links/kurnia/
+  - title: Muis
+    url: /useful-links/muis/
+  - title: MENDAKI
+    url: /useful-links/mendaki/
+  - title: MESRA
+    url: /useful-links/mesra/
+  - title: Lawyers@M³
+    url: /useful-links/lawyers-m3/
+- title: Contact Us
+  url: /contact-us/

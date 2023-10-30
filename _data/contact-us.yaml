@@ -1,0 +1,20 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+locations:
+  # HQ Address [REQUIRED]
+  - title: M³@WGS
+    address: Wisma Geylang Serai<br>1 Engku Aman Road, Level 2<br>Singapore 490223
+    find-directions: https://goo.gl/maps/uayi7nzBj6edLAk38
+  
+  # Contact Us
+  # For line: If you have an email, put "(email)" after the actual email
+column:
+  - title: For more information on M³ and our different programmes, you may reach out to<br><br> MUIS<br> https://www.facebook.com/MUIS.SG<br><br> MENDAKI<br> https://www.facebook.com/MENDAKISG<br><br> MESRA<br> https://www.facebook.com/MESRA.PA<br><br>Lawyers@M³<br> https://www.m3lawyers.sg<br>https://www.m3lawyers.sg/looking-for-help
+    
+  
+ 
+    

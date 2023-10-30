@@ -1,0 +1,29 @@
+- title: Marriage Parenthood And Early Childhood
+  category: FOCUS AREA 1 
+  desc: This focus area aims to provide a continuum of care and support for Malay and Muslim couples and their families in the areas of marriage, parenting and early childhood development.
+  img: images/programmes/marriage.jpg
+  bg-color: bg-beeline
+
+- title: Vulnerable Individuals And Families
+  category: FOCUS AREA 2
+  desc: This focus area provides enhanced support services to Muslim incarcerated individuals and ex-offenders, and their families. It looks to improve current incare and after-care services.
+  img: images/programmes/homepage-fp2.jpg
+  bg-color: bg-parkingsg
+
+- title: Empowering And Mentoring Our Youths
+  category: FOCUS AREA 3
+  desc: All our empowerment programmes are anchored on a mentoring-centric model, where the youth can interact and learn from mentors and young professionals.
+  img: images/programmes/empowering.jpg
+  bg-color: bg-singpass
+
+- title: Employment And Employability
+  category: FOCUS AREA 4
+  desc: In light of COVID-19, this focus area aims to provide support to ensure members of our Malay/Muslim community remain employed with the necessary skillsets and access to available opportunities.
+  img: images/programmes/employment.jpg
+  bg-color: bg-singpass
+
+- title: A Healthy Community For All
+  category: FOCUS AREA 5
+  desc: This focus area aims to promote healthy lifestyle within the Malay/Muslim community. This includes empowering individuals to organise and scale various health initiatives for the community. 
+  img: images/FA5photo2.png
+  bg-color: bg-singpass
