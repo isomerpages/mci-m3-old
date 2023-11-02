@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Community of Success
-permalink: /community-of-success/home/
+permalink: /communityofsuccess/home/
 breadcrumb: Community of Success
 collection_name: communityofsuccess
 ---
