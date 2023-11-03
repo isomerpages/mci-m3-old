@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Community of Success
-permalink: /communityofsuccess/home/
-breadcrumb: Community of Success
-collection_name: communityofsuccess
+title: M³ Focus Areas
+permalink: /focus-areas/all/
+breadcrumb: M<sup>3</sup> Focus Areas
+collection_name: focus-areas
 ---
 
 ### **Community of Success**
