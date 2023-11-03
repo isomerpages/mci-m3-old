@@ -20,13 +20,13 @@ breadcrumb: Community of Success
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/empowering-and-mentoring-our-youths/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-empowering-thumb.jpg" alt="Empowering and Mentoring Our Youths">Education
+  <img src="/images/focus-area-empowering-thumb.jpg" alt="Empowering and Mentoring Our Youths">Social Development
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/employment-and-employability/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Social Development
+  <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Education
 </a>
 </div>
 
