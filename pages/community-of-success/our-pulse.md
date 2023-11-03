@@ -32,6 +32,6 @@ breadcrumb: Community of Success
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/community-of-success/our-pulse/arts-and-sports" class="project-link no-pdf-icon">
-  <img src="/images/NNM(295)1.jpg" alt="Arts & Sports">Arts & Sports
+  <img src="images/Community of Success/arts-and-sports-1.jpeg" alt="Arts & Sports">Arts & Sports
 </a>
 </div>
