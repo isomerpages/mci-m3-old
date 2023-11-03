@@ -7,7 +7,7 @@ breadcrumb: Community of Success
 ### **Our Pulse**
 <div class="focus-list row is-multiline">
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="/focus-areas/marriage-parenthood-and-early-childhood/" class="project-link no-pdf-icon">
+<a href="/community-of-success/our-pulse/language-and-culture" class="project-link no-pdf-icon">
   <img src="/images/focus-area-marriage-thumb.jpg" alt="Marriage, Parenthood and Early Childhood">Language & Culture
 </a>
 </div>
