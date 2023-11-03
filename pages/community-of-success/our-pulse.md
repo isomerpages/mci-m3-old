@@ -13,7 +13,7 @@ breadcrumb: Community of Success
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="/focus-areas/vulnerable-individuals-and-families/" class="project-link no-pdf-icon">
+<a href="/community-of-success/our-pulse/socio-religious" class="project-link no-pdf-icon">
   <img src="/images/focus-area-vulnerable-thumb.jpg" alt="Socio-Religious">Socio-Religious
 </a>
 </div>
@@ -32,6 +32,6 @@ breadcrumb: Community of Success
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/a-healthy-community-for-all/" class="project-link no-pdf-icon">
-  <img src="/images/NNM(295)1.jpg" alt="A Healthy Community for All">Arts & Sports
+  <img src="/images/NNM(295)1.jpg" alt="Arts & Sports">Arts & Sports
 </a>
 </div>
