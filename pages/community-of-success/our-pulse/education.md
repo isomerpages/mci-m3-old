@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Education
+title: Our Pulse
 permalink: /community-of-success/our-pulse/education
 breadcrumb: Community of Success
 ---
