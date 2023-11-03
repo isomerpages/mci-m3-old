@@ -51,13 +51,6 @@
     url: /m3-towns/jalan-besar/
   - title: M<sup><sup>3</sup></sup>@Toa Payoh
     url: /m3-towns/toa-payoh/
-- title: Community of Success
-  url: /communityofsuccess/home/
-  sub-links:
-  - title: Our Community
-    url: /communityofsuccess/our-community/
-  - title: Our Pulse
-    url: /communityofsuccess/our-pulse/
 - title: Media Centre
   url: /media-centre/
   sub-links:
@@ -73,7 +66,9 @@
   - title: "SGTeguhBersatu"
     url: /sgteguhbersatu/
   - title: "CiptaSama@M³"
-    url: /ciptasamam3/  
+    url: /ciptasamam3/
+  - title: Community of Success
+    url: /communityofsuccess/home/
 - title: Useful Links
   url: /useful-links/m3-at-wgs/
   sub-links:
