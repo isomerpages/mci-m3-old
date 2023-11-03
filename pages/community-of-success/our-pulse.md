@@ -14,28 +14,24 @@ breadcrumb: Community of Success
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/vulnerable-individuals-and-families/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-vulnerable-thumb.jpg" alt="Vulnerable Individuals and Families">Vulnerable Individuals and Families
+  <img src="/images/focus-area-vulnerable-thumb.jpg" alt="Vulnerable Individuals and Families">Social Development
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/empowering-and-mentoring-our-youths/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-empowering-thumb.jpg" alt="Empowering and Mentoring Our Youths">Empowering and Mentoring Our Youths
+  <img src="/images/focus-area-empowering-thumb.jpg" alt="Empowering and Mentoring Our Youths">Education
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/employment-and-employability/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Employment and Employability
+  <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Socio-Religious
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/a-healthy-community-for-all/" class="project-link no-pdf-icon">
-  <img src="/images/NNM(295)1.jpg" alt="A Healthy Community for All">A Healthy Community for All
+  <img src="/images/NNM(295)1.jpg" alt="A Healthy Community for All">Arts & Sports
 </a>
 </div>
-
-  <a href="/images/PDF/Media Factsheet-M³YEI22asof13 Jan.pdf" class="project-link no-pdf-icon" target="_blank">
-  <img src="/images/m3-infographic-eng-thumb.jpg" alt="M3 Infographic in English">M³ Factsheet
-</a>
