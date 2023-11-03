@@ -8,7 +8,7 @@ breadcrumb: Community of Success
 <div class="focus-list row is-multiline">
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/marriage-parenthood-and-early-childhood/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-marriage-thumb.jpg" alt="Marriage, Parenthood and Early Childhood">Marriage, Parenthood and Early Childhood
+  <img src="/images/focus-area-marriage-thumb.jpg" alt="Marriage, Parenthood and Early Childhood">Language & Culture
 </a>
 </div>
 
