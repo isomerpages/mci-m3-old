@@ -51,6 +51,13 @@
     url: /m3-towns/jalan-besar/
   - title: M<sup><sup>3</sup></sup>@Toa Payoh
     url: /m3-towns/toa-payoh/
+- title: Community of Success
+  url: /communityofsuccess/home/
+  sub-links:
+  - title: Our Community
+    url: /communityofsuccess/our-community/
+  - title: Our Pulse
+    url: /communityofsuccess/our-pulse/
 - title: Media Centre
   url: /media-centre/
   sub-links:
