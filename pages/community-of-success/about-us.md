@@ -1,3 +1,10 @@
+---
+layout: leftnav-page-content
+title: Community of Success
+permalink: /community-of-success/about-us
+breadcrumb: Community of Success
+---
+
 # Hero Banner
 hero-title: Building a Community of Success
 hero-subtitle: Character, Competency, Citizenry
