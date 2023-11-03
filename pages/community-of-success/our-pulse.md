@@ -31,7 +31,7 @@ breadcrumb: Community of Success
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="/focus-areas/a-healthy-community-for-all/" class="project-link no-pdf-icon">
+<a href="/community-of-success/our-pulse/arts-and-sports" class="project-link no-pdf-icon">
   <img src="/images/NNM(295)1.jpg" alt="Arts & Sports">Arts & Sports
 </a>
 </div>
