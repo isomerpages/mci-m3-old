@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Community of Success
 permalink: /communityofsuccess/home/
 breadcrumb: Community of success
