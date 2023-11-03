@@ -5,10 +5,7 @@ permalink: /community-of-success/about-us
 breadcrumb: Community of Success
 ---
 
-# Hero Banner
-hero-title: Building a Community of Success
-hero-subtitle: Character, Competency, Citizenry
-hero-banner: /images/community-of-success/about-us-singapore.jpg
+![Community of Success](/images/community-of-success/about-us-singapore.jpg)
 
 ### **About Us**
 Singapore's Malay/Muslim community makes up about 15% of the total population.  Being a minority Muslim community in a multi-religious and multi-racial society, we sit in a very unique position and has successfully thrived in many different areas. 
