@@ -14,7 +14,7 @@ breadcrumb: Community of Success
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/vulnerable-individuals-and-families/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-vulnerable-thumb.jpg" alt="Vulnerable Individuals and Families">Social Development
+  <img src="/images/focus-area-vulnerable-thumb.jpg" alt="Vulnerable Individuals and Families">Socio-Religious
 </a>
 </div>
 
@@ -26,7 +26,7 @@ breadcrumb: Community of Success
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/employment-and-employability/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Socio-Religious
+  <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Social Development
 </a>
 </div>
 
