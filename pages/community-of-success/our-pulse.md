@@ -8,25 +8,25 @@ breadcrumb: Community of Success
 <div class="focus-list row is-multiline">
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/community-of-success/our-pulse/language-and-culture" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-marriage-thumb.jpg" alt="Marriage, Parenthood and Early Childhood">Language & Culture
+  <img src="/images/focus-area-marriage-thumb.jpg" alt="Language & Culture">Language & Culture
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/focus-areas/vulnerable-individuals-and-families/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-vulnerable-thumb.jpg" alt="Vulnerable Individuals and Families">Socio-Religious
+  <img src="/images/focus-area-vulnerable-thumb.jpg" alt="Socio-Religious">Socio-Religious
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="/focus-areas/empowering-and-mentoring-our-youths/" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-empowering-thumb.jpg" alt="Empowering and Mentoring Our Youths">Social Development
+<a href="/community-of-success/our-pulse/social-development" class="project-link no-pdf-icon">
+  <img src="/images/focus-area-empowering-thumb.jpg" alt="Social Development">Social Development
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/community-of-success/our-pulse/education" class="project-link no-pdf-icon">
-  <img src="/images/focus-area-employment-thumb.jpg" alt="Employment and Employability">Education
+  <img src="/images/focus-area-employment-thumb.jpg" alt="Education">Education
 </a>
 </div>
 
