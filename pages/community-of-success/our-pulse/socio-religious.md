@@ -4,6 +4,9 @@ title: Our Pulse
 permalink: /community-of-success/our-pulse/socio-religious
 breadcrumb: Community of Success
 ---
+
+![Socio-Religious](/images/community-of-success/socio-religious-overview.png)
+
 ### **Socio-Religious**
 A Malay/Muslim community bound by strong spiritual resilience and togetherness.
 
