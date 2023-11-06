@@ -60,6 +60,8 @@ collections:
     output: true
   community-of-success:
     output: true
+  our-pulse:
+    output: true
 resources_name: media-centre
 
 no_contact: false
