@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: "#InspirasiSG"
-permalink: /useful-links/inspirasisg/
+permalink: /inspirasisg/
 breadcrumb: "#InspirasiSG"
 collection_name: inspirasisg
 ---
