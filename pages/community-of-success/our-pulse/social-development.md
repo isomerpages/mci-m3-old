@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Pulse
-permalink: /community-of-success/our-pulse/social-development
+permalink: /community-of-success/our-pulse/social-development/
 breadcrumb: Community of Success
 ---
 ### **Social Development**
