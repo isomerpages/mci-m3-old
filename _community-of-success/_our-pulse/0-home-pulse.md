@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Pulse
-permalink: /community-of-success/our-pulse
+permalink: /community-of-success/our-home-pulse
 breadcrumb: Community of Success
 ---
 ### **Our Pulse**
