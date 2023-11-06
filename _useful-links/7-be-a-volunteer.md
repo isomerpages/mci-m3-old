@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Be A Volunteer
-permalink: /be-a-volunteer/
+permalink: /useful-links/be-a-volunteer/
 breadcrumb: Be A Volunteer
 ---
 
