@@ -86,6 +86,5 @@
     url: /useful-links/lawyers-m3/
   - title: Be a Volunteer
     url:  /useful-link/be-a-volunteer/
-sub-links:   
-  - title: Contact Us
-    url: /contact-us/
+- title: Contact Us
+  url: /contact-us/
