@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Pulse
-permalink: /community-of-success/our-pulse/education
+permalink: /community-of-success/our-pulse/education/
 breadcrumb: Community of Success
 ---
 ### **Education**
