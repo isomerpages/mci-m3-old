@@ -58,6 +58,8 @@ collections:
     output: true  
   ciptasamam3:
     output: true
+  community-of-success:
+    output: true
 resources_name: media-centre
 
 no_contact: false
