@@ -8,7 +8,7 @@ breadcrumb: Community of Success
 <div class="focus-list row is-multiline">
 <div class="focus col is-one-third-desktop is-one-third-tablet">
 <a href="/community-of-success/our-pulse/language-and-culture" class="project-link no-pdf-icon">
-  <img src="/images/community-of-success/language-culture-1.jpeg" alt="Language & Culture">Language & Culture
+  <img src="/images/community-of-success/language-culture-thumb.jpeg" alt="Language & Culture">Language & Culture
 </a>
 </div>
 
