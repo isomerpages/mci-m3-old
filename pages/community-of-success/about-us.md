@@ -16,5 +16,7 @@ Despite being a minority group, we constantly punched above our weight in variou
 Underpinning these successes are the 3 core values of a Community of Success represented by the 3Cs – good <strong>Character</strong>, strong <strong>Competency</strong>, and active <strong>Citizenry</strong>. 
 The community embodies these core values in our everyday lives, in pursuit of living well with sound religious principles, ensuring that we remain competent and relevant in terms of skills, and lastly, contributing back not just to the community but also to the nation.
 
+![Community of Success](/images/community-of-success/our-values.png)
+
 ### **Our Values**
 What makes the Singapore Malay/Muslim community unique is that we embrace a positive and forward-looking vision of Islam that enables our community to thrive and actively contribute back to the country, one which is plural and contemporary. This mindset is especially critical for Muslim communities living in such secular and diverse social contexts where socio-religious challenges are increasingly more complex. Therefore, we believe in the vision of building a Muslim Community of Success that is underpinned by the 3Cs – good Character, strong Competency, and active Citizenry. These 3Cs enable the community to be more confident, independent, and civic-minded to look beyond just ourselves, but also the people around us.
