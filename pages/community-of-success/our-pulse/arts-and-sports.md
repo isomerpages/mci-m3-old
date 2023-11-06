@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Pulse
-permalink: /community-of-success/our-pulse/arts-and-sports
+permalink: /community-of-success/our-pulse/arts-and-sports/
 breadcrumb: Community of Success
 ---
 ### **Arts & Sports**
