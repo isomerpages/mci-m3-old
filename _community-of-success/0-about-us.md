@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Community of Success
 permalink: /community-of-success/about-us/
 breadcrumb: Community of Success
+collection: community-of-success
 ---
 
 ![Community of Success](/images/community-of-success/about-us-collage.png)
