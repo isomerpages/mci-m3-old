@@ -4,6 +4,9 @@ title: Our Pulse
 permalink: /community-of-success/our-pulse/language-and-culture
 breadcrumb: Community of Success
 ---
+
+![Language and Culture](/images/community-of-success/language-culture-overview.png)
+
 ### **Language & Culture**
 A Malay/Muslim community strongly defined by our national language and rich cultural heritage.
 
