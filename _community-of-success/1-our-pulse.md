@@ -5,6 +5,7 @@ permalink: /community-of-success/our-pulse/
 breadcrumb: Community of Success
 collection: community-of-success
 ---
+
 ### **Our Pulse**
 <div class="focus-list row is-multiline">
 <div class="focus col is-one-third-desktop is-one-third-tablet">
