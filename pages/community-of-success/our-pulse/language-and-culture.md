@@ -12,6 +12,8 @@ A Malay/Muslim community strongly defined by our national language and rich cult
 
 In an increasingly globalised world, Malay/Muslim Singaporeans have maintained a strong cultural identity by being rooted in our traditions, cultural rites, and vibrant language. To preserve and honour the significance of Bahasa Melayu, annual campaigns such as Bulan Bahasa (Malay Language Month) and Malay CultureFest are organised annually to promote usage of the Malay language and foster deeper understanding of Malay culture.
 
+![Hari Raya Light-Up](/images/community-of-success/language-culture-hrlu.jpeg)
+
 ### **Hari Raya Light-Up**
 The Hari Raya Light-Up was launched by Wisma Geylang Serai (WGS) to celebrate Hari Raya festivities by putting up vibrant street lightings and decorations along Geylang Road and Sims Avenue.
 
