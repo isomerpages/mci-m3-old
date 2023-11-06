@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Pulse
-permalink: /community-of-success/our-pulse/socio-religious
+permalink: /community-of-success/our-pulse/socio-religious/
 breadcrumb: Community of Success
 ---
 
