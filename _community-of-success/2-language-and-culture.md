@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Language & Culture
 permalink: /community-of-success/language-and-culture/
-third_nav_title: Community of Success
 breadcrumb: Community of Success
-collection: community-of-success
+title: Community of Success
+collection_name: community-of-success
 ---
 
 ![Language and Culture](/images/community-of-success/language-culture-overview.png)
