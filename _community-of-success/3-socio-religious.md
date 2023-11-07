@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 permalink: /community-of-success/socio-religious/
 breadcrumb: Community of Success
-title: Community of Success
+title: Socio-Religious
 collection_name: community-of-success
 ---
 
