@@ -6,6 +6,8 @@ title: Social Development
 collection_name: community-of-success
 ---
 
+![Social Development](/images/community-of-success/social-development-overview.png)
+
 ### **Social Development**
 A Malay/Muslim community exemplifying the spirit of gotong royong.
 
