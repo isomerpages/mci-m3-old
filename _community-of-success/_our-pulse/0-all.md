@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-permalink: /community-of-success/our-pulse/
+permalink: /community-of-success/our-pulse/all/
 breadcrumb: Community of Success
 title: Our Pulse
 third_nav_title: Community of Success
