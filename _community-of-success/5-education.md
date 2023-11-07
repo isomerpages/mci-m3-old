@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Education
-permalink: /community-of-success/our-pulse/education/
-third_nav_title: Our Pulse
+permalink: /community-of-success/education/
 breadcrumb: Community of Success
-collection: community-of-success
+title: Community of Success
+collection_name: community-of-success
 ---
 
 ### **Education**
