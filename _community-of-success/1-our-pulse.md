@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 permalink: /community-of-success/our-pulse/
 breadcrumb: Community of Success
-title: Our Pulse
+second_nav_title: Our Pulse
 collection_name: community-of-success
 ---
 
