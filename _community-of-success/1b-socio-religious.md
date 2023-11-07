@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Our Pulse
+title: Socio-Religious
 permalink: /community-of-success/our-pulse/socio-religious/
-third_nav_title: Socio-Religious
+third_nav_title: Our Pulse
 breadcrumb: Community of Success
 collection: community-of-success
 ---
