@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Social Development
-permalink: /community-of-success/our-pulse/social-development/
-third_nav_title: Our Pulse
+permalink: /community-of-success/social-development/
 breadcrumb: Community of Success
-collection: community-of-success
+title: Community of Success
+collection_name: community-of-success
 ---
 
 ### **Social Development**
