@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 permalink: /community-of-success/arts-and-sports/
 breadcrumb: Community of Success
-title: Community of Success
+title: Arts & Sports
 collection_name: community-of-success
 ---
 
