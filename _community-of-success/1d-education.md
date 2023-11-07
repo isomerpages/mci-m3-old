@@ -4,7 +4,7 @@ title: Education
 permalink: /community-of-success/our-pulse/education/
 third_nav_title: Our Pulse
 breadcrumb: Community of Success
-collection: community-of-success
+collection: our-pulse
 ---
 
 ### **Education**
