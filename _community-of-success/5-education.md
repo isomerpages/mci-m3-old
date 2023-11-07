@@ -6,6 +6,8 @@ title: Education
 collection_name: community-of-success
 ---
 
+![Education](/images/community-of-success/education-overview.png)
+
 ### **Education**
 A future-ready Malay/Muslim community, empowered towards a brighter future.
 
