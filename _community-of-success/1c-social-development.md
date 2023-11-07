@@ -1,11 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Our Pulse
+title: Social Development
 permalink: /community-of-success/our-pulse/social-development/
-third_nav_title: Social Development
+third_nav_title: Our Pulse
 breadcrumb: Community of Success
 collection: community-of-success
 ---
+
 ### **Social Development**
 A Malay/Muslim community exemplifying the spirit of gotong royong.
 
