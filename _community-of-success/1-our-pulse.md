@@ -16,25 +16,25 @@ collection_name: community-of-success
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="/community-of-success/our-pulse/socio-religious/" class="project-link no-pdf-icon">
+<a href="/community-of-success/socio-religious/" class="project-link no-pdf-icon">
   <img src="/images/community-of-success/socio-religious-thumb.jpg" alt="Socio-Religious">Socio-Religious
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="/community-of-success/our-pulse/social-development/" class="project-link no-pdf-icon">
+<a href="/community-of-success/social-development/" class="project-link no-pdf-icon">
   <img src="/images/community-of-success/social-development-thumb.jpg" alt="Social Development">Social Development
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="/community-of-success/our-pulse/education/" class="project-link no-pdf-icon">
+<a href="/community-of-success/education/" class="project-link no-pdf-icon">
   <img src="/images/community-of-success/education-thumb.jpg" alt="Education">Education
 </a>
 </div>
 
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="/community-of-success/our-pulse/arts-and-sports/" class="project-link no-pdf-icon">
+<a href="/community-of-success/arts-and-sports/" class="project-link no-pdf-icon">
   <img src="/images/community-of-success/arts-sports-thumb.jpg" alt="Arts & Sports">Arts & Sports
 </a>
 </div>
