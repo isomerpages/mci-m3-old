@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 permalink: /community-of-success/education/
 breadcrumb: Community of Success
-title: Community of Success
+title: Education
 collection_name: community-of-success
 ---
 
