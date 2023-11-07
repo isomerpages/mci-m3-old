@@ -4,7 +4,7 @@ title: Arts & Sports
 permalink: /community-of-success/our-pulse/arts-and-sports/
 third_nav_title: Our Pulse
 breadcrumb: Community of Success
-collection: community-of-success
+collection: our-pulse
 ---
 
 ### **Arts & Sports**
