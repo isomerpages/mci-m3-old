@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Socio-Religious
-permalink: /community-of-success/our-pulse/socio-religious/
-third_nav_title: Our Pulse
+permalink: /community-of-success/socio-religious/
 breadcrumb: Community of Success
-collection: community-of-success
+title: Community of Success
+collection_name: community-of-success
 ---
 
 ![Socio-Religious](/images/community-of-success/socio-religious-overview.png)
