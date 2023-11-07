@@ -1,10 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Our Pulse
+title: Education
 permalink: /community-of-success/our-pulse/education/
+third_nav_title: Our Pulse
 breadcrumb: Community of Success
 collection: community-of-success
 ---
+
 ### **Education**
 A future-ready Malay/Muslim community, empowered towards a brighter future.
 
