@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 permalink: /community-of-success/social-development/
 breadcrumb: Community of Success
-title: Community of Success
+title: Social Development
 collection_name: community-of-success
 ---
 
