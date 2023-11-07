@@ -4,7 +4,7 @@ title: Socio-Religious
 permalink: /community-of-success/our-pulse/socio-religious/
 third_nav_title: Our Pulse
 breadcrumb: Community of Success
-collection: community-of-success
+collection: our-pulse
 ---
 
 ![Socio-Religious](/images/community-of-success/socio-religious-overview.png)
