@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Our Pulse
 permalink: /community-of-success/our-pulse/social-development/
-third_nav_title: Initiative A
+third_nav_title: Social Development
 breadcrumb: Community of Success
 collection: community-of-success
 ---
