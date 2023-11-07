@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Language & Culture
 permalink: /community-of-success/our-pulse/language-and-culture/
-third_nav_title: Our Pulse
+fourth_nav_title: Our Pulse
 breadcrumb: Community of Success
 collection: community-of-success
 ---
