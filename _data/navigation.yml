@@ -4,6 +4,17 @@
 #                                #
 ##################################
 
+- title: Community of Success
+  url: /community-of-success/home/
+  sub-links:
+  - title: Our Pulse
+    url: /community-of-success/our-pulse/
+  - title: "#InspirasiSG"
+    url: /inspirasisg/
+  - title: "SGTeguhBersatu"
+    url: /sgteguhbersatu/
+  - title: "CiptaSama@M³"
+    url: /ciptasamam3/
 - title: Who We Are
   url: /who-we-are/about-m3/
   sub-links:
@@ -56,17 +67,6 @@
   sub-links:
   - title: Speeches and Press Releases
     url: /media-centre/speeches-and-press-releases/
-- title: Community of Success
-  url: /community-of-success/home/
-  sub-links:
-  - title: Our Pulse
-    url: /community-of-success/our-pulse/
-  - title: "#InspirasiSG"
-    url: /inspirasisg/
-  - title: "SGTeguhBersatu"
-    url: /sgteguhbersatu/
-  - title: "CiptaSama@M³"
-    url: /ciptasamam3/
 - title: Useful Links
   url: /useful-links/m3-at-wgs/
   sub-links:
