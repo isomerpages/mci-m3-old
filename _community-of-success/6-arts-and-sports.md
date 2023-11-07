@@ -6,6 +6,8 @@ title: Arts & Sports
 collection_name: community-of-success
 ---
 
+![Arts & Sports](/images/community-of-success/arts-and-sports-overview.png)
+
 ### **Arts & Sports**
 A vibrant arts and sports scene within Singapore’s Malay/Muslim community.
 
