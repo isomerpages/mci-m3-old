@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Arts & Sports
-permalink: /community-of-success/our-pulse/arts-and-sports/
-third_nav_title: Our Pulse
+permalink: /community-of-success/arts-and-sports/
 breadcrumb: Community of Success
-collection: community-of-success
+title: Community of Success
+collection_name: community-of-success
 ---
 
 ### **Arts & Sports**
