@@ -4,7 +4,7 @@ title: Language & Culture
 permalink: /community-of-success/our-pulse/language-and-culture/
 third_nav_title: Our Pulse
 breadcrumb: Community of Success
-collection: community-of-success
+collection: our-pulse
 ---
 
 ![Language and Culture](/images/community-of-success/language-culture-overview.png)
