@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 permalink: /community-of-success/language-and-culture/
 breadcrumb: Community of Success
-title: Community of Success
+title: Language & Culture
 collection_name: community-of-success
 ---
 
