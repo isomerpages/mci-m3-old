@@ -26,8 +26,14 @@ The theme for 2023 - "Masyarakat Gemilang - Community of Success" - was aimed to
 First organised by WGS in 2022, the GeylangGang Dikir is a group singing competition launched in celebration of the Malay Language month (Bulan Bahasa). Following the successes of its inaugural event last year and its feature in National Day Rally, GeylangGang Dikir 2023 returned this year to take everyone on a journey back in time to commemorate the humble beginnings of 'Dikir Singapura'.
 
 ### **Related Content**
+<div class="focus-list row is-multiline">
+<div class="focus col is-one-third-desktop is-one-third-tablet">
+<a href="[/community-of-success/language-and-culture/](https://www.instagram.com/bulanbahasa)" class="project-link no-pdf-icon">
+  <img src="/images/community-of-success/language-culture-bulan-bahasa-thumb.jpg" alt="Bulan Bahasa 2023">Bulan Bahasa 2023
+This year's theme of "Cita, Citra, Cinta Bahasa Kita" reflects the dynamism of the Malay Language as we move towards a new era.
+</a>
+</div>
 
-![Bulan Bahasa](/images/community-of-success/language-culture-bulan-bahasa-thumb.jpg) 
 **Bulan Bahasa 2023** - This year's theme of "Cita, Citra, Cinta Bahasa Kita" reflects the dynamism of the Malay Language as we move towards a new era. Click [here](https://www.instagram.com/bulanbahasa) to find out more!
 
 **Duta Bahasa 2023**
