@@ -28,7 +28,7 @@ First organised by WGS in 2022, the GeylangGang Dikir is a group singing competi
 ### **Related Content**
 <div class="focus-list row is-multiline">
 <div class="focus col is-one-third-desktop is-one-third-tablet">
-<a href="[/community-of-success/language-and-culture/](https://www.instagram.com/bulanbahasa)" class="project-link no-pdf-icon">
+<a href="(https://www.instagram.com/bulanbahasa)" class="project-link no-pdf-icon">
   <img src="/images/community-of-success/language-culture-bulan-bahasa-thumb.jpg" alt="Bulan Bahasa 2023">Bulan Bahasa 2023
 This year's theme of "Cita, Citra, Cinta Bahasa Kita" reflects the dynamism of the Malay Language as we move towards a new era.
 </a>
